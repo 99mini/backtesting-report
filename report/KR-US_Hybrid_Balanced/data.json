@@ -1,17 +1,21 @@
 {
   "metadata": {
     "portfolio_name": "KR-US Hybrid Balanced",
+    "strategy_description": {
+      "en": "Hybrid mix of Korean KODEX 200 and US Tech for currency and growth benefits.",
+      "ko": "한국 KODEX 200과 미국 기술주를 섞어 환노출 효과와 성장을 동시에 노리는 하이브리드 전략"
+    },
     "currency": "USD",
     "initial_capital": 100000.0,
-    "generation_time": "2026-03-15 20:07:32"
+    "generation_time": "2026-03-15 23:14:01"
   },
   "metrics": {
     "portfolio": {
-      "total": 2.402693931799828,
+      "total": 2.4026939317998237,
       "cagr": 0.12566070471403235,
-      "mdd": -0.23833453662381188,
-      "sharpe": 0.9944147149197314,
-      "vol": 0.12720328745471365
+      "mdd": -0.23833453662381254,
+      "sharpe": 0.994414714919731,
+      "vol": 0.12720328745471368
     },
     "benchmark": {
       "total": 2.8429597312007515,
@@ -133,8 +137,8 @@
       },
       "IVV": {
         "StartWeight": 0.3,
-        "Return": 0.0025360359775317143,
-        "EndWeight": 0.29446784592356456
+        "Return": 0.0025360359775319363,
+        "EndWeight": 0.2944678459235646
       },
       "QQQ": {
         "StartWeight": 0.20000000000000004,
@@ -157,251 +161,251 @@
     {
       "Period": "2016-07",
       "RebalanceDate": "2016-07-01",
-      "StartValue": 104424.93040319903,
-      "CashRemaining": 8.526512829121202e-14,
+      "StartValue": 104424.93040319905,
+      "CashRemaining": 1.8189894035458565e-12,
       "069500.KS": {
-        "StartWeight": 0.30000000000000004,
+        "StartWeight": 0.3,
         "Return": 0.020263664549552196,
         "EndWeight": 0.2964392462711137
       },
       "IVV": {
         "StartWeight": 0.3,
-        "Return": 0.037386993794587875,
-        "EndWeight": 0.3014144570832046
+        "Return": 0.0373869937945881,
+        "EndWeight": 0.3014144570832047
       },
       "QQQ": {
         "StartWeight": 0.2,
         "Return": 0.07150859226584516,
-        "EndWeight": 0.20755236154538306
+        "EndWeight": 0.2075523615453831
       },
       "SHY": {
-        "StartWeight": 0.15000000000000002,
+        "StartWeight": 0.15,
         "Return": -0.0004695245566209705,
         "EndWeight": 0.14520759243947987
       },
       "GLD": {
-        "StartWeight": 0.05000000000000001,
+        "StartWeight": 0.05,
         "Return": 0.019846560311608696,
         "EndWeight": 0.04938634266081879
       },
       "EndValue": 107820.70542649497,
-      "TotalReturn": 0.03251881528849854
+      "TotalReturn": 0.032518815288498315
     },
     {
       "Period": "2016-08",
       "RebalanceDate": "2016-08-01",
-      "StartValue": 107820.70542649497,
-      "CashRemaining": 1.2789769243681803e-13,
+      "StartValue": 107820.70542649498,
+      "CashRemaining": 1.2732925824820995e-11,
       "069500.KS": {
-        "StartWeight": 0.3,
-        "Return": 0.027507598792786192,
-        "EndWeight": 0.305575859193184
+        "StartWeight": 0.29999999999999993,
+        "Return": 0.027507598792786414,
+        "EndWeight": 0.3055758591931839
       },
       "IVV": {
-        "StartWeight": 0.3,
-        "Return": 0.0012822424577787483,
-        "EndWeight": 0.2977765633007422
+        "StartWeight": 0.29999999999999993,
+        "Return": 0.0012822424577785263,
+        "EndWeight": 0.29777656330074204
       },
       "QQQ": {
-        "StartWeight": 0.2,
+        "StartWeight": 0.19999999999999998,
         "Return": 0.010500649826854058,
-        "EndWeight": 0.20034538245679887
+        "EndWeight": 0.20034538245679884
       },
       "SHY": {
-        "StartWeight": 0.15,
-        "Return": -0.0023354125146809457,
+        "StartWeight": 0.14999999999999997,
+        "Return": -0.0023354125146807236,
         "EndWeight": 0.14835034498315194
       },
       "GLD": {
-        "StartWeight": 0.05,
+        "StartWeight": 0.049999999999999996,
         "Return": -0.032563165509125636,
-        "EndWeight": 0.04795185006612309
+        "EndWeight": 0.04795185006612308
       },
-      "EndValue": 108765.06517114949,
+      "EndValue": 108765.0651711495,
       "TotalReturn": 0.008758612187881765
     },
     {
       "Period": "2016-09",
       "RebalanceDate": "2016-09-01",
-      "StartValue": 108765.06517114952,
-      "CashRemaining": 7.389644451905042e-12,
+      "StartValue": 108765.0651711495,
+      "CashRemaining": -2.842170943040401e-14,
       "069500.KS": {
-        "StartWeight": 0.29999999999999993,
+        "StartWeight": 0.3,
         "Return": 0.02854319950635653,
-        "EndWeight": 0.3044381776718682
+        "EndWeight": 0.30443817767186826
       },
       "IVV": {
         "StartWeight": 0.29999999999999993,
-        "Return": 6.6544943848168e-05,
-        "EndWeight": 0.29600938165691987
+        "Return": 6.654494384861209e-05,
+        "EndWeight": 0.29600938165692
       },
       "QQQ": {
-        "StartWeight": 0.19999999999999996,
+        "StartWeight": 0.2,
         "Return": 0.022135481154319514,
-        "EndWeight": 0.20169437275668267
+        "EndWeight": 0.20169437275668275
       },
       "SHY": {
         "StartWeight": 0.14999999999999997,
-        "Return": 0.0012947145183777042,
-        "EndWeight": 0.14818645359123028
+        "Return": 0.0012947145183779263,
+        "EndWeight": 0.1481864535912303
       },
       "GLD": {
         "StartWeight": 0.04999999999999999,
         "Return": 0.006892135107908315,
         "EndWeight": 0.04967161432329864
       },
-      "EndValue": 110238.70492966974,
+      "EndValue": 110238.70492966972,
       "TotalReturn": 0.013548833499077428
     },
     {
       "Period": "2016-10",
       "RebalanceDate": "2016-10-03",
-      "StartValue": 110238.70492966971,
+      "StartValue": 110238.70492966972,
       "CashRemaining": -2.842170943040401e-14,
       "069500.KS": {
-        "StartWeight": 0.3000000000000001,
+        "StartWeight": 0.3,
         "Return": -0.03982854907796263,
-        "EndWeight": 0.2944541049249191
+        "EndWeight": 0.29445410492491897
       },
       "IVV": {
-        "StartWeight": 0.2999999999999999,
-        "Return": -0.017788060334115285,
-        "EndWeight": 0.30121322318337695
+        "StartWeight": 0.29999999999999993,
+        "Return": -0.017788060334115063,
+        "EndWeight": 0.30121322318337707
       },
       "QQQ": {
-        "StartWeight": 0.20000000000000007,
+        "StartWeight": 0.2,
         "Return": -0.014572101796640813,
-        "EndWeight": 0.20146630372098318
+        "EndWeight": 0.20146630372098315
       },
       "SHY": {
-        "StartWeight": 0.14999999999999994,
+        "StartWeight": 0.14999999999999997,
         "Return": -0.00048226267984630145,
-        "EndWeight": 0.15326018098984448
+        "EndWeight": 0.1532601809898445
       },
       "GLD": {
-        "StartWeight": 0.05,
+        "StartWeight": 0.049999999999999996,
         "Return": -0.0294491958469959,
         "EndWeight": 0.04960618718087633
       },
       "EndValue": 107841.65221986991,
-      "TotalReturn": -0.021744202377278254
+      "TotalReturn": -0.021744202377278365
     },
     {
       "Period": "2016-11",
       "RebalanceDate": "2016-11-01",
-      "StartValue": 107841.65221986991,
-      "CashRemaining": 0.0,
+      "StartValue": 107841.65221986992,
+      "CashRemaining": 7.275957614183426e-12,
       "069500.KS": {
-        "StartWeight": 0.3,
+        "StartWeight": 0.29999999999999993,
         "Return": -0.02496533303548476,
-        "EndWeight": 0.29265509922165356
+        "EndWeight": 0.2926550992216535
       },
       "IVV": {
-        "StartWeight": 0.3,
-        "Return": 0.036688532644973515,
-        "EndWeight": 0.3111604086116116
+        "StartWeight": 0.29999999999999993,
+        "Return": 0.03668853264497374,
+        "EndWeight": 0.31116040861161165
       },
       "QQQ": {
-        "StartWeight": 0.2,
+        "StartWeight": 0.19999999999999998,
         "Return": 0.004359342339576022,
-        "EndWeight": 0.20097123582395357
+        "EndWeight": 0.20097123582395354
       },
       "SHY": {
-        "StartWeight": 0.15,
+        "StartWeight": 0.14999999999999997,
         "Return": -0.004699858286633218,
-        "EndWeight": 0.14936887456282202
+        "EndWeight": 0.149368874562822
       },
       "GLD": {
-        "StartWeight": 0.05,
+        "StartWeight": 0.049999999999999996,
         "Return": -0.0835657063915729,
-        "EndWeight": 0.0458443817799593
+        "EndWeight": 0.045844381779959295
       },
-      "EndValue": 107788.33145579162,
+      "EndValue": 107788.33145579163,
       "TotalReturn": -0.000494435711811847
     },
     {
       "Period": "2016-12",
       "RebalanceDate": "2016-12-01",
-      "StartValue": 107788.33145579162,
-      "CashRemaining": 8.185452315956354e-12,
+      "StartValue": 107788.33145579163,
+      "CashRemaining": 4.547473508864641e-12,
       "069500.KS": {
         "StartWeight": 0.3,
         "Return": 0.0029037544242804803,
-        "EndWeight": 0.29827116983445173
+        "EndWeight": 0.29827116983445184
       },
       "IVV": {
         "StartWeight": 0.3,
-        "Return": 0.02143408117775447,
-        "EndWeight": 0.30378222930929255
+        "Return": 0.021434081177754027,
+        "EndWeight": 0.3037822293092925
       },
       "QQQ": {
-        "StartWeight": 0.20000000000000004,
+        "StartWeight": 0.2,
         "Return": 0.011322099661067453,
-        "EndWeight": 0.20051656629703393
+        "EndWeight": 0.20051656629703396
       },
       "SHY": {
         "StartWeight": 0.15,
         "Return": 0.0007231852651439219,
-        "EndWeight": 0.1488113260284086
+        "EndWeight": 0.14881132602840866
       },
       "GLD": {
-        "StartWeight": 0.05000000000000001,
+        "StartWeight": 0.05,
         "Return": -0.01914988268141793,
-        "EndWeight": 0.04861870853081298
+        "EndWeight": 0.04861870853081299
       },
-      "EndValue": 108727.89585410606,
-      "TotalReturn": 0.008716754268524918
+      "EndValue": 108727.89585410604,
+      "TotalReturn": 0.008716754268524474
     },
     {
       "Period": "2017-01",
       "RebalanceDate": "2017-01-02",
-      "StartValue": 108727.89585410604,
-      "CashRemaining": 0.0,
+      "StartValue": 108727.89585410606,
+      "CashRemaining": 3.637978807091713e-12,
       "069500.KS": {
-        "StartWeight": 0.3,
-        "Return": 0.07047434198349811,
+        "StartWeight": 0.29999999999999993,
+        "Return": 0.07047434198349833,
         "EndWeight": 0.3089256795296486
       },
       "IVV": {
-        "StartWeight": 0.30000000000000004,
-        "Return": 0.017511649136557894,
-        "EndWeight": 0.29364130022622276
+        "StartWeight": 0.29999999999999993,
+        "Return": 0.017511649136558116,
+        "EndWeight": 0.2936413002262227
       },
       "QQQ": {
-        "StartWeight": 0.20000000000000004,
+        "StartWeight": 0.19999999999999998,
         "Return": 0.051401152133510486,
         "EndWeight": 0.20228092827164482
       },
       "SHY": {
         "StartWeight": 0.14999999999999997,
         "Return": 0.0010658185683596333,
-        "EndWeight": 0.1444476182783191
+        "EndWeight": 0.14444761827831915
       },
       "GLD": {
-        "StartWeight": 0.049999999999999975,
-        "Return": 0.054192157725845735,
-        "EndWeight": 0.050704473694164684
+        "StartWeight": 0.049999999999999996,
+        "Return": 0.05419215772584596,
+        "EndWeight": 0.05070447369416473
       },
-      "EndValue": 113027.5957766445,
-      "TotalReturn": 0.0395455084342653
+      "EndValue": 113027.59577664449,
+      "TotalReturn": 0.039545508434265075
     },
     {
       "Period": "2017-02",
       "RebalanceDate": "2017-02-01",
       "StartValue": 113027.5957766445,
-      "CashRemaining": 0.0,
+      "CashRemaining": 9.094947017729282e-13,
       "069500.KS": {
         "StartWeight": 0.3,
         "Return": 0.031082767279751344,
-        "EndWeight": 0.29983581842135554
+        "EndWeight": 0.2998358184213556
       },
       "IVV": {
         "StartWeight": 0.3,
         "Return": 0.0397499329765052,
-        "EndWeight": 0.3023562045654628
+        "EndWeight": 0.30235620456546286
       },
       "QQQ": {
-        "StartWeight": 0.20000000000000004,
+        "StartWeight": 0.19999999999999998,
         "Return": 0.04375070943954662,
         "EndWeight": 0.2023464123501458
       },
@@ -411,18 +415,18 @@
         "EndWeight": 0.14545185553794818
       },
       "GLD": {
-        "StartWeight": 0.05000000000000001,
+        "StartWeight": 0.049999999999999996,
         "Return": 0.03184768678480654,
         "EndWeight": 0.05000970912508768
       },
-      "EndValue": 116604.62066802147,
-      "TotalReturn": 0.031647358919724144
+      "EndValue": 116604.62066802145,
+      "TotalReturn": 0.03164735891972392
     },
     {
       "Period": "2017-03",
       "RebalanceDate": "2017-03-01",
       "StartValue": 116604.62066802147,
-      "CashRemaining": 1.000444171950221e-11,
+      "CashRemaining": 1.0913936421275139e-11,
       "069500.KS": {
         "StartWeight": 0.3,
         "Return": 0.048939138215572386,
@@ -430,211 +434,211 @@
       },
       "IVV": {
         "StartWeight": 0.3,
-        "Return": 0.0011755867774450035,
-        "EndWeight": 0.29476099261173655
+        "Return": 0.0011755867774447815,
+        "EndWeight": 0.2947609926117365
       },
       "QQQ": {
-        "StartWeight": 0.2,
+        "StartWeight": 0.19999999999999998,
         "Return": 0.020268739936665225,
         "EndWeight": 0.2002548673687737
       },
       "SHY": {
         "StartWeight": 0.15,
         "Return": 0.0006395758910864302,
-        "EndWeight": 0.1473015915148404
+        "EndWeight": 0.14730159151484043
       },
       "GLD": {
-        "StartWeight": 0.05,
-        "Return": -0.004277464747725834,
+        "StartWeight": 0.049999999999999996,
+        "Return": -0.004277464747725612,
         "EndWeight": 0.04885925551473361
       },
-      "EndValue": 118816.63698158492,
+      "EndValue": 118816.6369815849,
       "TotalReturn": 0.018970228631514985
     },
     {
       "Period": "2017-04",
       "RebalanceDate": "2017-04-03",
-      "StartValue": 118816.63698158492,
-      "CashRemaining": 0.0,
+      "StartValue": 118816.6369815849,
+      "CashRemaining": 8.185452315956354e-12,
       "069500.KS": {
         "StartWeight": 0.3,
         "Return": 0.009118254938042192,
-        "EndWeight": 0.29907813166237557
+        "EndWeight": 0.2990781316623755
       },
       "IVV": {
         "StartWeight": 0.3,
-        "Return": 0.009651490983687339,
-        "EndWeight": 0.2992361698699753
+        "Return": 0.009651490983687117,
+        "EndWeight": 0.2992361698699752
       },
       "QQQ": {
         "StartWeight": 0.2,
         "Return": 0.027269535021019253,
-        "EndWeight": 0.20297182003155637
+        "EndWeight": 0.20297182003155634
       },
       "SHY": {
         "StartWeight": 0.15,
         "Return": 0.0018701475297573378,
-        "EndWeight": 0.14846498436890607
+        "EndWeight": 0.14846498436890604
       },
       "GLD": {
-        "StartWeight": 0.049999999999999996,
+        "StartWeight": 0.05,
         "Return": 0.017267481479825264,
         "EndWeight": 0.05024889406718677
       },
       "EndValue": 120269.61319641085,
-      "TotalReturn": 0.01222872698417743
+      "TotalReturn": 0.012228726984177651
     },
     {
       "Period": "2017-05",
       "RebalanceDate": "2017-05-01",
-      "StartValue": 120269.61319641086,
-      "CashRemaining": 9.094947017729282e-12,
+      "StartValue": 120269.61319641085,
+      "CashRemaining": 0.0,
       "069500.KS": {
-        "StartWeight": 0.29999999999999993,
+        "StartWeight": 0.3,
         "Return": 0.027202333791592537,
-        "EndWeight": 0.3020632677851482
+        "EndWeight": 0.30206326778514836
       },
       "IVV": {
-        "StartWeight": 0.29999999999999993,
-        "Return": 0.013942283612230932,
-        "EndWeight": 0.29816396386379856
+        "StartWeight": 0.3,
+        "Return": 0.013942283612230044,
+        "EndWeight": 0.2981639638637985
       },
       "QQQ": {
         "StartWeight": 0.2,
         "Return": 0.03897366878263164,
-        "EndWeight": 0.20368319606958082
+        "EndWeight": 0.20368319606958094
       },
       "SHY": {
-        "StartWeight": 0.14999999999999997,
+        "StartWeight": 0.14999999999999994,
         "Return": 0.0007328299355382484,
         "EndWeight": 0.14713976927720732
       },
       "GLD": {
         "StartWeight": 0.05,
         "Return": -0.0012419798017193617,
-        "EndWeight": 0.04894980300426491
+        "EndWeight": 0.048949803004264936
       },
-      "EndValue": 122697.3689307743,
-      "TotalReturn": 0.020185944477918216
+      "EndValue": 122697.36893077425,
+      "TotalReturn": 0.020185944477917772
     },
     {
       "Period": "2017-06",
       "RebalanceDate": "2017-06-01",
-      "StartValue": 122697.3689307743,
-      "CashRemaining": 2.842170943040401e-14,
+      "StartValue": 122697.36893077425,
+      "CashRemaining": 9.094947017729282e-13,
       "069500.KS": {
         "StartWeight": 0.3,
         "Return": -0.0016426549012952263,
-        "EndWeight": 0.30080734217844457
+        "EndWeight": 0.3008073421784445
       },
       "IVV": {
         "StartWeight": 0.3,
-        "Return": 0.006670672814600431,
+        "Return": 0.006670672814600653,
         "EndWeight": 0.3033121667556903
       },
       "QQQ": {
         "StartWeight": 0.2,
-        "Return": -0.023179122894994575,
-        "EndWeight": 0.19621223687684905
+        "Return": -0.023179122894994464,
+        "EndWeight": 0.196212236876849
       },
       "SHY": {
-        "StartWeight": 0.14999999999999997,
+        "StartWeight": 0.15,
         "Return": -0.0007798490219228515,
         "EndWeight": 0.1505336537776174
       },
       "GLD": {
-        "StartWeight": 0.04999999999999999,
-        "Return": -0.02155534773928125,
-        "EndWeight": 0.04913460041139883
+        "StartWeight": 0.05,
+        "Return": -0.02155534773928114,
+        "EndWeight": 0.04913460041139884
       },
-      "EndValue": 122167.05078660345,
-      "TotalReturn": -0.004322163945259971
+      "EndValue": 122167.05078660342,
+      "TotalReturn": -0.004322163945259749
     },
     {
       "Period": "2017-07",
       "RebalanceDate": "2017-07-03",
-      "StartValue": 122167.05078660346,
-      "CashRemaining": 2.546585164964199e-11,
+      "StartValue": 122167.05078660343,
+      "CashRemaining": 1.1823431123048067e-11,
       "069500.KS": {
         "StartWeight": 0.29999999999999993,
         "Return": 0.023452525756682885,
-        "EndWeight": 0.30018609742374286
+        "EndWeight": 0.3001860974237429
       },
       "IVV": {
         "StartWeight": 0.29999999999999993,
-        "Return": 0.02074699622005305,
-        "EndWeight": 0.29939254585918434
+        "Return": 0.020746996220052827,
+        "EndWeight": 0.2993925458591844
       },
       "QQQ": {
-        "StartWeight": 0.19999999999999998,
+        "StartWeight": 0.2,
         "Return": 0.04061308705050126,
-        "EndWeight": 0.20347961022019356
+        "EndWeight": 0.20347961022019362
       },
       "SHY": {
         "StartWeight": 0.14999999999999997,
         "Return": 0.0018599154928815587,
-        "EndWeight": 0.14692641359927053
+        "EndWeight": 0.14692641359927056
       },
       "GLD": {
-        "StartWeight": 0.049999999999999996,
+        "StartWeight": 0.05,
         "Return": 0.02313170169958667,
-        "EndWeight": 0.05001533289760844
+        "EndWeight": 0.050015332897608455
       },
-      "EndValue": 124954.66422147333,
-      "TotalReturn": 0.022818046412032666
+      "EndValue": 124954.66422147327,
+      "TotalReturn": 0.022818046412032444
     },
     {
       "Period": "2017-08",
       "RebalanceDate": "2017-08-01",
-      "StartValue": 124954.66422147331,
-      "CashRemaining": 0.0,
+      "StartValue": 124954.66422147327,
+      "CashRemaining": 1.2732925824820995e-11,
       "069500.KS": {
-        "StartWeight": 0.30000000000000004,
+        "StartWeight": 0.3,
         "Return": -0.04445016325653761,
-        "EndWeight": 0.28838489181079924
+        "EndWeight": 0.2883848918107991
       },
       "IVV": {
-        "StartWeight": 0.30000000000000004,
+        "StartWeight": 0.3,
         "Return": 0.002736628677089792,
-        "EndWeight": 0.30262586320068935
+        "EndWeight": 0.3026258632006893
       },
       "QQQ": {
-        "StartWeight": 0.20000000000000004,
+        "StartWeight": 0.2,
         "Return": 0.020735684980739855,
         "EndWeight": 0.20537198498112536
       },
       "SHY": {
-        "StartWeight": 0.14999999999999994,
+        "StartWeight": 0.15,
         "Return": 0.002023323516098685,
-        "EndWeight": 0.1512052938698095
+        "EndWeight": 0.15120529386980952
       },
       "GLD": {
-        "StartWeight": 0.05000000000000001,
+        "StartWeight": 0.05,
         "Return": 0.04198757511241635,
         "EndWeight": 0.0524119661375766
       },
-      "EndValue": 124209.42884431485,
+      "EndValue": 124209.42884431481,
       "TotalReturn": -0.005964046094650621
     },
     {
       "Period": "2017-09",
       "RebalanceDate": "2017-09-01",
-      "StartValue": 124209.42884431485,
-      "CashRemaining": 9.094947017729282e-13,
+      "StartValue": 124209.42884431481,
+      "CashRemaining": 1.8189894035458565e-12,
       "069500.KS": {
         "StartWeight": 0.3,
-        "Return": 0.005124544512776774,
-        "EndWeight": 0.3000055799661725
+        "Return": 0.005124544512776552,
+        "EndWeight": 0.30000557996617244
       },
       "IVV": {
         "StartWeight": 0.3,
-        "Return": 0.02041387376062298,
-        "EndWeight": 0.30456907820460954
+        "Return": 0.020413873760623202,
+        "EndWeight": 0.3045690782046096
       },
       "QQQ": {
         "StartWeight": 0.2,
-        "Return": -0.0029527749291909933,
-        "EndWeight": 0.19839646250407444
+        "Return": -0.0029527749291907712,
+        "EndWeight": 0.1983964625040745
       },
       "SHY": {
         "StartWeight": 0.15,
@@ -644,16 +648,16 @@
       "GLD": {
         "StartWeight": 0.05,
         "Return": -0.03369891808976011,
-        "EndWeight": 0.048069617853666965
+        "EndWeight": 0.04806961785366697
       },
-      "EndValue": 124843.62351401392,
+      "EndValue": 124843.62351401386,
       "TotalReturn": 0.005105849657307093
     },
     {
       "Period": "2017-10",
       "RebalanceDate": "2017-10-02",
-      "StartValue": 124843.6235140139,
-      "CashRemaining": 2.842170943040401e-14,
+      "StartValue": 124843.62351401385,
+      "CashRemaining": -5.684341886080802e-14,
       "069500.KS": {
         "StartWeight": 0.30000000000000004,
         "Return": 0.08552648149496367,
@@ -666,27 +670,27 @@
       },
       "QQQ": {
         "StartWeight": 0.2,
-        "Return": 0.046064341464819414,
+        "Return": 0.046064341464819636,
         "EndWeight": 0.20090853380378892
       },
       "SHY": {
         "StartWeight": 0.15,
         "Return": -0.0009125105367699948,
-        "EndWeight": 0.14391457200091115
+        "EndWeight": 0.14391457200091112
       },
       "GLD": {
-        "StartWeight": 0.049999999999999975,
+        "StartWeight": 0.04999999999999998,
         "Return": -0.007484813689786152,
         "EndWeight": 0.047655952639669825
       },
-      "EndValue": 130003.89813686046,
+      "EndValue": 130003.89813686041,
       "TotalReturn": 0.041333906190790026
     },
     {
       "Period": "2017-11",
       "RebalanceDate": "2017-11-01",
-      "StartValue": 130003.89813686046,
-      "CashRemaining": 2.000888343900442e-11,
+      "StartValue": 130003.89813686043,
+      "CashRemaining": -5.684341886080802e-14,
       "069500.KS": {
         "StartWeight": 0.3,
         "Return": 0.027750473544642995,
@@ -694,11 +698,11 @@
       },
       "IVV": {
         "StartWeight": 0.3,
-        "Return": 0.031220051852643094,
-        "EndWeight": 0.3028580016872805
+        "Return": 0.031220051852643538,
+        "EndWeight": 0.30285800168728066
       },
       "QQQ": {
-        "StartWeight": 0.2,
+        "StartWeight": 0.19999999999999998,
         "Return": 0.01971725150434689,
         "EndWeight": 0.19965317038577976
       },
@@ -708,131 +712,131 @@
         "EndWeight": 0.14652721017681056
       },
       "GLD": {
-        "StartWeight": 0.05,
+        "StartWeight": 0.049999999999999996,
         "Return": 0.003563440057186007,
-        "EndWeight": 0.04912259309997132
+        "EndWeight": 0.049122593099971315
       },
-      "EndValue": 132797.50823572447,
+      "EndValue": 132797.50823572444,
       "TotalReturn": 0.021488664100849153
     },
     {
       "Period": "2017-12",
       "RebalanceDate": "2017-12-01",
       "StartValue": 132797.50823572444,
-      "CashRemaining": 4.547473508864641e-12,
+      "CashRemaining": 5.684341886080802e-14,
       "069500.KS": {
-        "StartWeight": 0.30000000000000004,
+        "StartWeight": 0.3,
         "Return": 0.005206900315511742,
         "EndWeight": 0.29934161941452647
       },
       "IVV": {
-        "StartWeight": 0.30000000000000004,
+        "StartWeight": 0.3,
         "Return": 0.012089776720186185,
-        "EndWeight": 0.3013912784136425
+        "EndWeight": 0.30139127841364255
       },
       "QQQ": {
-        "StartWeight": 0.20000000000000004,
+        "StartWeight": 0.2,
         "Return": 0.006031361960641579,
-        "EndWeight": 0.19972475780961235
+        "EndWeight": 0.19972475780961238
       },
       "SHY": {
-        "StartWeight": 0.15000000000000002,
+        "StartWeight": 0.14999999999999997,
         "Return": -0.00020229544555339096,
-        "EndWeight": 0.14886540466162576
+        "EndWeight": 0.14886540466162573
       },
       "GLD": {
-        "StartWeight": 0.05000000000000001,
+        "StartWeight": 0.049999999999999996,
         "Return": 0.021057003170010358,
         "EndWeight": 0.05067693970059285
       },
-      "EndValue": 133782.5711149122,
-      "TotalReturn": 0.007417781344505325
+      "EndValue": 133782.57111491216,
+      "TotalReturn": 0.007417781344505103
     },
     {
       "Period": "2018-01",
       "RebalanceDate": "2018-01-01",
-      "StartValue": 133782.5711149122,
-      "CashRemaining": 9.094947017729282e-13,
+      "StartValue": 133782.57111491216,
+      "CashRemaining": 0.0,
       "069500.KS": {
         "StartWeight": 0.3,
         "Return": 0.019948896618126044,
-        "EndWeight": 0.2937190266036631
+        "EndWeight": 0.29371902660366317
       },
       "IVV": {
         "StartWeight": 0.3,
-        "Return": 0.056909403911207024,
-        "EndWeight": 0.30436270126314546
+        "Return": 0.0569094039112068,
+        "EndWeight": 0.3043627012631454
       },
       "QQQ": {
         "StartWeight": 0.2,
         "Return": 0.08757038265184813,
-        "EndWeight": 0.20879484924172909
+        "EndWeight": 0.20879484924172906
       },
       "SHY": {
-        "StartWeight": 0.15,
+        "StartWeight": 0.14999999999999997,
         "Return": -0.0028616920140738245,
-        "EndWeight": 0.14357508213497536
+        "EndWeight": 0.14357508213497533
       },
       "GLD": {
         "StartWeight": 0.05,
-        "Return": 0.032349372831691925,
-        "EndWeight": 0.049548340756486946
+        "Return": 0.03234937283169215,
+        "EndWeight": 0.04954834075648695
       },
-      "EndValue": 139369.30205701108,
+      "EndValue": 139369.30205701105,
       "TotalReturn": 0.041759781528643014
     },
     {
       "Period": "2018-02",
       "RebalanceDate": "2018-02-01",
-      "StartValue": 139369.30205701108,
-      "CashRemaining": -1.9895196601282805e-13,
+      "StartValue": 139369.30205701102,
+      "CashRemaining": -1.2079226507921703e-13,
       "069500.KS": {
-        "StartWeight": 0.3,
-        "Return": -0.08268425087634834,
-        "EndWeight": 0.28665904628282257
+        "StartWeight": 0.30000000000000004,
+        "Return": -0.08268425087634845,
+        "EndWeight": 0.28665904628282246
       },
       "IVV": {
-        "StartWeight": 0.3,
-        "Return": -0.03804375012567096,
-        "EndWeight": 0.30060909934034596
+        "StartWeight": 0.3000000000000001,
+        "Return": -0.03804375012567118,
+        "EndWeight": 0.300609099340346
       },
       "QQQ": {
-        "StartWeight": 0.2,
-        "Return": -0.0129278647036557,
-        "EndWeight": 0.20563850356267963
+        "StartWeight": 0.20000000000000007,
+        "Return": -0.01292786470365559,
+        "EndWeight": 0.20563850356267965
       },
       "SHY": {
         "StartWeight": 0.15,
-        "Return": -0.0010060941524285827,
+        "Return": -0.0010060941524283606,
         "EndWeight": 0.15609164050993235
       },
       "GLD": {
-        "StartWeight": 0.05,
+        "StartWeight": 0.05000000000000001,
         "Return": -0.020759902030566213,
         "EndWeight": 0.05100171030421953
       },
-      "EndValue": 133795.52194051427,
-      "TotalReturn": -0.03999288246572963
+      "EndValue": 133795.52194051424,
+      "TotalReturn": -0.03999288246572941
     },
     {
       "Period": "2018-03",
       "RebalanceDate": "2018-03-01",
-      "StartValue": 133795.52194051427,
-      "CashRemaining": 4.320099833421409e-12,
+      "StartValue": 133795.52194051424,
+      "CashRemaining": 1.1823431123048067e-11,
       "069500.KS": {
         "StartWeight": 0.3,
-        "Return": 0.017045813746189742,
+        "Return": 0.017045813746189964,
         "EndWeight": 0.30813039478110354
       },
       "IVV": {
         "StartWeight": 0.3,
-        "Return": -0.02477652598297897,
-        "EndWeight": 0.2954596439877335
+        "Return": -0.02477652598297919,
+        "EndWeight": 0.29545964398773344
       },
       "QQQ": {
         "StartWeight": 0.2,
-        "Return": -0.040788321451439846,
-        "EndWeight": 0.19373907526750625
+        "Return": -0.040788321451439624,
+        "EndWeight": 0.1937390752675063
       },
       "SHY": {
         "StartWeight": 0.15,
@@ -842,86 +846,86 @@
       "GLD": {
         "StartWeight": 0.05,
         "Return": 0.006320007324218446,
-        "EndWeight": 0.05081347318904493
+        "EndWeight": 0.05081347318904494
       },
-      "EndValue": 132485.6402928916,
-      "TotalReturn": -0.009790175550158153
+      "EndValue": 132485.64029289153,
+      "TotalReturn": -0.009790175550158375
     },
     {
       "Period": "2018-04",
       "RebalanceDate": "2018-04-02",
-      "StartValue": 132485.64029289156,
-      "CashRemaining": -1.1368683772161603e-13,
+      "StartValue": 132485.64029289153,
+      "CashRemaining": 1.2732925824820995e-11,
       "069500.KS": {
-        "StartWeight": 0.3000000000000001,
+        "StartWeight": 0.3,
         "Return": 0.010965735878246452,
-        "EndWeight": 0.3019205116997301
+        "EndWeight": 0.30192051169973005
       },
       "IVV": {
-        "StartWeight": 0.30000000000000004,
+        "StartWeight": 0.3,
         "Return": 0.003542359024611752,
         "EndWeight": 0.2997035525500293
       },
       "QQQ": {
         "StartWeight": 0.2,
         "Return": 0.005058678586501442,
-        "EndWeight": 0.20010426318651295
+        "EndWeight": 0.20010426318651303
       },
       "SHY": {
-        "StartWeight": 0.15000000000000005,
+        "StartWeight": 0.15,
         "Return": -0.0023478562210630383,
         "EndWeight": 0.14897223271686882
       },
       "GLD": {
-        "StartWeight": 0.05000000000000002,
+        "StartWeight": 0.05,
         "Return": -0.009539745360543472,
         "EndWeight": 0.049299439846858806
       },
-      "EndValue": 133086.46247116526,
-      "TotalReturn": 0.004534998486971364
+      "EndValue": 133086.4624711652,
+      "TotalReturn": 0.004534998486971142
     },
     {
       "Period": "2018-05",
       "RebalanceDate": "2018-05-01",
-      "StartValue": 133086.46247116526,
-      "CashRemaining": 1.4210854715202004e-14,
+      "StartValue": 133086.46247116523,
+      "CashRemaining": 1.6370904631912708e-11,
       "069500.KS": {
-        "StartWeight": 0.3,
+        "StartWeight": 0.29999999999999993,
         "Return": -0.0488838855523378,
-        "EndWeight": 0.2842423715012561
+        "EndWeight": 0.284242371501256
       },
       "IVV": {
-        "StartWeight": 0.3,
+        "StartWeight": 0.29999999999999993,
         "Return": 0.024107511690866446,
-        "EndWeight": 0.30605595192161
+        "EndWeight": 0.3060559519216099
       },
       "QQQ": {
-        "StartWeight": 0.2,
-        "Return": 0.056729343417654565,
-        "EndWeight": 0.21053668775407125
+        "StartWeight": 0.19999999999999998,
+        "Return": 0.05672934341765479,
+        "EndWeight": 0.2105366877540712
       },
       "SHY": {
-        "StartWeight": 0.14999999999999994,
+        "StartWeight": 0.14999999999999997,
         "Return": 0.0035228267339533215,
         "EndWeight": 0.14995209511940155
       },
       "GLD": {
-        "StartWeight": 0.049999999999999975,
+        "StartWeight": 0.049999999999999996,
         "Return": -0.011959209467576892,
-        "EndWeight": 0.04921289370366107
+        "EndWeight": 0.04921289370366109
       },
-      "EndValue": 133597.96965098142,
+      "EndValue": 133597.9696509814,
       "TotalReturn": 0.003843420061803826
     },
     {
       "Period": "2018-06",
       "RebalanceDate": "2018-06-01",
-      "StartValue": 133597.9696509814,
-      "CashRemaining": -1.8474111129762605e-13,
+      "StartValue": 133597.96965098137,
+      "CashRemaining": 5.684341886080802e-14,
       "069500.KS": {
-        "StartWeight": 0.3,
-        "Return": -0.07126592187412117,
-        "EndWeight": 0.28403692755775667
+        "StartWeight": 0.29999999999999993,
+        "Return": -0.07126592187412106,
+        "EndWeight": 0.2840369275577566
       },
       "IVV": {
         "StartWeight": 0.30000000000000004,
@@ -929,98 +933,98 @@
         "EndWeight": 0.30762878374363145
       },
       "QQQ": {
-        "StartWeight": 0.20000000000000007,
-        "Return": 0.011449904344231099,
+        "StartWeight": 0.20000000000000004,
+        "Return": 0.01144990434423132,
         "EndWeight": 0.20622273549550513
       },
       "SHY": {
         "StartWeight": 0.15000000000000002,
         "Return": 0.0004311529329095176,
-        "EndWeight": 0.15298210629114734
+        "EndWeight": 0.1529821062911473
       },
       "GLD": {
-        "StartWeight": 0.05000000000000002,
+        "StartWeight": 0.05,
         "Return": -0.03614944763120931,
-        "EndWeight": 0.049129446911959494
+        "EndWeight": 0.04912944691195948
       },
-      "EndValue": 131050.19996887194,
-      "TotalReturn": -0.019070422168580792
+      "EndValue": 131050.19996887192,
+      "TotalReturn": -0.01907042216858068
     },
     {
       "Period": "2018-07",
       "RebalanceDate": "2018-07-02",
-      "StartValue": 131050.19996887195,
-      "CashRemaining": 5.684341886080802e-14,
+      "StartValue": 131050.19996887192,
+      "CashRemaining": 1.4210854715202004e-13,
       "069500.KS": {
         "StartWeight": 0.3,
         "Return": 0.017041564194329117,
-        "EndWeight": 0.29891473341980657
+        "EndWeight": 0.2989147334198066
       },
       "IVV": {
         "StartWeight": 0.3,
-        "Return": 0.03746592265840465,
-        "EndWeight": 0.3049175772371052
+        "Return": 0.037465922658404205,
+        "EndWeight": 0.30491757723710516
       },
       "QQQ": {
-        "StartWeight": 0.19999999999999998,
+        "StartWeight": 0.2,
         "Return": 0.0279641697002726,
-        "EndWeight": 0.20141663596904094
+        "EndWeight": 0.201416635969041
       },
       "SHY": {
         "StartWeight": 0.15,
         "Return": -0.0006000546984202826,
-        "EndWeight": 0.14686487688742614
+        "EndWeight": 0.1468648768874262
       },
       "GLD": {
-        "StartWeight": 0.049999999999999996,
+        "StartWeight": 0.05,
         "Return": -0.02241890963254023,
-        "EndWeight": 0.04788617648662112
+        "EndWeight": 0.047886176486621135
       },
-      "EndValue": 133767.41136790975,
-      "TotalReturn": 0.020734126309484457
+      "EndValue": 133767.4113679097,
+      "TotalReturn": 0.020734126309484235
     },
     {
       "Period": "2018-08",
       "RebalanceDate": "2018-08-01",
       "StartValue": 133767.41136790972,
-      "CashRemaining": 1.1823431123048067e-11,
+      "CashRemaining": 1.7394086171407253e-11,
       "069500.KS": {
-        "StartWeight": 0.30000000000000004,
+        "StartWeight": 0.29999999999999993,
         "Return": -0.009218770160291379,
         "EndWeight": 0.2919938115024416
       },
       "IVV": {
-        "StartWeight": 0.30000000000000004,
+        "StartWeight": 0.29999999999999993,
         "Return": 0.03233545586888331,
-        "EndWeight": 0.30424028577633927
+        "EndWeight": 0.3042402857763392
       },
       "QQQ": {
-        "StartWeight": 0.20000000000000004,
-        "Return": 0.05780685012785303,
-        "EndWeight": 0.20783131849210496
+        "StartWeight": 0.19999999999999996,
+        "Return": 0.05780685012785325,
+        "EndWeight": 0.20783131849210493
       },
       "SHY": {
-        "StartWeight": 0.15000000000000002,
+        "StartWeight": 0.14999999999999997,
         "Return": 0.0034678336008906463,
-        "EndWeight": 0.14786634457165954
+        "EndWeight": 0.1478663445716595
       },
       "GLD": {
-        "StartWeight": 0.05000000000000001,
+        "StartWeight": 0.04999999999999999,
         "Return": -0.021381117106767822,
-        "EndWeight": 0.04806823965745462
+        "EndWeight": 0.04806823965745461
       },
-      "EndValue": 136168.2013042906,
-      "TotalReturn": 0.017947494922943674
+      "EndValue": 136168.20130429056,
+      "TotalReturn": 0.017947494922943452
     },
     {
       "Period": "2018-09",
       "RebalanceDate": "2018-09-03",
-      "StartValue": 136168.2013042906,
-      "CashRemaining": 7.275957614183426e-12,
+      "StartValue": 136168.20130429056,
+      "CashRemaining": -5.684341886080802e-14,
       "069500.KS": {
-        "StartWeight": 0.3,
+        "StartWeight": 0.29999999999999993,
         "Return": 0.019658378362902074,
-        "EndWeight": 0.3039533679513424
+        "EndWeight": 0.3039533679513425
       },
       "IVV": {
         "StartWeight": 0.3,
@@ -1030,7 +1034,7 @@
       "QQQ": {
         "StartWeight": 0.2,
         "Return": -0.002816472075012566,
-        "EndWeight": 0.19816917653344188
+        "EndWeight": 0.19816917653344185
       },
       "SHY": {
         "StartWeight": 0.15,
@@ -1038,186 +1042,186 @@
         "EndWeight": 0.14883354770122095
       },
       "GLD": {
-        "StartWeight": 0.05,
-        "Return": -0.006607347245927042,
-        "EndWeight": 0.04935395502879152
+        "StartWeight": 0.04999999999999999,
+        "Return": -0.006607347245927153,
+        "EndWeight": 0.0493539550287915
       },
-      "EndValue": 137039.15991687853,
+      "EndValue": 137039.1599168785,
       "TotalReturn": 0.006396196793711395
     },
     {
       "Period": "2018-10",
       "RebalanceDate": "2018-10-01",
-      "StartValue": 137039.15991687853,
-      "CashRemaining": 0.0,
+      "StartValue": 137039.15991687847,
+      "CashRemaining": -2.842170943040401e-14,
       "069500.KS": {
-        "StartWeight": 0.3,
-        "Return": -0.14003503566058295,
-        "EndWeight": 0.27993002580083715
+        "StartWeight": 0.30000000000000004,
+        "Return": -0.14003503566058306,
+        "EndWeight": 0.2799300258008371
       },
       "IVV": {
-        "StartWeight": 0.3,
-        "Return": -0.0682200170458458,
+        "StartWeight": 0.30000000000000004,
+        "Return": -0.06822001704584568,
         "EndWeight": 0.3033067688628679
       },
       "QQQ": {
-        "StartWeight": 0.19999999999999996,
+        "StartWeight": 0.20000000000000004,
         "Return": -0.08595710974343396,
-        "EndWeight": 0.1983554062958348
+        "EndWeight": 0.19835540629583487
       },
       "SHY": {
-        "StartWeight": 0.14999999999999997,
+        "StartWeight": 0.15000000000000002,
         "Return": 0.0015301247855286082,
-        "EndWeight": 0.16300568354368142
+        "EndWeight": 0.16300568354368145
       },
       "GLD": {
-        "StartWeight": 0.04999999999999999,
+        "StartWeight": 0.05,
         "Return": 0.02119545356837582,
-        "EndWeight": 0.05540211549677863
+        "EndWeight": 0.055402115496778634
       },
-      "EndValue": 126298.21606368353,
-      "TotalReturn": -0.07837864636436731
+      "EndValue": 126298.2160636835,
+      "TotalReturn": -0.07837864636436709
     },
     {
       "Period": "2018-11",
       "RebalanceDate": "2018-11-01",
-      "StartValue": 126298.2160636835,
-      "CashRemaining": 1.4210854715202004e-13,
+      "StartValue": 126298.21606368349,
+      "CashRemaining": 5.684341886080802e-14,
       "069500.KS": {
         "StartWeight": 0.29999999999999993,
-        "Return": 0.04376879427810354,
+        "Return": 0.04376879427810332,
         "EndWeight": 0.30726045996215307
       },
       "IVV": {
         "StartWeight": 0.30000000000000004,
-        "Return": 0.01921106592881361,
-        "EndWeight": 0.3000312546538577
+        "Return": 0.01921106592881383,
+        "EndWeight": 0.30003125465385777
       },
       "QQQ": {
-        "StartWeight": 0.20000000000000007,
+        "StartWeight": 0.2,
         "Return": -0.0026498680997645296,
         "EndWeight": 0.19573061387471122
       },
       "SHY": {
         "StartWeight": 0.15000000000000002,
         "Return": 0.003810432343509307,
-        "EndWeight": 0.1477488390376689
+        "EndWeight": 0.14774883903766892
       },
       "GLD": {
-        "StartWeight": 0.05000000000000002,
+        "StartWeight": 0.05,
         "Return": 0.0033868813241892948,
         "EndWeight": 0.049228832471609064
       },
-      "EndValue": 128711.1300131205,
+      "EndValue": 128711.13001312048,
       "TotalReturn": 0.0191048933598581
     },
     {
       "Period": "2018-12",
       "RebalanceDate": "2018-12-03",
-      "StartValue": 128711.1300131205,
-      "CashRemaining": 1.0118128557223827e-11,
+      "StartValue": 128711.13001312046,
+      "CashRemaining": 5.4569682106375694e-12,
       "069500.KS": {
         "StartWeight": 0.3,
         "Return": -0.031607312775876584,
-        "EndWeight": 0.305749926381392
+        "EndWeight": 0.30574992638139203
       },
       "IVV": {
         "StartWeight": 0.3,
-        "Return": -0.08875344348700331,
-        "EndWeight": 0.2877072196484521
+        "Return": -0.0887534434870032,
+        "EndWeight": 0.2877072196484522
       },
       "QQQ": {
-        "StartWeight": 0.2,
-        "Return": -0.08660744006143117,
-        "EndWeight": 0.19225651717730965
+        "StartWeight": 0.20000000000000004,
+        "Return": -0.08660744006143106,
+        "EndWeight": 0.1922565171773097
       },
       "SHY": {
         "StartWeight": 0.15,
         "Return": 0.00759883514423465,
-        "EndWeight": 0.1590642276277464
+        "EndWeight": 0.15906422762774644
       },
       "GLD": {
-        "StartWeight": 0.05,
+        "StartWeight": 0.05000000000000001,
         "Return": 0.049420105930649605,
-        "EndWeight": 0.05522210916509969
+        "EndWeight": 0.0552221091650997
       },
-      "EndValue": 122298.8851159165,
+      "EndValue": 122298.88511591646,
       "TotalReturn": -0.049818884322982426
     },
     {
       "Period": "2019-01",
       "RebalanceDate": "2019-01-01",
-      "StartValue": 122298.88511591649,
-      "CashRemaining": 0.0,
+      "StartValue": 122298.88511591648,
+      "CashRemaining": 6.366462912410498e-12,
       "069500.KS": {
         "StartWeight": 0.3,
         "Return": 0.09200141976372822,
-        "EndWeight": 0.30582081495550295
+        "EndWeight": 0.305820814955503
       },
       "IVV": {
         "StartWeight": 0.3,
-        "Return": 0.0792493995892729,
-        "EndWeight": 0.30224954377260954
+        "Return": 0.07924939958927268,
+        "EndWeight": 0.3022495437726095
       },
       "QQQ": {
-        "StartWeight": 0.2,
+        "StartWeight": 0.19999999999999998,
         "Return": 0.09010795475099043,
-        "EndWeight": 0.20352702666116557
+        "EndWeight": 0.20352702666116562
       },
       "SHY": {
         "StartWeight": 0.15,
         "Return": 0.0025117744106051276,
-        "EndWeight": 0.14037938152089308
+        "EndWeight": 0.1403793815208931
       },
       "GLD": {
-        "StartWeight": 0.05000000000000001,
+        "StartWeight": 0.049999999999999996,
         "Return": 0.02886597938144342,
         "EndWeight": 0.048023233089828775
       },
-      "EndValue": 131008.63281807702,
-      "TotalReturn": 0.07121690188676144
+      "EndValue": 131008.63281807698,
+      "TotalReturn": 0.07121690188676122
     },
     {
       "Period": "2019-02",
       "RebalanceDate": "2019-02-01",
-      "StartValue": 131008.632818077,
-      "CashRemaining": -5.684341886080802e-14,
+      "StartValue": 131008.63281807699,
+      "CashRemaining": 1.0913936421275139e-11,
       "069500.KS": {
-        "StartWeight": 0.30000000000000004,
+        "StartWeight": 0.29999999999999993,
         "Return": -0.022848565485001915,
-        "EndWeight": 0.29063400483078455
+        "EndWeight": 0.2906340048307846
       },
       "IVV": {
-        "StartWeight": 0.30000000000000004,
-        "Return": 0.03229671891192276,
-        "EndWeight": 0.3070358585104711
+        "StartWeight": 0.29999999999999993,
+        "Return": 0.03229671891192254,
+        "EndWeight": 0.30703585851047105
       },
       "QQQ": {
-        "StartWeight": 0.2,
-        "Return": 0.02991170337917959,
-        "EndWeight": 0.20421765579849618
+        "StartWeight": 0.19999999999999998,
+        "Return": 0.029911703379179366,
+        "EndWeight": 0.2042176557984962
       },
       "SHY": {
-        "StartWeight": 0.15,
+        "StartWeight": 0.14999999999999997,
         "Return": 0.0008601319758332338,
-        "EndWeight": 0.1488428395829875
+        "EndWeight": 0.14884283958298752
       },
       "GLD": {
         "StartWeight": 0.049999999999999996,
         "Return": -0.006092201492828964,
-        "EndWeight": 0.049269641277260634
+        "EndWeight": 0.049269641277260655
       },
-      "EndValue": 132140.70414771332,
-      "TotalReturn": 0.00864119642564587
+      "EndValue": 132140.70414771326,
+      "TotalReturn": 0.008641196425645425
     },
     {
       "Period": "2019-03",
       "RebalanceDate": "2019-03-01",
-      "StartValue": 132140.70414771332,
-      "CashRemaining": 4.547473508864641e-12,
+      "StartValue": 132140.70414771326,
+      "CashRemaining": 1.0913936421275139e-11,
       "069500.KS": {
         "StartWeight": 0.3,
-        "Return": -0.01626844823487128,
+        "Return": -0.016268448234871058,
         "EndWeight": 0.29252825586568626
       },
       "IVV": {
@@ -1228,214 +1232,214 @@
       "QQQ": {
         "StartWeight": 0.2,
         "Return": 0.039245912143066164,
-        "EndWeight": 0.2060242238167967
+        "EndWeight": 0.20602422381679664
       },
       "SHY": {
         "StartWeight": 0.15,
         "Return": 0.006268342731387211,
-        "EndWeight": 0.149614964928129
+        "EndWeight": 0.14961496492812898
       },
       "GLD": {
         "StartWeight": 0.05,
         "Return": -0.01596899557748599,
-        "EndWeight": 0.04876955048101796
+        "EndWeight": 0.04876955048101794
       },
-      "EndValue": 133311.2039634064,
-      "TotalReturn": 0.008857980765598628
+      "EndValue": 133311.20396340638,
+      "TotalReturn": 0.00885798076559885
     },
     {
       "Period": "2019-04",
       "RebalanceDate": "2019-04-01",
-      "StartValue": 133311.2039634064,
-      "CashRemaining": 5.4569682106375694e-12,
+      "StartValue": 133311.20396340635,
+      "CashRemaining": 1.000444171950221e-11,
       "069500.KS": {
-        "StartWeight": 0.3,
-        "Return": -0.03674025194527686,
+        "StartWeight": 0.30000000000000004,
+        "Return": -0.03674025194527675,
         "EndWeight": 0.28557471163194703
       },
       "IVV": {
-        "StartWeight": 0.3,
+        "StartWeight": 0.30000000000000004,
         "Return": 0.03999145410005167,
-        "EndWeight": 0.3083231290460184
+        "EndWeight": 0.30832312904601833
       },
       "QQQ": {
-        "StartWeight": 0.2,
+        "StartWeight": 0.20000000000000004,
         "Return": 0.05499276949413057,
-        "EndWeight": 0.20851368251087052
+        "EndWeight": 0.2085136825108705
       },
       "SHY": {
-        "StartWeight": 0.15,
+        "StartWeight": 0.15000000000000002,
         "Return": 0.0018339594875931287,
-        "EndWeight": 0.1485053458641499
+        "EndWeight": 0.14850534586414987
       },
       "GLD": {
-        "StartWeight": 0.05,
+        "StartWeight": 0.05000000000000001,
         "Return": -0.006638842503123854,
         "EndWeight": 0.04908313094701424
       },
-      "EndValue": 134899.8824253357,
-      "TotalReturn": 0.0119170663432413
+      "EndValue": 134899.88242533567,
+      "TotalReturn": 0.011917066343241522
     },
     {
       "Period": "2019-05",
       "RebalanceDate": "2019-05-01",
-      "StartValue": 134899.8824253357,
-      "CashRemaining": 1.1823431123048067e-11,
+      "StartValue": 134899.88242533567,
+      "CashRemaining": 5.4569682106375694e-12,
       "069500.KS": {
         "StartWeight": 0.3,
         "Return": -0.09287818170162931,
-        "EndWeight": 0.289891882283745
+        "EndWeight": 0.2898918822837451
       },
       "IVV": {
         "StartWeight": 0.3,
-        "Return": -0.0629857538440084,
-        "EndWeight": 0.2994447030878264
+        "Return": -0.06298575384400817,
+        "EndWeight": 0.2994447030878265
       },
       "QQQ": {
         "StartWeight": 0.2,
-        "Return": -0.08225193280114884,
+        "Return": -0.08225193280114895,
         "EndWeight": 0.19552516490130725
       },
       "SHY": {
         "StartWeight": 0.15,
         "Return": 0.007218123427520595,
-        "EndWeight": 0.16093999272249113
+        "EndWeight": 0.16093999272249115
       },
       "GLD": {
         "StartWeight": 0.05,
         "Return": 0.017574298155486723,
-        "EndWeight": 0.05419825700463011
+        "EndWeight": 0.054198257004630115
       },
-      "EndValue": 126637.51637667217,
-      "TotalReturn": -0.061248133802018545
+      "EndValue": 126637.51637667212,
+      "TotalReturn": -0.061248133802018656
     },
     {
       "Period": "2019-06",
       "RebalanceDate": "2019-06-03",
-      "StartValue": 126637.51637667217,
-      "CashRemaining": 6.366462912410498e-12,
+      "StartValue": 126637.51637667214,
+      "CashRemaining": 2.1827872842550278e-11,
       "069500.KS": {
-        "StartWeight": 0.3,
+        "StartWeight": 0.29999999999999993,
         "Return": 0.05816318274356047,
-        "EndWeight": 0.30000111800911816
+        "EndWeight": 0.30000111800911805
       },
       "IVV": {
-        "StartWeight": 0.3,
+        "StartWeight": 0.29999999999999993,
         "Return": 0.06945753477064187,
-        "EndWeight": 0.3032031933511537
+        "EndWeight": 0.3032031933511536
       },
       "QQQ": {
         "StartWeight": 0.2,
         "Return": 0.07590027761655205,
-        "EndWeight": 0.20335318875513989
+        "EndWeight": 0.20335318875513983
       },
       "SHY": {
-        "StartWeight": 0.15,
+        "StartWeight": 0.14999999999999997,
         "Return": 0.004610073780921375,
-        "EndWeight": 0.1424091058035506
+        "EndWeight": 0.14240910580355054
       },
       "GLD": {
         "StartWeight": 0.05,
-        "Return": 0.08002914919848925,
-        "EndWeight": 0.051033394081037714
+        "Return": 0.08002914919848947,
+        "EndWeight": 0.05103339408103771
       },
       "EndValue": 134002.65799656752,
-      "TotalReturn": 0.058159239304633736
+      "TotalReturn": 0.05815923930463396
     },
     {
       "Period": "2019-07",
       "RebalanceDate": "2019-07-01",
-      "StartValue": 134002.65799656755,
-      "CashRemaining": 2.1827872842550278e-11,
+      "StartValue": 134002.6579965675,
+      "CashRemaining": 0.0,
       "069500.KS": {
-        "StartWeight": 0.2999999999999999,
+        "StartWeight": 0.30000000000000004,
         "Return": -0.019445630843158757,
-        "EndWeight": 0.2931976969523266
+        "EndWeight": 0.2931976969523267
       },
       "IVV": {
-        "StartWeight": 0.2999999999999999,
+        "StartWeight": 0.30000000000000004,
         "Return": 0.015198818784337487,
-        "EndWeight": 0.3035568092692675
+        "EndWeight": 0.30355680926926754
       },
       "QQQ": {
-        "StartWeight": 0.19999999999999996,
+        "StartWeight": 0.20000000000000004,
         "Return": 0.023348210018751425,
-        "EndWeight": 0.20399571765767902
+        "EndWeight": 0.20399571765767907
       },
       "SHY": {
-        "StartWeight": 0.14999999999999994,
+        "StartWeight": 0.14999999999999997,
         "Return": -0.0006382382700460543,
         "EndWeight": 0.149410668178143
       },
       "GLD": {
-        "StartWeight": 0.04999999999999999,
+        "StartWeight": 0.05000000000000001,
         "Return": 7.514839229916248e-05,
-        "EndWeight": 0.04983910794258357
+        "EndWeight": 0.049839107942583574
       },
-      "EndValue": 134445.35186631675,
-      "TotalReturn": 0.0033036200652118985
+      "EndValue": 134445.35186631672,
+      "TotalReturn": 0.0033036200652121206
     },
     {
       "Period": "2019-08",
       "RebalanceDate": "2019-08-01",
-      "StartValue": 134445.35186631675,
-      "CashRemaining": -1.0658141036401503e-14,
+      "StartValue": 134445.3518663167,
+      "CashRemaining": -4.973799150320701e-14,
       "069500.KS": {
-        "StartWeight": 0.2999999999999998,
+        "StartWeight": 0.3,
         "Return": -0.004954969082711647,
-        "EndWeight": 0.3000526494204076
+        "EndWeight": 0.3000526494204077
       },
       "IVV": {
-        "StartWeight": 0.3,
-        "Return": -0.01657600765447864,
+        "StartWeight": 0.30000000000000004,
+        "Return": -0.01657600765447853,
         "EndWeight": 0.29654836237396026
       },
       "QQQ": {
-        "StartWeight": 0.2,
-        "Return": -0.01899528001410622,
-        "EndWeight": 0.19721255901644405
+        "StartWeight": 0.20000000000000004,
+        "Return": -0.01899528001410644,
+        "EndWeight": 0.19721255901644402
       },
       "SHY": {
-        "StartWeight": 0.15,
+        "StartWeight": 0.15000000000000002,
         "Return": 0.007817502495070405,
-        "EndWeight": 0.1519520737052154
+        "EndWeight": 0.15195207370521538
       },
       "GLD": {
-        "StartWeight": 0.049999999999999996,
+        "StartWeight": 0.05000000000000001,
         "Return": 0.07912313456129882,
         "EndWeight": 0.05423435548397269
       },
-      "EndValue": 133755.7054366133,
-      "TotalReturn": -0.005129566921653006
+      "EndValue": 133755.70543661327,
+      "TotalReturn": -0.005129566921652784
     },
     {
       "Period": "2019-09",
       "RebalanceDate": "2019-09-02",
       "StartValue": 133755.70543661327,
-      "CashRemaining": 1.0913936421275139e-11,
+      "CashRemaining": 7.275957614183426e-12,
       "069500.KS": {
-        "StartWeight": 0.30000000000000004,
+        "StartWeight": 0.3,
         "Return": 0.04508858909949076,
-        "EndWeight": 0.30758966178276026
+        "EndWeight": 0.3075896617827602
       },
       "IVV": {
-        "StartWeight": 0.30000000000000004,
+        "StartWeight": 0.3,
         "Return": 0.019459319290743737,
-        "EndWeight": 0.30004647499990167
+        "EndWeight": 0.3000464749999016
       },
       "QQQ": {
-        "StartWeight": 0.20000000000000004,
+        "StartWeight": 0.2,
         "Return": 0.009178823018794136,
-        "EndWeight": 0.19801381821493552
+        "EndWeight": 0.1980138182149355
       },
       "SHY": {
-        "StartWeight": 0.15000000000000002,
+        "StartWeight": 0.15,
         "Return": -0.0013422106945950585,
-        "EndWeight": 0.14696209242598754
+        "EndWeight": 0.1469620924259875
       },
       "GLD": {
-        "StartWeight": 0.05000000000000001,
-        "Return": -0.03394786005434791,
+        "StartWeight": 0.05,
+        "Return": -0.0339478600543478,
         "EndWeight": 0.047387952576415024
       },
       "EndValue": 136337.37948333606,
@@ -1444,45 +1448,45 @@
     {
       "Period": "2019-10",
       "RebalanceDate": "2019-10-01",
-      "StartValue": 136337.37948333606,
-      "CashRemaining": 2.7284841053187847e-11,
+      "StartValue": 136337.37948333603,
+      "CashRemaining": 1.8189894035458565e-12,
       "069500.KS": {
-        "StartWeight": 0.3,
+        "StartWeight": 0.30000000000000004,
         "Return": 0.011892558767558459,
-        "EndWeight": 0.29745185913680966
+        "EndWeight": 0.2974518591368097
       },
       "IVV": {
-        "StartWeight": 0.3,
+        "StartWeight": 0.30000000000000004,
         "Return": 0.02160638532998127,
-        "EndWeight": 0.30030729645106796
+        "EndWeight": 0.300307296451068
       },
       "QQQ": {
-        "StartWeight": 0.2,
+        "StartWeight": 0.20000000000000004,
         "Return": 0.04380061481644648,
-        "EndWeight": 0.20455428181258611
+        "EndWeight": 0.20455428181258617
       },
       "SHY": {
-        "StartWeight": 0.15,
+        "StartWeight": 0.15000000000000002,
         "Return": 0.003129487128458841,
-        "EndWeight": 0.14743795095436407
+        "EndWeight": 0.1474379509543641
       },
       "GLD": {
-        "StartWeight": 0.05,
+        "StartWeight": 0.05000000000000001,
         "Return": 0.02563546974700759,
-        "EndWeight": 0.050248611645172
+        "EndWeight": 0.05024861164517201
       },
-      "EndValue": 139140.61271770764,
+      "EndValue": 139140.6127177076,
       "TotalReturn": 0.0205610027491705
     },
     {
       "Period": "2019-11",
       "RebalanceDate": "2019-11-01",
-      "StartValue": 139140.6127177076,
-      "CashRemaining": 1.000444171950221e-11,
+      "StartValue": 139140.61271770758,
+      "CashRemaining": 7.275957614183426e-12,
       "069500.KS": {
         "StartWeight": 0.30000000000000004,
-        "Return": -0.03336155124275553,
-        "EndWeight": 0.2878714823912403
+        "Return": -0.03336155124275564,
+        "EndWeight": 0.28787148239124033
       },
       "IVV": {
         "StartWeight": 0.30000000000000004,
@@ -1490,32 +1494,32 @@
         "EndWeight": 0.3086362412744726
       },
       "QQQ": {
-        "StartWeight": 0.20000000000000004,
-        "Return": 0.04069420875941221,
-        "EndWeight": 0.20661719313752586
+        "StartWeight": 0.20000000000000007,
+        "Return": 0.04069420875941243,
+        "EndWeight": 0.2066171931375259
       },
       "SHY": {
         "StartWeight": 0.15000000000000002,
-        "Return": -0.00047147054158569457,
-        "EndWeight": 0.1488331856846046
+        "Return": -0.0004714705415858056,
+        "EndWeight": 0.14883318568460457
       },
       "GLD": {
-        "StartWeight": 0.05000000000000001,
+        "StartWeight": 0.05000000000000002,
         "Return": -0.032085882892885054,
         "EndWeight": 0.04804189751215666
       },
-      "EndValue": 140165.32473381612,
+      "EndValue": 140165.3247338161,
       "TotalReturn": 0.007364578868050975
     },
     {
       "Period": "2019-12",
       "RebalanceDate": "2019-12-02",
-      "StartValue": 140165.32473381615,
-      "CashRemaining": 1.546140993013978e-11,
+      "StartValue": 140165.32473381612,
+      "CashRemaining": 1.7280399333685637e-11,
       "069500.KS": {
         "StartWeight": 0.29999999999999993,
         "Return": 0.09024623273029997,
-        "EndWeight": 0.31278118719017123
+        "EndWeight": 0.3127811871901712
       },
       "IVV": {
         "StartWeight": 0.29999999999999993,
@@ -1524,35 +1528,35 @@
       },
       "QQQ": {
         "StartWeight": 0.19999999999999996,
-        "Return": 0.03886357045792477,
-        "EndWeight": 0.19869332947702475
+        "Return": 0.038863570457924546,
+        "EndWeight": 0.19869332947702473
       },
       "SHY": {
         "StartWeight": 0.14999999999999997,
         "Return": 0.0015497149424148482,
-        "EndWeight": 0.14366750347999613
+        "EndWeight": 0.1436675034799961
       },
       "GLD": {
         "StartWeight": 0.04999999999999999,
-        "Return": 0.03655877893383952,
-        "EndWeight": 0.04956312860557309
+        "Return": 0.0365587789338393,
+        "EndWeight": 0.049563128605573076
       },
       "EndValue": 146570.24479949047,
-      "TotalReturn": 0.04569546767602972
+      "TotalReturn": 0.045695467676029944
     },
     {
       "Period": "2020-01",
       "RebalanceDate": "2020-01-01",
-      "StartValue": 146570.24479949047,
-      "CashRemaining": 2.842170943040401e-14,
+      "StartValue": 146570.24479949044,
+      "CashRemaining": -1.2789769243681803e-13,
       "069500.KS": {
-        "StartWeight": 0.3,
+        "StartWeight": 0.30000000000000004,
         "Return": -0.0637132315531782,
-        "EndWeight": 0.28369996763756045
+        "EndWeight": 0.2836999676375605
       },
       "IVV": {
-        "StartWeight": 0.3,
-        "Return": 0.0,
+        "StartWeight": 0.29999999999999993,
+        "Return": 2.220446049250313e-16,
         "EndWeight": 0.3030054222684166
       },
       "QQQ": {
@@ -1561,235 +1565,235 @@
         "EndWeight": 0.20814136184358817
       },
       "SHY": {
-        "StartWeight": 0.14999999999999997,
+        "StartWeight": 0.14999999999999994,
         "Return": 0.0057904345754575814,
-        "EndWeight": 0.15237997767103537
+        "EndWeight": 0.1523799776710353
       },
       "GLD": {
         "StartWeight": 0.05,
         "Return": 0.04499655849690365,
         "EndWeight": 0.0527732705793994
       },
-      "EndValue": 145116.45735796593,
+      "EndValue": 145116.4573579659,
       "TotalReturn": -0.009918707876304111
     },
     {
       "Period": "2020-02",
       "RebalanceDate": "2020-02-03",
-      "StartValue": 145116.45735796593,
-      "CashRemaining": 6.366462912410498e-12,
+      "StartValue": 145116.4573579659,
+      "CashRemaining": 0.0,
       "069500.KS": {
         "StartWeight": 0.3,
         "Return": -0.035815829747592565,
-        "EndWeight": 0.30359328165989585
+        "EndWeight": 0.3035932816598959
       },
       "IVV": {
         "StartWeight": 0.3,
         "Return": -0.08454999454208023,
-        "EndWeight": 0.28824832425923713
+        "EndWeight": 0.2882483242592372
       },
       "QQQ": {
         "StartWeight": 0.2,
-        "Return": -0.06057421445140143,
-        "EndWeight": 0.19719839556929122
+        "Return": -0.06057421445140154,
+        "EndWeight": 0.19719839556929128
       },
       "SHY": {
         "StartWeight": 0.15,
         "Return": 0.00876611203551958,
-        "EndWeight": 0.15881541298276303
+        "EndWeight": 0.15881541298276305
       },
       "GLD": {
         "StartWeight": 0.05,
-        "Return": -0.006361728631845809,
-        "EndWeight": 0.05214458552881275
+        "Return": -0.00636172863184592,
+        "EndWeight": 0.05214458552881276
       },
-      "EndValue": 138262.93216633683,
-      "TotalReturn": -0.04722775980344651
+      "EndValue": 138262.93216633677,
+      "TotalReturn": -0.047227759803446734
     },
     {
       "Period": "2020-03",
       "RebalanceDate": "2020-03-02",
-      "StartValue": 138262.93216633683,
-      "CashRemaining": -5.684341886080802e-14,
+      "StartValue": 138262.93216633677,
+      "CashRemaining": 3.728928277269006e-11,
       "069500.KS": {
         "StartWeight": 0.3,
-        "Return": -0.03657521384186446,
-        "EndWeight": 0.30753373192364347
+        "Return": -0.03657521384186424,
+        "EndWeight": 0.3075337319236434
       },
       "IVV": {
         "StartWeight": 0.3,
-        "Return": -0.12129025963863427,
-        "EndWeight": 0.28049193835732483
+        "Return": -0.12129025963863449,
+        "EndWeight": 0.2804919383573246
       },
       "QQQ": {
         "StartWeight": 0.2,
-        "Return": -0.0728584745721037,
-        "EndWeight": 0.1973011956461609
+        "Return": -0.0728584745721036,
+        "EndWeight": 0.19730119564616086
       },
       "SHY": {
         "StartWeight": 0.15,
         "Return": 0.012440420463160962,
-        "EndWeight": 0.16158997844398015
+        "EndWeight": 0.16158997844398007
       },
       "GLD": {
         "StartWeight": 0.05,
-        "Return": -0.002224031676742788,
-        "EndWeight": 0.0530831556288907
+        "Return": -0.002224031676742677,
+        "EndWeight": 0.053083155628890696
       },
-      "EndValue": 129942.75622001341,
-      "TotalReturn": -0.060176475472933366
+      "EndValue": 129942.7562200134,
+      "TotalReturn": -0.06017647547293303
     },
     {
       "Period": "2020-04",
       "RebalanceDate": "2020-04-01",
-      "StartValue": 129942.75622001343,
-      "CashRemaining": 1.3642420526593924e-11,
+      "StartValue": 129942.7562200134,
+      "CashRemaining": 1.1368683772161603e-13,
       "069500.KS": {
-        "StartWeight": 0.29999999999999993,
+        "StartWeight": 0.3,
         "Return": 0.11020233034752769,
         "EndWeight": 0.30139009142685996
       },
       "IVV": {
         "StartWeight": 0.29999999999999993,
         "Return": 0.1267802478616462,
-        "EndWeight": 0.30589055043209656
+        "EndWeight": 0.30589055043209645
       },
       "QQQ": {
-        "StartWeight": 0.19999999999999998,
+        "StartWeight": 0.2,
         "Return": 0.14973751800593393,
-        "EndWeight": 0.2080818881366896
+        "EndWeight": 0.20808188813668957
       },
       "SHY": {
-        "StartWeight": 0.14999999999999997,
+        "StartWeight": 0.15,
         "Return": 0.0027264939880420336,
         "EndWeight": 0.1361066453556214
       },
       "GLD": {
-        "StartWeight": 0.049999999999999996,
+        "StartWeight": 0.05,
         "Return": 0.07261060302877409,
-        "EndWeight": 0.0485308246487327
+        "EndWeight": 0.04853082464873269
       },
       "EndValue": 143597.37251240917,
-      "TotalReturn": 0.10508178131358359
+      "TotalReturn": 0.10508178131358381
     },
     {
       "Period": "2020-05",
       "RebalanceDate": "2020-05-01",
-      "StartValue": 143597.37251240923,
-      "CashRemaining": 3.637978807091713e-11,
+      "StartValue": 143597.3725124092,
+      "CashRemaining": 3.637978807091713e-12,
       "069500.KS": {
-        "StartWeight": 0.2999999999999999,
+        "StartWeight": 0.29999999999999993,
         "Return": 0.055896815186381676,
-        "EndWeight": 0.3029563481201778
+        "EndWeight": 0.30295634812017785
       },
       "IVV": {
-        "StartWeight": 0.2999999999999999,
+        "StartWeight": 0.29999999999999993,
         "Return": 0.04815227571005165,
-        "EndWeight": 0.30073429634023435
+        "EndWeight": 0.30073429634023446
       },
       "QQQ": {
-        "StartWeight": 0.19999999999999993,
+        "StartWeight": 0.19999999999999998,
         "Return": 0.06600875172764686,
-        "EndWeight": 0.20390509996979891
+        "EndWeight": 0.20390509996979894
       },
       "SHY": {
-        "StartWeight": 0.14999999999999994,
+        "StartWeight": 0.14999999999999997,
         "Return": -0.0007835541045665417,
-        "EndWeight": 0.14334685031542085
+        "EndWeight": 0.14334685031542088
       },
       "GLD": {
-        "StartWeight": 0.04999999999999998,
+        "StartWeight": 0.049999999999999996,
         "Return": 0.02588161543682066,
-        "EndWeight": 0.04905740525436781
+        "EndWeight": 0.049057405254367824
       },
-      "EndValue": 150144.41114616147,
+      "EndValue": 150144.41114616144,
       "TotalReturn": 0.04559302527061537
     },
     {
       "Period": "2020-06",
       "RebalanceDate": "2020-06-01",
-      "StartValue": 150144.4111461615,
-      "CashRemaining": 4.547473508864641e-12,
+      "StartValue": 150144.41114616144,
+      "CashRemaining": 0.0,
       "069500.KS": {
-        "StartWeight": 0.29999999999999993,
+        "StartWeight": 0.3,
         "Return": 0.12109743823596197,
-        "EndWeight": 0.31849304184902366
+        "EndWeight": 0.3184930418490237
       },
       "IVV": {
-        "StartWeight": 0.29999999999999993,
+        "StartWeight": 0.3,
         "Return": 0.018985739994820783,
-        "EndWeight": 0.2894840866306766
+        "EndWeight": 0.28948408663067665
       },
       "QQQ": {
-        "StartWeight": 0.19999999999999998,
+        "StartWeight": 0.2,
         "Return": 0.06286685223237409,
-        "EndWeight": 0.20130019348460165
+        "EndWeight": 0.20130019348460168
       },
       "SHY": {
-        "StartWeight": 0.14999999999999997,
+        "StartWeight": 0.15,
         "Return": 0.00023095719238130918,
-        "EndWeight": 0.14207801625567185
+        "EndWeight": 0.14207801625567187
       },
       "GLD": {
-        "StartWeight": 0.049999999999999996,
-        "Return": 0.027377026301764085,
+        "StartWeight": 0.05,
+        "Return": 0.027377026301764307,
         "EndWeight": 0.04864466178002624
       },
-      "EndValue": 158552.77125445116,
+      "EndValue": 158552.7712544511,
       "TotalReturn": 0.056001818809654935
     },
     {
       "Period": "2020-07",
       "RebalanceDate": "2020-07-01",
       "StartValue": 158552.77125445116,
-      "CashRemaining": 8.185452315956354e-12,
+      "CashRemaining": 2.637534635141492e-11,
       "069500.KS": {
-        "StartWeight": 0.3,
+        "StartWeight": 0.2999999999999999,
         "Return": 0.025234601210871288,
-        "EndWeight": 0.2942238305085842
+        "EndWeight": 0.29422383050858414
       },
       "IVV": {
-        "StartWeight": 0.3,
+        "StartWeight": 0.2999999999999999,
         "Return": 0.05854280400711831,
-        "EndWeight": 0.30378268367496586
+        "EndWeight": 0.3037826836749658
       },
       "QQQ": {
-        "StartWeight": 0.2,
+        "StartWeight": 0.19999999999999993,
         "Return": 0.07346551499494147,
         "EndWeight": 0.20537682163520063
       },
       "SHY": {
-        "StartWeight": 0.15,
+        "StartWeight": 0.14999999999999994,
         "Return": 0.0009355778220911937,
-        "EndWeight": 0.14362522463215516
+        "EndWeight": 0.14362522463215513
       },
       "GLD": {
-        "StartWeight": 0.05,
+        "StartWeight": 0.04999999999999998,
         "Return": 0.10790463097013703,
-        "EndWeight": 0.052991439549094146
+        "EndWeight": 0.05299143954909413
       },
-      "EndValue": 165745.02506505136,
-      "TotalReturn": 0.045361892786205615
+      "EndValue": 165745.02506505133,
+      "TotalReturn": 0.04536189278620539
     },
     {
       "Period": "2020-08",
       "RebalanceDate": "2020-08-03",
-      "StartValue": 165745.02506505136,
-      "CashRemaining": 6.366462912410498e-12,
+      "StartValue": 165745.02506505133,
+      "CashRemaining": 0.0,
       "069500.KS": {
         "StartWeight": 0.3,
         "Return": 0.03683905521556907,
-        "EndWeight": 0.2951863654326137
+        "EndWeight": 0.2951863654326136
       },
       "IVV": {
         "StartWeight": 0.3,
         "Return": 0.07000756544106568,
-        "EndWeight": 0.30462938547610846
+        "EndWeight": 0.3046293854761084
       },
       "QQQ": {
         "StartWeight": 0.2,
         "Return": 0.10944693947049311,
-        "EndWeight": 0.21057180672047035
+        "EndWeight": 0.21057180672047032
       },
       "SHY": {
         "StartWeight": 0.15,
@@ -1799,96 +1803,96 @@
       "GLD": {
         "StartWeight": 0.05,
         "Return": -0.0032356731296192542,
-        "EndWeight": 0.04729619275072862
+        "EndWeight": 0.047296192750728605
       },
       "EndValue": 174653.3058292892,
-      "TotalReturn": 0.05374689684195055
+      "TotalReturn": 0.053746896841950775
     },
     {
       "Period": "2020-09",
       "RebalanceDate": "2020-09-01",
-      "StartValue": 174653.30582928922,
-      "CashRemaining": 2.8194335754960775e-11,
+      "StartValue": 174653.3058292892,
+      "CashRemaining": 1.1368683772161603e-13,
       "069500.KS": {
-        "StartWeight": 0.29999999999999993,
+        "StartWeight": 0.3,
         "Return": -0.004514713476875154,
-        "EndWeight": 0.3067039202058531
+        "EndWeight": 0.30670392020585313
       },
       "IVV": {
-        "StartWeight": 0.29999999999999993,
+        "StartWeight": 0.3,
         "Return": -0.03758314855875844,
-        "EndWeight": 0.29651570465712357
+        "EndWeight": 0.2965157046571236
       },
       "QQQ": {
-        "StartWeight": 0.19999999999999998,
+        "StartWeight": 0.2,
         "Return": -0.057786183833428595,
-        "EndWeight": 0.1935275019481275
+        "EndWeight": 0.19352750194812754
       },
       "SHY": {
         "StartWeight": 0.14999999999999997,
         "Return": -1.1250778137683604e-05,
-        "EndWeight": 0.15404570700350995
+        "EndWeight": 0.15404570700350997
       },
       "GLD": {
-        "StartWeight": 0.049999999999999996,
+        "StartWeight": 0.04999999999999999,
         "Return": -0.04171404337762563,
         "EndWeight": 0.04920716618538572
       },
-      "EndValue": 170064.46746326546,
+      "EndValue": 170064.46746326544,
       "TotalReturn": -0.026273985162977742
     },
     {
       "Period": "2020-10",
       "RebalanceDate": "2020-10-01",
-      "StartValue": 170064.46746326546,
-      "CashRemaining": 2.7284841053187847e-12,
+      "StartValue": 170064.4674632654,
+      "CashRemaining": 2.842170943040401e-14,
       "069500.KS": {
-        "StartWeight": 0.3,
+        "StartWeight": 0.30000000000000004,
         "Return": -0.02086708096757295,
         "EndWeight": 0.29979986538786896
       },
       "IVV": {
-        "StartWeight": 0.3,
+        "StartWeight": 0.30000000000000004,
         "Return": -0.025114763103721294,
         "EndWeight": 0.2984992712521043
       },
       "QQQ": {
-        "StartWeight": 0.2,
+        "StartWeight": 0.20000000000000004,
         "Return": -0.030448988524267362,
-        "EndWeight": 0.1979106595757781
+        "EndWeight": 0.19791065957577808
       },
       "SHY": {
-        "StartWeight": 0.15,
+        "StartWeight": 0.15000000000000002,
         "Return": -0.000462593002037881,
         "EndWeight": 0.15302374899428972
       },
       "GLD": {
-        "StartWeight": 0.05,
+        "StartWeight": 0.05000000000000001,
         "Return": -0.005194208414112889,
-        "EndWeight": 0.05076645478995894
+        "EndWeight": 0.050766454789958934
       },
-      "EndValue": 166626.87780286794,
-      "TotalReturn": -0.020213450297253077
+      "EndValue": 166626.8778028679,
+      "TotalReturn": -0.020213450297252855
     },
     {
       "Period": "2020-11",
       "RebalanceDate": "2020-11-02",
-      "StartValue": 166626.8778028679,
-      "CashRemaining": -5.684341886080802e-14,
+      "StartValue": 166626.87780286788,
+      "CashRemaining": 5.4569682106375694e-12,
       "069500.KS": {
         "StartWeight": 0.30000000000000004,
-        "Return": 0.1304581333812731,
-        "EndWeight": 0.3106769294363263
+        "Return": 0.13045813338127332,
+        "EndWeight": 0.31067692943632635
       },
       "IVV": {
         "StartWeight": 0.30000000000000004,
-        "Return": 0.10896790070960316,
+        "Return": 0.10896790070960338,
         "EndWeight": 0.30477089956918146
       },
       "QQQ": {
-        "StartWeight": 0.20000000000000004,
+        "StartWeight": 0.20000000000000007,
         "Return": 0.11225781280517144,
-        "EndWeight": 0.20378336405984596
+        "EndWeight": 0.20378336405984604
       },
       "SHY": {
         "StartWeight": 0.15000000000000002,
@@ -1896,42 +1900,42 @@
         "EndWeight": 0.1374421874434982
       },
       "GLD": {
-        "StartWeight": 0.05000000000000001,
+        "StartWeight": 0.05000000000000002,
         "Return": -0.054086259616089594,
-        "EndWeight": 0.04332661949114807
+        "EndWeight": 0.043326619491148084
       },
-      "EndValue": 181891.24270727532,
-      "TotalReturn": 0.09160805931001303
+      "EndValue": 181891.24270727526,
+      "TotalReturn": 0.09160805931001281
     },
     {
       "Period": "2020-12",
       "RebalanceDate": "2020-12-01",
       "StartValue": 181891.2427072753,
-      "CashRemaining": 7.275957614183426e-12,
+      "CashRemaining": 3.092281986027956e-11,
       "069500.KS": {
-        "StartWeight": 0.30000000000000004,
-        "Return": 0.13073746657486374,
-        "EndWeight": 0.3188398568330631
+        "StartWeight": 0.29999999999999993,
+        "Return": 0.13073746657486396,
+        "EndWeight": 0.31883985683306304
       },
       "IVV": {
-        "StartWeight": 0.30000000000000004,
+        "StartWeight": 0.29999999999999993,
         "Return": 0.03776618964530276,
-        "EndWeight": 0.29262426789038815
+        "EndWeight": 0.2926242678903881
       },
       "QQQ": {
-        "StartWeight": 0.20000000000000007,
+        "StartWeight": 0.19999999999999998,
         "Return": 0.049024034380975134,
-        "EndWeight": 0.19719913349979357
+        "EndWeight": 0.1971991334997935
       },
       "SHY": {
-        "StartWeight": 0.15000000000000002,
+        "StartWeight": 0.14999999999999997,
         "Return": 0.00040492993657093024,
-        "EndWeight": 0.14104466070371807
+        "EndWeight": 0.14104466070371802
       },
       "GLD": {
-        "StartWeight": 0.05000000000000002,
+        "StartWeight": 0.049999999999999996,
         "Return": 0.07013861264675025,
-        "EndWeight": 0.05029208107303723
+        "EndWeight": 0.05029208107303721
       },
       "EndValue": 193518.38099588285,
       "TotalReturn": 0.0639235738650683
@@ -1939,64 +1943,64 @@
     {
       "Period": "2021-01",
       "RebalanceDate": "2021-01-01",
-      "StartValue": 193518.38099588288,
-      "CashRemaining": 3.456079866737127e-11,
+      "StartValue": 193518.38099588285,
+      "CashRemaining": 3.637978807091713e-12,
       "069500.KS": {
-        "StartWeight": 0.29999999999999993,
+        "StartWeight": 0.3,
         "Return": -0.010626861271156307,
-        "EndWeight": 0.29900523301612525
+        "EndWeight": 0.2990052330161253
       },
       "IVV": {
-        "StartWeight": 0.29999999999999993,
+        "StartWeight": 0.3,
         "Return": -0.010309254948538737,
         "EndWeight": 0.29910121899834397
       },
       "QQQ": {
-        "StartWeight": 0.19999999999999998,
+        "StartWeight": 0.2,
         "Return": 0.0026136124554489992,
-        "EndWeight": 0.20200448484822056
+        "EndWeight": 0.2020044848482206
       },
       "SHY": {
-        "StartWeight": 0.14999999999999997,
+        "StartWeight": 0.15,
         "Return": 0.00023151010172517417,
-        "EndWeight": 0.15114340790184125
+        "EndWeight": 0.15114340790184128
       },
       "GLD": {
-        "StartWeight": 0.049999999999999996,
+        "StartWeight": 0.05,
         "Return": -0.03223816988295203,
-        "EndWeight": 0.04874565523546891
+        "EndWeight": 0.048745655235468914
       },
-      "EndValue": 192098.86670842514,
+      "EndValue": 192098.8667084251,
       "TotalReturn": -0.007335294353707611
     },
     {
       "Period": "2021-02",
       "RebalanceDate": "2021-02-01",
       "StartValue": 192098.86670842516,
-      "CashRemaining": 2.546585164964199e-11,
+      "CashRemaining": 2.1827872842550278e-11,
       "069500.KS": {
-        "StartWeight": 0.29999999999999993,
+        "StartWeight": 0.2999999999999999,
         "Return": -0.010821379030904077,
-        "EndWeight": 0.2962948941459083
+        "EndWeight": 0.29629489414590826
       },
       "IVV": {
-        "StartWeight": 0.29999999999999993,
-        "Return": 0.0275892829260036,
+        "StartWeight": 0.2999999999999999,
+        "Return": 0.027589282926003822,
         "EndWeight": 0.30780028132001286
       },
       "QQQ": {
-        "StartWeight": 0.19999999999999998,
+        "StartWeight": 0.19999999999999996,
         "Return": -0.0013349411678146295,
-        "EndWeight": 0.19942428436501378
+        "EndWeight": 0.19942428436501375
       },
       "SHY": {
-        "StartWeight": 0.14999999999999997,
+        "StartWeight": 0.14999999999999994,
         "Return": -0.0005789927454197263,
-        "EndWeight": 0.14968143026664973
+        "EndWeight": 0.1496814302666497
       },
       "GLD": {
-        "StartWeight": 0.049999999999999996,
-        "Return": -0.06256881416817606,
+        "StartWeight": 0.04999999999999999,
+        "Return": -0.06256881416817583,
         "EndWeight": 0.046799109902415245
       },
       "EndValue": 192396.2536797466,
@@ -2006,7 +2010,7 @@
       "Period": "2021-03",
       "RebalanceDate": "2021-03-01",
       "StartValue": 192396.2536797466,
-      "CashRemaining": 7.275957614183426e-12,
+      "CashRemaining": -1.1368683772161603e-13,
       "069500.KS": {
         "StartWeight": 0.3,
         "Return": 0.0225386360116675,
@@ -2015,7 +2019,7 @@
       "IVV": {
         "StartWeight": 0.3,
         "Return": 0.04555395782271443,
-        "EndWeight": 0.3065522749460733
+        "EndWeight": 0.30655227494607334
       },
       "QQQ": {
         "StartWeight": 0.2,
@@ -2028,9 +2032,9 @@
         "EndWeight": 0.14651646218109665
       },
       "GLD": {
-        "StartWeight": 0.05,
-        "Return": -0.01143310594301572,
-        "EndWeight": 0.048307315632728526
+        "StartWeight": 0.049999999999999975,
+        "Return": -0.011433105943015609,
+        "EndWeight": 0.048307315632728505
       },
       "EndValue": 196861.03899295046,
       "TotalReturn": 0.0232061967310222
@@ -2039,7 +2043,7 @@
       "Period": "2021-04",
       "RebalanceDate": "2021-04-01",
       "StartValue": 196861.03899295046,
-      "CashRemaining": 3.8198777474462986e-11,
+      "CashRemaining": 2.7284841053187847e-11,
       "069500.KS": {
         "StartWeight": 0.3,
         "Return": 0.0189486695504677,
@@ -2071,30 +2075,30 @@
     {
       "Period": "2021-05",
       "RebalanceDate": "2021-05-03",
-      "StartValue": 203800.93630843214,
-      "CashRemaining": 1.4551915228366852e-11,
+      "StartValue": 203800.9363084321,
+      "CashRemaining": 3.637978807091713e-12,
       "069500.KS": {
-        "StartWeight": 0.29999999999999993,
+        "StartWeight": 0.3,
         "Return": 0.007480023192020013,
         "EndWeight": 0.30051452993783234
       },
       "IVV": {
-        "StartWeight": 0.29999999999999993,
+        "StartWeight": 0.3,
         "Return": 0.006612769075313052,
         "EndWeight": 0.3002558424629253
       },
       "QQQ": {
-        "StartWeight": 0.2,
+        "StartWeight": 0.20000000000000004,
         "Return": -0.012011917133160854,
         "EndWeight": 0.19646693894483305
       },
       "SHY": {
-        "StartWeight": 0.14999999999999997,
+        "StartWeight": 0.15,
         "Return": 0.0006027311487522002,
         "EndWeight": 0.14923157406783022
       },
       "GLD": {
-        "StartWeight": 0.05,
+        "StartWeight": 0.05000000000000001,
         "Return": 0.07678377966625982,
         "EndWeight": 0.05353111458657914
       },
@@ -2105,7 +2109,7 @@
       "Period": "2021-06",
       "RebalanceDate": "2021-06-01",
       "StartValue": 204973.8214798303,
-      "CashRemaining": 3.8198777474462986e-11,
+      "CashRemaining": 2.7284841053187847e-11,
       "069500.KS": {
         "StartWeight": 0.3,
         "Return": -0.003487851898406169,
@@ -2137,32 +2141,32 @@
     {
       "Period": "2021-07",
       "RebalanceDate": "2021-07-01",
-      "StartValue": 207929.30027681214,
+      "StartValue": 207929.3002768121,
       "CashRemaining": 0.0,
       "069500.KS": {
         "StartWeight": 0.3,
-        "Return": -0.029434013561734695,
+        "Return": -0.029434013561734473,
         "EndWeight": 0.28951420951887213
       },
       "IVV": {
-        "StartWeight": 0.3,
+        "StartWeight": 0.30000000000000004,
         "Return": 0.0243765595150367,
-        "EndWeight": 0.30556559164617064
+        "EndWeight": 0.3055655916461706
       },
       "QQQ": {
-        "StartWeight": 0.2,
+        "StartWeight": 0.20000000000000004,
         "Return": 0.02860945354239841,
         "EndWeight": 0.20455215960383918
       },
       "SHY": {
         "StartWeight": 0.15,
-        "Return": 0.001659835177220792,
+        "Return": 0.001659835177221014,
         "EndWeight": 0.14939466220753578
       },
       "GLD": {
-        "StartWeight": 0.04999999999999998,
+        "StartWeight": 0.04999999999999996,
         "Return": 0.025297363508325343,
-        "EndWeight": 0.050973377023582275
+        "EndWeight": 0.05097337702358225
       },
       "EndValue": 209118.34355345595,
       "TotalReturn": 0.005718497946469725
@@ -2170,101 +2174,101 @@
     {
       "Period": "2021-08",
       "RebalanceDate": "2021-08-02",
-      "StartValue": 209118.34355345595,
-      "CashRemaining": 7.275957614183426e-12,
+      "StartValue": 209118.34355345592,
+      "CashRemaining": -1.5631940186722204e-13,
       "069500.KS": {
         "StartWeight": 0.3,
         "Return": -0.035120700112407977,
         "EndWeight": 0.28748562478894923
       },
       "IVV": {
-        "StartWeight": 0.3,
+        "StartWeight": 0.30000000000000004,
         "Return": 0.030222556366066078,
         "EndWeight": 0.3069546370443134
       },
       "QQQ": {
-        "StartWeight": 0.2,
+        "StartWeight": 0.20000000000000004,
         "Return": 0.04218675673759287,
         "EndWeight": 0.2070129123524434
       },
       "SHY": {
-        "StartWeight": 0.15,
+        "StartWeight": 0.15000000000000002,
         "Return": -0.00032474923564895786,
         "EndWeight": 0.14892653624423285
       },
       "GLD": {
-        "StartWeight": 0.05,
+        "StartWeight": 0.05000000000000001,
         "Return": -0.0007655451490135023,
         "EndWeight": 0.04962028957006113
       },
       "EndValue": 210557.2698492028,
-      "TotalReturn": 0.006880918580817852
+      "TotalReturn": 0.006880918580818074
     },
     {
       "Period": "2021-09",
       "RebalanceDate": "2021-09-01",
-      "StartValue": 210557.2698492028,
-      "CashRemaining": 1.8189894035458565e-11,
+      "StartValue": 210557.26984920277,
+      "CashRemaining": 3.637978807091713e-12,
       "069500.KS": {
-        "StartWeight": 0.3,
-        "Return": -0.0830734897426022,
+        "StartWeight": 0.30000000000000004,
+        "Return": -0.08307348974260231,
         "EndWeight": 0.29019801945743245
       },
       "IVV": {
-        "StartWeight": 0.3,
-        "Return": -0.04683717705909185,
-        "EndWeight": 0.30166644801256604
+        "StartWeight": 0.30000000000000004,
+        "Return": -0.04683717705909196,
+        "EndWeight": 0.3016664480125661
       },
       "QQQ": {
-        "StartWeight": 0.2,
+        "StartWeight": 0.20000000000000004,
         "Return": -0.05683171254922714,
-        "EndWeight": 0.19900218535975406
+        "EndWeight": 0.19900218535975409
       },
       "SHY": {
-        "StartWeight": 0.15,
-        "Return": -0.001008516236559731,
+        "StartWeight": 0.15000000000000002,
+        "Return": -0.0010085162365598421,
         "EndWeight": 0.15808537914429505
       },
       "GLD": {
-        "StartWeight": 0.05,
+        "StartWeight": 0.05000000000000001,
         "Return": -0.032235259249241976,
-        "EndWeight": 0.051047968025952226
+        "EndWeight": 0.05104796802595223
       },
-      "EndValue": 199586.69223151723,
+      "EndValue": 199586.6922315172,
       "TotalReturn": -0.0521025829482995
     },
     {
       "Period": "2021-10",
       "RebalanceDate": "2021-10-01",
-      "StartValue": 199586.69223151723,
-      "CashRemaining": -1.7053025658242404e-13,
+      "StartValue": 199586.69223151717,
+      "CashRemaining": -1.1368683772161603e-13,
       "069500.KS": {
-        "StartWeight": 0.2999999999999999,
-        "Return": -0.00153032287290078,
+        "StartWeight": 0.3,
+        "Return": -0.001530322872900669,
         "EndWeight": 0.2889887160111698
       },
       "IVV": {
         "StartWeight": 0.3,
-        "Return": 0.07002898330680818,
+        "Return": 0.0700289833068084,
         "EndWeight": 0.3097002433467084
       },
       "QQQ": {
-        "StartWeight": 0.2,
+        "StartWeight": 0.20000000000000007,
         "Return": 0.07864002944232218,
         "EndWeight": 0.20812836836713658
       },
       "SHY": {
         "StartWeight": 0.15,
-        "Return": -0.0033551935063212968,
-        "EndWeight": 0.14423027035559438
+        "Return": -0.0033551935063211857,
+        "EndWeight": 0.14423027035559435
       },
       "GLD": {
-        "StartWeight": 0.05,
+        "StartWeight": 0.05000000000000002,
         "Return": 0.014797178527087729,
         "EndWeight": 0.04895240191939085
       },
       "EndValue": 206874.4374194522,
-      "TotalReturn": 0.0365141839190426
+      "TotalReturn": 0.03651418391904304
     },
     {
       "Period": "2021-11",
@@ -2278,7 +2282,7 @@
       },
       "IVV": {
         "StartWeight": 0.29999999999999993,
-        "Return": -0.0072885152358220795,
+        "Return": -0.0072885152358221905,
         "EndWeight": 0.30285058208005533
       },
       "QQQ": {
@@ -2302,41 +2306,41 @@
     {
       "Period": "2021-12",
       "RebalanceDate": "2021-12-01",
-      "StartValue": 203433.61586420715,
+      "StartValue": 203433.61586420712,
       "CashRemaining": 0.0,
       "069500.KS": {
         "StartWeight": 0.29999999999999993,
         "Return": 0.06388938101307606,
-        "EndWeight": 0.3079310034847663
+        "EndWeight": 0.3079310034847662
       },
       "IVV": {
-        "StartWeight": 0.3,
-        "Return": 0.045618286877215475,
-        "EndWeight": 0.3026426375583552
+        "StartWeight": 0.30000000000000004,
+        "Return": 0.04561828687721614,
+        "EndWeight": 0.30264263755835535
       },
       "QQQ": {
-        "StartWeight": 0.2,
+        "StartWeight": 0.20000000000000004,
         "Return": 0.011523266188746106,
-        "EndWeight": 0.1951828075139958
+        "EndWeight": 0.19518280751399578
       },
       "SHY": {
-        "StartWeight": 0.15,
+        "StartWeight": 0.15000000000000002,
         "Return": -0.0021228222623682624,
-        "EndWeight": 0.14441225101931854
+        "EndWeight": 0.1444122510193185
       },
       "GLD": {
-        "StartWeight": 0.05,
+        "StartWeight": 0.05000000000000001,
         "Return": 0.03299097712306431,
-        "EndWeight": 0.04983130042356426
+        "EndWeight": 0.049831300423564255
       },
-      "EndValue": 210856.51773586054,
-      "TotalReturn": 0.03648807912163443
+      "EndValue": 210856.51773586057,
+      "TotalReturn": 0.036488079121634875
     },
     {
       "Period": "2022-01",
       "RebalanceDate": "2022-01-03",
-      "StartValue": 210856.51773586057,
-      "CashRemaining": 2.3646862246096134e-11,
+      "StartValue": 210856.5177358606,
+      "CashRemaining": 1.8189894035458565e-11,
       "069500.KS": {
         "StartWeight": 0.29999999999999993,
         "Return": -0.07881139145877059,
@@ -2344,65 +2348,65 @@
       },
       "IVV": {
         "StartWeight": 0.29999999999999993,
-        "Return": -0.052873361667259866,
-        "EndWeight": 0.30191261625645743
+        "Return": -0.05287336166725998,
+        "EndWeight": 0.3019126162564573
       },
       "QQQ": {
         "StartWeight": 0.19999999999999998,
         "Return": -0.0874699323656205,
-        "EndWeight": 0.19392291659269376
+        "EndWeight": 0.19392291659269373
       },
       "SHY": {
         "StartWeight": 0.14999999999999997,
         "Return": -0.006897435671766372,
-        "EndWeight": 0.15828410968101125
+        "EndWeight": 0.15828410968101123
       },
       "GLD": {
         "StartWeight": 0.049999999999999996,
-        "Return": -0.016787612677039432,
-        "EndWeight": 0.05223592639364073
+        "Return": -0.016787612677039543,
+        "EndWeight": 0.05223592639364072
       },
-      "EndValue": 198442.67585433368,
-      "TotalReturn": -0.05887340839555022
+      "EndValue": 198442.67585433373,
+      "TotalReturn": -0.05887340839555011
     },
     {
       "Period": "2022-02",
       "RebalanceDate": "2022-02-01",
-      "StartValue": 198442.67585433365,
-      "CashRemaining": 2.2737367544323206e-13,
+      "StartValue": 198442.6758543337,
+      "CashRemaining": -2.2737367544323206e-13,
       "069500.KS": {
-        "StartWeight": 0.3,
-        "Return": 0.020455503082335902,
+        "StartWeight": 0.29999999999999993,
+        "Return": 0.02045550308233568,
         "EndWeight": 0.30893823164231776
       },
       "IVV": {
         "StartWeight": 0.30000000000000004,
-        "Return": -0.02888609630159189,
+        "Return": -0.028886096301592334,
         "EndWeight": 0.2940002883277582
       },
       "QQQ": {
-        "StartWeight": 0.2,
+        "StartWeight": 0.19999999999999993,
         "Return": -0.044759759732578175,
         "EndWeight": 0.1927964062652447
       },
       "SHY": {
         "StartWeight": 0.15000000000000002,
-        "Return": -0.004320999790056512,
+        "Return": -0.004320999790056734,
         "EndWeight": 0.15071862941555025
       },
       "GLD": {
         "StartWeight": 0.05000000000000001,
         "Return": 0.06121725723782623,
-        "EndWeight": 0.05354644434912906
+        "EndWeight": 0.05354644434912908
       },
       "EndValue": 196643.11491533826,
-      "TotalReturn": -0.009068417018909591
+      "TotalReturn": -0.009068417018909813
     },
     {
       "Period": "2022-03",
       "RebalanceDate": "2022-03-01",
       "StartValue": 196643.11491533826,
-      "CashRemaining": -2.2737367544323206e-13,
+      "CashRemaining": 5.4569682106375694e-12,
       "069500.KS": {
         "StartWeight": 0.3,
         "Return": 0.03131593197156857,
@@ -2410,8 +2414,8 @@
       },
       "IVV": {
         "StartWeight": 0.3,
-        "Return": 0.03755647482109903,
-        "EndWeight": 0.30263251229443133
+        "Return": 0.03755647482109925,
+        "EndWeight": 0.3026325122944314
       },
       "QQQ": {
         "StartWeight": 0.2,
@@ -2434,111 +2438,111 @@
     {
       "Period": "2022-04",
       "RebalanceDate": "2022-04-01",
-      "StartValue": 202253.5538854127,
-      "CashRemaining": 0.0,
+      "StartValue": 202253.55388541275,
+      "CashRemaining": 3.637978807091713e-12,
       "069500.KS": {
-        "StartWeight": 0.30000000000000004,
+        "StartWeight": 0.29999999999999993,
         "Return": -0.04896291928263308,
         "EndWeight": 0.3068510347534917
       },
       "IVV": {
-        "StartWeight": 0.30000000000000004,
+        "StartWeight": 0.29999999999999993,
         "Return": -0.08845254881647813,
         "EndWeight": 0.2941097506015086
       },
       "QQQ": {
-        "StartWeight": 0.20000000000000004,
+        "StartWeight": 0.19999999999999998,
         "Return": -0.13595739225156578,
         "EndWeight": 0.18585491118721548
       },
       "SHY": {
-        "StartWeight": 0.14999999999999994,
+        "StartWeight": 0.14999999999999997,
         "Return": -0.004969129451891985,
-        "EndWeight": 0.16052279055672936
+        "EndWeight": 0.16052279055672944
       },
       "GLD": {
-        "StartWeight": 0.05,
+        "StartWeight": 0.049999999999999996,
         "Return": -0.020702963524693807,
-        "EndWeight": 0.05266151290105495
+        "EndWeight": 0.05266151290105496
       },
       "EndValue": 188056.03468773066,
-      "TotalReturn": -0.07019663647406504
+      "TotalReturn": -0.07019663647406527
     },
     {
       "Period": "2022-05",
       "RebalanceDate": "2022-05-02",
       "StartValue": 188056.0346877307,
-      "CashRemaining": 1.6370904631912708e-11,
+      "CashRemaining": 3.637978807091713e-11,
       "069500.KS": {
         "StartWeight": 0.29999999999999993,
         "Return": -0.005039161487721433,
-        "EndWeight": 0.299828823978517
+        "EndWeight": 0.29982882397851696
       },
       "IVV": {
         "StartWeight": 0.29999999999999993,
-        "Return": 0.003167585599329392,
-        "EndWeight": 0.30230190556379716
+        "Return": 0.0031675855993298363,
+        "EndWeight": 0.3023019055637972
       },
       "QQQ": {
         "StartWeight": 0.19999999999999998,
         "Return": -0.01586595320651929,
-        "EndWeight": 0.19771079923675933
+        "EndWeight": 0.1977107992367593
       },
       "SHY": {
         "StartWeight": 0.14999999999999997,
         "Return": 0.0059620758418514885,
-        "EndWeight": 0.1515720089132573
+        "EndWeight": 0.15157200891325728
       },
       "GLD": {
         "StartWeight": 0.049999999999999996,
         "Return": -0.03261547766106754,
-        "EndWeight": 0.04858646230766904
+        "EndWeight": 0.04858646230766903
       },
-      "EndValue": 187215.212477642,
-      "TotalReturn": -0.004471125914597196
+      "EndValue": 187215.21247764202,
+      "TotalReturn": -0.004471125914596974
     },
     {
       "Period": "2022-06",
       "RebalanceDate": "2022-06-01",
-      "StartValue": 187215.21247764197,
+      "StartValue": 187215.212477642,
       "CashRemaining": 0.0,
       "069500.KS": {
         "StartWeight": 0.30000000000000004,
-        "Return": -0.12461282008033836,
-        "EndWeight": 0.2860273168809171
+        "Return": -0.12461282008033825,
+        "EndWeight": 0.2860273168809172
       },
       "IVV": {
         "StartWeight": 0.30000000000000004,
         "Return": -0.08325082008828366,
-        "EndWeight": 0.29954209314213864
+        "EndWeight": 0.2995420931421387
       },
       "QQQ": {
-        "StartWeight": 0.20000000000000007,
+        "StartWeight": 0.2,
         "Return": -0.08907895311859759,
         "EndWeight": 0.19842519128031658
       },
       "SHY": {
         "StartWeight": 0.15000000000000002,
-        "Return": -0.005943533323582106,
-        "EndWeight": 0.1624008841537265
+        "Return": -0.005943533323581995,
+        "EndWeight": 0.16240088415372653
       },
       "GLD": {
         "StartWeight": 0.05,
         "Return": -0.01565965107712408,
-        "EndWeight": 0.05360451454290106
+        "EndWeight": 0.05360451454290107
       },
       "EndValue": 171891.76055910895,
-      "TotalReturn": -0.08184939522669932
+      "TotalReturn": -0.08184939522669954
     },
     {
       "Period": "2022-07",
       "RebalanceDate": "2022-07-01",
       "StartValue": 171891.76055910895,
-      "CashRemaining": 2.8421709430404007e-13,
+      "CashRemaining": 1.0913936421275139e-11,
       "069500.KS": {
-        "StartWeight": 0.29999999999999993,
+        "StartWeight": 0.3,
         "Return": 0.040772008112971214,
-        "EndWeight": 0.29332607494145213
+        "EndWeight": 0.29332607494145224
       },
       "IVV": {
         "StartWeight": 0.3,
@@ -2567,11 +2571,11 @@
       "Period": "2022-08",
       "RebalanceDate": "2022-08-01",
       "StartValue": 182970.57244319606,
-      "CashRemaining": -3.410605131648481e-13,
+      "CashRemaining": 9.094947017729282e-12,
       "069500.KS": {
-        "StartWeight": 0.3,
-        "Return": -0.010828163774815769,
-        "EndWeight": 0.30548301384240506
+        "StartWeight": 0.30000000000000004,
+        "Return": -0.01082816377481588,
+        "EndWeight": 0.3054830138424051
       },
       "IVV": {
         "StartWeight": 0.30000000000000004,
@@ -2584,14 +2588,14 @@
         "EndWeight": 0.19531828543568222
       },
       "SHY": {
-        "StartWeight": 0.14999999999999997,
-        "Return": -0.00810031697750424,
-        "EndWeight": 0.15316272335217324
+        "StartWeight": 0.15000000000000002,
+        "Return": -0.008100316977504352,
+        "EndWeight": 0.1531627233521733
       },
       "GLD": {
-        "StartWeight": 0.049999999999999996,
+        "StartWeight": 0.05000000000000002,
         "Return": -0.02943328245830723,
-        "EndWeight": 0.0499562083404402
+        "EndWeight": 0.04995620834044021
       },
       "EndValue": 177740.81921181336,
       "TotalReturn": -0.02858248275419417
@@ -2599,41 +2603,41 @@
     {
       "Period": "2022-09",
       "RebalanceDate": "2022-09-01",
-      "StartValue": 177740.81921181336,
-      "CashRemaining": 1.1546319456101628e-14,
+      "StartValue": 177740.8192118134,
+      "CashRemaining": 2.546585164964199e-11,
       "069500.KS": {
-        "StartWeight": 0.3,
+        "StartWeight": 0.29999999999999993,
         "Return": -0.12575344901273744,
-        "EndWeight": 0.2881292882665059
+        "EndWeight": 0.28812928826650586
       },
       "IVV": {
-        "StartWeight": 0.3,
+        "StartWeight": 0.29999999999999993,
         "Return": -0.09235123724310146,
-        "EndWeight": 0.2991378023897175
+        "EndWeight": 0.29913780238971743
       },
       "QQQ": {
-        "StartWeight": 0.2,
+        "StartWeight": 0.19999999999999996,
         "Return": -0.10535525783852728,
-        "EndWeight": 0.19656800667901628
+        "EndWeight": 0.19656800667901625
       },
       "SHY": {
-        "StartWeight": 0.15,
+        "StartWeight": 0.14999999999999997,
         "Return": -0.011923968797047824,
-        "EndWeight": 0.16282228583127023
+        "EndWeight": 0.1628222858312702
       },
       "GLD": {
-        "StartWeight": 0.05,
+        "StartWeight": 0.04999999999999999,
         "Return": -0.02888181063677553,
-        "EndWeight": 0.053342616833490265
+        "EndWeight": 0.05334261683349025
       },
-      "EndValue": 161791.22133031895,
+      "EndValue": 161791.22133031898,
       "TotalReturn": -0.08973514329585319
     },
     {
       "Period": "2022-10",
       "RebalanceDate": "2022-10-03",
-      "StartValue": 161791.22133031898,
-      "CashRemaining": 2.546585164964199e-11,
+      "StartValue": 161791.221330319,
+      "CashRemaining": 2.3646862246096134e-11,
       "069500.KS": {
         "StartWeight": 0.29999999999999993,
         "Return": 0.08126195457592122,
@@ -2641,11 +2645,11 @@
       },
       "IVV": {
         "StartWeight": 0.29999999999999993,
-        "Return": 0.08124927515380098,
-        "EndWeight": 0.30726848684672764
+        "Return": 0.0812492751538012,
+        "EndWeight": 0.3072684868467277
       },
       "QQQ": {
-        "StartWeight": 0.19999999999999996,
+        "StartWeight": 0.19999999999999998,
         "Return": 0.03999835468207125,
         "EndWeight": 0.19703055722020635
       },
@@ -2655,59 +2659,59 @@
         "EndWeight": 0.14191084427859874
       },
       "GLD": {
-        "StartWeight": 0.04999999999999999,
+        "StartWeight": 0.049999999999999996,
         "Return": -0.017844407703563214,
         "EndWeight": 0.046518021580492404
       },
-      "EndValue": 170798.48563538294,
+      "EndValue": 170798.48563538297,
       "TotalReturn": 0.0556721448234474
     },
     {
       "Period": "2022-11",
       "RebalanceDate": "2022-11-01",
-      "StartValue": 170798.4856353829,
-      "CashRemaining": 0.0,
+      "StartValue": 170798.48563538294,
+      "CashRemaining": -2.2737367544323206e-13,
       "069500.KS": {
         "StartWeight": 0.30000000000000004,
         "Return": 0.1557430299086049,
-        "EndWeight": 0.32111291580373846
+        "EndWeight": 0.3211129158037385
       },
       "IVV": {
         "StartWeight": 0.30000000000000004,
-        "Return": 0.055519742495533375,
+        "Return": 0.05551974249553315,
         "EndWeight": 0.29326676729164874
       },
       "QQQ": {
-        "StartWeight": 0.19999999999999998,
-        "Return": 0.055441614638835235,
-        "EndWeight": 0.19549670677462108
+        "StartWeight": 0.20000000000000004,
+        "Return": 0.05544161463883546,
+        "EndWeight": 0.1954967067746212
       },
       "SHY": {
-        "StartWeight": 0.14999999999999997,
+        "StartWeight": 0.15,
         "Return": 0.0069384541767061325,
-        "EndWeight": 0.1398844443306574
+        "EndWeight": 0.13988444433065744
       },
       "GLD": {
-        "StartWeight": 0.049999999999999975,
+        "StartWeight": 0.04999999999999999,
         "Return": 0.08491865963730527,
-        "EndWeight": 0.050239165799334046
+        "EndWeight": 0.050239165799334067
       },
       "EndValue": 184420.32342232618,
-      "TotalReturn": 0.07975385575738003
+      "TotalReturn": 0.07975385575737981
     },
     {
       "Period": "2022-12",
       "RebalanceDate": "2022-12-01",
-      "StartValue": 184420.32342232612,
-      "CashRemaining": 2.2737367544323206e-13,
+      "StartValue": 184420.32342232618,
+      "CashRemaining": 0.0,
       "069500.KS": {
-        "StartWeight": 0.3000000000000001,
+        "StartWeight": 0.3,
         "Return": -0.027821436627729068,
-        "EndWeight": 0.30441411740720614
+        "EndWeight": 0.3044141174072061
       },
       "IVV": {
         "StartWeight": 0.3,
-        "Return": -0.057288345849773714,
+        "Return": -0.057288345849773936,
         "EndWeight": 0.2951872700959142
       },
       "QQQ": {
@@ -2716,89 +2720,89 @@
         "EndWeight": 0.1899344553701555
       },
       "SHY": {
-        "StartWeight": 0.14999999999999994,
-        "Return": 0.001176767482525598,
-        "EndWeight": 0.15674710054529753
+        "StartWeight": 0.14999999999999997,
+        "Return": 0.0011767674825260421,
+        "EndWeight": 0.1567471005452976
       },
       "GLD": {
-        "StartWeight": 0.05000000000000002,
+        "StartWeight": 0.05,
         "Return": 0.029306485665941073,
-        "EndWeight": 0.05371705658142672
+        "EndWeight": 0.05371705658142671
       },
-      "EndValue": 176689.72116842022,
-      "TotalReturn": -0.0419183857312877
+      "EndValue": 176689.72116842025,
+      "TotalReturn": -0.04191838573128792
     },
     {
       "Period": "2023-01",
       "RebalanceDate": "2023-01-02",
-      "StartValue": 176689.72116842025,
-      "CashRemaining": 1.6370904631912708e-11,
+      "StartValue": 176689.7211684203,
+      "CashRemaining": 2.546585164964199e-11,
       "069500.KS": {
-        "StartWeight": 0.29999999999999993,
-        "Return": 0.11230417564217188,
-        "EndWeight": 0.3095929058782141
+        "StartWeight": 0.2999999999999999,
+        "Return": 0.11230417564217166,
+        "EndWeight": 0.30959290587821403
       },
       "IVV": {
-        "StartWeight": 0.29999999999999993,
+        "StartWeight": 0.2999999999999999,
         "Return": 0.06272619350630793,
         "EndWeight": 0.2957936305602384
       },
       "QQQ": {
         "StartWeight": 0.19999999999999996,
-        "Return": 0.10642916154616189,
+        "Return": 0.10642916154616167,
         "EndWeight": 0.20530512352804958
       },
       "SHY": {
-        "StartWeight": 0.14999999999999997,
-        "Return": 0.007761662200564512,
-        "EndWeight": 0.14024754570988007
+        "StartWeight": 0.14999999999999994,
+        "Return": 0.00776166220056429,
+        "EndWeight": 0.14024754570988004
       },
       "GLD": {
         "StartWeight": 0.04999999999999999,
         "Return": 0.05759257431981091,
-        "EndWeight": 0.049060794323617846
+        "EndWeight": 0.04906079432361785
       },
-      "EndValue": 190443.04076463153,
-      "TotalReturn": 0.0778388210998513
+      "EndValue": 190443.04076463156,
+      "TotalReturn": 0.07783882109985107
     },
     {
       "Period": "2023-02",
       "RebalanceDate": "2023-02-01",
       "StartValue": 190443.04076463156,
-      "CashRemaining": 1.8189894035458565e-11,
+      "CashRemaining": 7.275957614183426e-12,
       "069500.KS": {
-        "StartWeight": 0.29999999999999993,
-        "Return": -0.050931061803887734,
-        "EndWeight": 0.29276849547628636
+        "StartWeight": 0.3,
+        "Return": -0.05093106180388762,
+        "EndWeight": 0.2927684954762864
       },
       "IVV": {
-        "StartWeight": 0.29999999999999993,
-        "Return": -0.02532383665095017,
-        "EndWeight": 0.3006678044512461
+        "StartWeight": 0.3,
+        "Return": -0.025323836650949838,
+        "EndWeight": 0.30066780445124625
       },
       "QQQ": {
         "StartWeight": 0.19999999999999998,
         "Return": -0.0035977580393301567,
-        "EndWeight": 0.20491323901962608
+        "EndWeight": 0.20491323901962602
       },
       "SHY": {
-        "StartWeight": 0.14999999999999997,
+        "StartWeight": 0.15,
         "Return": -0.00805894653557826,
         "EndWeight": 0.152996836234004
       },
       "GLD": {
         "StartWeight": 0.049999999999999996,
         "Return": -0.053675963916422154,
-        "EndWeight": 0.048653624818837386
+        "EndWeight": 0.04865362481883738
       },
-      "EndValue": 185208.01651621112,
-      "TotalReturn": -0.02748866132047534
+      "EndValue": 185208.01651621115,
+      "TotalReturn": -0.027488661320475227
     },
     {
       "Period": "2023-03",
       "RebalanceDate": "2023-03-01",
-      "StartValue": 185208.01651621115,
-      "CashRemaining": 1.8189894035458565e-12,
+      "StartValue": 185208.01651621118,
+      "CashRemaining": 2.9103830456733704e-11,
       "069500.KS": {
         "StartWeight": 0.29999999999999993,
         "Return": 0.038205023154194606,
@@ -2806,8 +2810,8 @@
       },
       "IVV": {
         "StartWeight": 0.29999999999999993,
-        "Return": 0.03726430643341172,
-        "EndWeight": 0.2969108837694521
+        "Return": 0.0372643064334115,
+        "EndWeight": 0.29691088376945207
       },
       "QQQ": {
         "StartWeight": 0.19999999999999998,
@@ -2824,245 +2828,245 @@
         "Return": 0.07916128247166165,
         "EndWeight": 0.051483941640385535
       },
-      "EndValue": 194108.409592792,
+      "EndValue": 194108.40959279204,
       "TotalReturn": 0.048056197803953093
     },
     {
       "Period": "2023-04",
       "RebalanceDate": "2023-04-03",
-      "StartValue": 194108.40959279204,
-      "CashRemaining": 2.3646862246096134e-11,
+      "StartValue": 194108.40959279207,
+      "CashRemaining": 3.637978807091713e-11,
       "069500.KS": {
         "StartWeight": 0.29999999999999993,
         "Return": -0.007931006801384255,
-        "EndWeight": 0.29636540232123143
+        "EndWeight": 0.2963654023212314
       },
       "IVV": {
         "StartWeight": 0.29999999999999993,
-        "Return": 0.016006727011218524,
+        "Return": 0.016006727011218747,
         "EndWeight": 0.30351643330866024
       },
       "QQQ": {
         "StartWeight": 0.19999999999999998,
-        "Return": 0.005078978517062405,
-        "EndWeight": 0.2001679573194676
+        "Return": 0.005078978517062183,
+        "EndWeight": 0.20016795731946752
       },
       "SHY": {
         "StartWeight": 0.14999999999999997,
         "Return": 0.002439646608581647,
-        "EndWeight": 0.149731738017553
+        "EndWeight": 0.14973173801755296
       },
       "GLD": {
         "StartWeight": 0.049999999999999996,
         "Return": 0.008623522653246951,
-        "EndWeight": 0.05021846903308773
+        "EndWeight": 0.05021846903308772
       },
-      "EndValue": 194930.58194496628,
-      "TotalReturn": 0.00423563489031209
+      "EndValue": 194930.58194496634,
+      "TotalReturn": 0.004235634890312312
     },
     {
       "Period": "2023-05",
       "RebalanceDate": "2023-05-01",
-      "StartValue": 194930.58194496628,
+      "StartValue": 194930.5819449663,
       "CashRemaining": 1.2732925824820995e-11,
       "069500.KS": {
-        "StartWeight": 0.3,
-        "Return": 0.019256932979972552,
-        "EndWeight": 0.29931789609290077
+        "StartWeight": 0.30000000000000004,
+        "Return": 0.01925693297997233,
+        "EndWeight": 0.2993178960929007
       },
       "IVV": {
-        "StartWeight": 0.3,
+        "StartWeight": 0.30000000000000004,
         "Return": 0.00423780239968341,
         "EndWeight": 0.29490733539816666
       },
       "QQQ": {
-        "StartWeight": 0.2,
+        "StartWeight": 0.20000000000000004,
         "Return": 0.07883791210772717,
         "EndWeight": 0.21120974416348837
       },
       "SHY": {
-        "StartWeight": 0.15,
-        "Return": -0.003768870571491556,
+        "StartWeight": 0.15000000000000002,
+        "Return": -0.003768870571491778,
         "EndWeight": 0.1462780364961494
       },
       "GLD": {
-        "StartWeight": 0.05,
+        "StartWeight": 0.05000000000000001,
         "Return": -0.013419890078921748,
         "EndWeight": 0.04828698784929471
       },
-      "EndValue": 199137.12112512067,
-      "TotalReturn": 0.021579677945772424
+      "EndValue": 199137.12112512073,
+      "TotalReturn": 0.021579677945772646
     },
     {
       "Period": "2023-06",
       "RebalanceDate": "2023-06-01",
-      "StartValue": 199137.1211251207,
-      "CashRemaining": 1.8189894035458565e-12,
+      "StartValue": 199137.12112512073,
+      "CashRemaining": 1.7053025658242404e-13,
       "069500.KS": {
-        "StartWeight": 0.29999999999999993,
+        "StartWeight": 0.3,
         "Return": 0.004878273574566272,
-        "EndWeight": 0.29211251268870003
+        "EndWeight": 0.2921125126887
       },
       "IVV": {
-        "StartWeight": 0.29999999999999993,
-        "Return": 0.06597624849007855,
-        "EndWeight": 0.30987335342145284
+        "StartWeight": 0.3,
+        "Return": 0.06597624849007877,
+        "EndWeight": 0.3098733534214528
       },
       "QQQ": {
-        "StartWeight": 0.19999999999999998,
+        "StartWeight": 0.20000000000000004,
         "Return": 0.06303856645953232,
-        "EndWeight": 0.20601292375369168
+        "EndWeight": 0.20601292375369165
       },
       "SHY": {
-        "StartWeight": 0.14999999999999997,
+        "StartWeight": 0.15,
         "Return": -0.004945676383604103,
-        "EndWeight": 0.1446283725984904
+        "EndWeight": 0.14462837259849037
       },
       "GLD": {
-        "StartWeight": 0.049999999999999996,
+        "StartWeight": 0.05000000000000001,
         "Return": -0.02221370606110007,
         "EndWeight": 0.04737283753766511
       },
-      "EndValue": 205511.80567955328,
-      "TotalReturn": 0.03201153315070404
+      "EndValue": 205511.80567955336,
+      "TotalReturn": 0.032011533150704485
     },
     {
       "Period": "2023-07",
       "RebalanceDate": "2023-07-03",
-      "StartValue": 205511.8056795533,
-      "CashRemaining": 1.4551915228366852e-11,
+      "StartValue": 205511.80567955333,
+      "CashRemaining": 0.0,
       "069500.KS": {
-        "StartWeight": 0.29999999999999993,
+        "StartWeight": 0.3,
         "Return": 0.032306247495470064,
         "EndWeight": 0.3010364413357323
       },
       "IVV": {
-        "StartWeight": 0.29999999999999993,
+        "StartWeight": 0.30000000000000004,
         "Return": 0.03246493022915464,
-        "EndWeight": 0.30108271567105266
+        "EndWeight": 0.3010827156710527
       },
       "QQQ": {
-        "StartWeight": 0.19999999999999998,
+        "StartWeight": 0.20000000000000004,
         "Return": 0.03860094872252806,
-        "EndWeight": 0.201914715605566
+        "EndWeight": 0.20191471560556604
       },
       "SHY": {
-        "StartWeight": 0.14999999999999997,
+        "StartWeight": 0.15,
         "Return": 0.0030415663008507288,
         "EndWeight": 0.1462512042156134
       },
       "GLD": {
-        "StartWeight": 0.049999999999999996,
+        "StartWeight": 0.04999999999999999,
         "Return": 0.022886642358626474,
-        "EndWeight": 0.049714923172035436
+        "EndWeight": 0.04971492317203542
       },
-      "EndValue": 211420.70374842954,
-      "TotalReturn": 0.028752110124951935
+      "EndValue": 211420.7037484296,
+      "TotalReturn": 0.028752110124952157
     },
     {
       "Period": "2023-08",
       "RebalanceDate": "2023-08-01",
-      "StartValue": 211420.70374842954,
-      "CashRemaining": 3.552713678800501e-14,
+      "StartValue": 211420.70374842957,
+      "CashRemaining": 7.105427357601002e-15,
       "069500.KS": {
-        "StartWeight": 0.3,
-        "Return": -0.03649120608596357,
-        "EndWeight": 0.29459683984310747
+        "StartWeight": 0.30000000000000004,
+        "Return": -0.03649120608596368,
+        "EndWeight": 0.2945968398431074
       },
       "IVV": {
-        "StartWeight": 0.3,
-        "Return": -0.016276143470035698,
-        "EndWeight": 0.3007776797082953
+        "StartWeight": 0.30000000000000004,
+        "Return": -0.01627614347003603,
+        "EndWeight": 0.30077767970829516
       },
       "QQQ": {
-        "StartWeight": 0.2,
-        "Return": -0.01483015370932217,
-        "EndWeight": 0.20081319807988357
+        "StartWeight": 0.20000000000000004,
+        "Return": -0.01483015370932228,
+        "EndWeight": 0.20081319807988351
       },
       "SHY": {
-        "StartWeight": 0.1499999999999999,
+        "StartWeight": 0.14999999999999994,
         "Return": 0.004103291081152927,
-        "EndWeight": 0.15350438848976555
+        "EndWeight": 0.15350438848976553
       },
       "GLD": {
-        "StartWeight": 0.049999999999999996,
-        "Return": -0.012777635059315395,
-        "EndWeight": 0.050307893878948254
+        "StartWeight": 0.05,
+        "Return": -0.012777635059315617,
+        "EndWeight": 0.05030789387894825
       },
-      "EndValue": 207441.84566160967,
-      "TotalReturn": -0.018819623699457222
+      "EndValue": 207441.84566160975,
+      "TotalReturn": -0.018819623699457
     },
     {
       "Period": "2023-09",
       "RebalanceDate": "2023-09-01",
-      "StartValue": 207441.84566160967,
-      "CashRemaining": 3.2741809263825417e-11,
+      "StartValue": 207441.8456616097,
+      "CashRemaining": 0.0,
       "069500.KS": {
         "StartWeight": 0.3,
-        "Return": -0.053171705618254794,
-        "EndWeight": 0.2967251427749359
+        "Return": -0.053171705618254905,
+        "EndWeight": 0.29672514277493584
       },
       "IVV": {
-        "StartWeight": 0.3,
+        "StartWeight": 0.30000000000000004,
         "Return": -0.04703966850899677,
-        "EndWeight": 0.2986468529704829
+        "EndWeight": 0.29864685297048293
       },
       "QQQ": {
-        "StartWeight": 0.20000000000000004,
+        "StartWeight": 0.20000000000000007,
         "Return": -0.050798702721698175,
-        "EndWeight": 0.19831254313537391
+        "EndWeight": 0.19831254313537394
       },
       "SHY": {
-        "StartWeight": 0.15,
-        "Return": -0.0007895277715278537,
-        "EndWeight": 0.15657055867125597
+        "StartWeight": 0.15000000000000002,
+        "Return": -0.0007895277715277427,
+        "EndWeight": 0.156570558671256
       },
       "GLD": {
-        "StartWeight": 0.05000000000000001,
+        "StartWeight": 0.05000000000000002,
         "Return": -0.04760586113112186,
-        "EndWeight": 0.049744902447951274
+        "EndWeight": 0.04974490244795128
       },
-      "EndValue": 198579.54106048928,
-      "TotalReturn": -0.0427218750048004
+      "EndValue": 198579.54106048934,
+      "TotalReturn": -0.04272187500480029
     },
     {
       "Period": "2023-10",
       "RebalanceDate": "2023-10-02",
-      "StartValue": 198579.5410604893,
-      "CashRemaining": 2.3646862246096134e-11,
+      "StartValue": 198579.54106048934,
+      "CashRemaining": 7.105427357601002e-14,
       "069500.KS": {
-        "StartWeight": 0.29999999999999993,
-        "Return": -0.04302801760532704,
+        "StartWeight": 0.3,
+        "Return": -0.04302801760532715,
         "EndWeight": 0.2927962439143504
       },
       "IVV": {
-        "StartWeight": 0.29999999999999993,
-        "Return": -0.022099238673931376,
-        "EndWeight": 0.2991996370894488
+        "StartWeight": 0.3,
+        "Return": -0.02209923867393182,
+        "EndWeight": 0.2991996370894487
       },
       "QQQ": {
-        "StartWeight": 0.19999999999999998,
+        "StartWeight": 0.2,
         "Return": -0.020654777959625892,
-        "EndWeight": 0.19976105729612093
+        "EndWeight": 0.19976105729612098
       },
       "SHY": {
-        "StartWeight": 0.14999999999999997,
+        "StartWeight": 0.15,
         "Return": 0.0033305683032680555,
-        "EndWeight": 0.15349008498061267
+        "EndWeight": 0.1534900849806127
       },
       "GLD": {
-        "StartWeight": 0.049999999999999996,
+        "StartWeight": 0.05,
         "Return": 0.07372411557093339,
-        "EndWeight": 0.05475297671946716
+        "EndWeight": 0.054752976719467175
       },
-      "EndValue": 194710.54805669267,
+      "EndValue": 194710.5480566927,
       "TotalReturn": -0.01948334145166597
     },
     {
       "Period": "2023-11",
       "RebalanceDate": "2023-11-01",
-      "StartValue": 194710.5480566927,
-      "CashRemaining": 1.4551915228366852e-11,
+      "StartValue": 194710.54805669273,
+      "CashRemaining": -7.105427357601002e-15,
       "069500.KS": {
         "StartWeight": 0.29999999999999993,
         "Return": 0.07301967222778005,
@@ -3070,13 +3074,13 @@
       },
       "IVV": {
         "StartWeight": 0.29999999999999993,
-        "Return": 0.09163214190603641,
-        "EndWeight": 0.3049601559889561
+        "Return": 0.09163214190603686,
+        "EndWeight": 0.3049601559889562
       },
       "QQQ": {
         "StartWeight": 0.19999999999999998,
-        "Return": 0.10818818313688694,
-        "EndWeight": 0.20639018598607287
+        "Return": 0.10818818313688716,
+        "EndWeight": 0.2063901859860729
       },
       "SHY": {
         "StartWeight": 0.14999999999999997,
@@ -3088,14 +3092,14 @@
         "Return": 0.025313725649470653,
         "EndWeight": 0.047738888970071294
       },
-      "EndValue": 209095.14418780967,
+      "EndValue": 209095.1441878097,
       "TotalReturn": 0.07387682010390462
     },
     {
       "Period": "2023-12",
       "RebalanceDate": "2023-12-01",
-      "StartValue": 209095.14418780967,
-      "CashRemaining": 0.0,
+      "StartValue": 209095.1441878097,
+      "CashRemaining": 3.637978807091713e-12,
       "069500.KS": {
         "StartWeight": 0.3,
         "Return": 0.07374918277941589,
@@ -3103,32 +3107,32 @@
       },
       "IVV": {
         "StartWeight": 0.3,
-        "Return": 0.04610987554969803,
-        "EndWeight": 0.29905146744287486
+        "Return": 0.046109875549697366,
+        "EndWeight": 0.2990514674428747
       },
       "QQQ": {
         "StartWeight": 0.2,
         "Return": 0.055869943871509564,
-        "EndWeight": 0.20122771901481137
+        "EndWeight": 0.2012277190148114
       },
       "SHY": {
-        "StartWeight": 0.14999999999999994,
+        "StartWeight": 0.15,
         "Return": 0.011034435697478528,
-        "EndWeight": 0.14451222510051037
+        "EndWeight": 0.14451222510051046
       },
       "GLD": {
-        "StartWeight": 0.04999999999999998,
+        "StartWeight": 0.05,
         "Return": 0.012821182352027671,
-        "EndWeight": 0.04825587125514969
+        "EndWeight": 0.04825587125514971
       },
       "EndValue": 219430.2844938947,
-      "TotalReturn": 0.049427930745259196
+      "TotalReturn": 0.049427930745258974
     },
     {
       "Period": "2024-01",
       "RebalanceDate": "2024-01-01",
       "StartValue": 219430.2844938947,
-      "CashRemaining": 1.6370904631912708e-11,
+      "CashRemaining": 2.000888343900442e-11,
       "069500.KS": {
         "StartWeight": 0.3,
         "Return": -0.09365715091671711,
@@ -3136,8 +3140,8 @@
       },
       "IVV": {
         "StartWeight": 0.3,
-        "Return": 0.01584918799880719,
-        "EndWeight": 0.31095521689392547
+        "Return": 0.015849187998807412,
+        "EndWeight": 0.3109552168939255
       },
       "QQQ": {
         "StartWeight": 0.20000000000000004,
@@ -3163,174 +3167,174 @@
       "StartValue": 215054.83511618615,
       "CashRemaining": 0.0,
       "069500.KS": {
-        "StartWeight": 0.29999999999999993,
+        "StartWeight": 0.3,
         "Return": 0.041014506650377536,
-        "EndWeight": 0.3008335634079932
+        "EndWeight": 0.30083356340799317
       },
       "IVV": {
         "StartWeight": 0.30000000000000004,
-        "Return": 0.052040312904804376,
-        "EndWeight": 0.30401981351668594
+        "Return": 0.05204031290480504,
+        "EndWeight": 0.30401981351668605
       },
       "QQQ": {
         "StartWeight": 0.20000000000000004,
         "Return": 0.05283357970711666,
-        "EndWeight": 0.20283270177665755
+        "EndWeight": 0.2028327017766575
       },
       "SHY": {
         "StartWeight": 0.15000000000000002,
         "Return": -0.0038754880367298794,
-        "EndWeight": 0.14393060068691316
+        "EndWeight": 0.1439306006869131
       },
       "GLD": {
         "StartWeight": 0.05000000000000001,
         "Return": 0.0045635480195194145,
-        "EndWeight": 0.048383320611750165
+        "EndWeight": 0.04838332061175015
       },
-      "EndValue": 223254.87942078445,
-      "TotalReturn": 0.03813001600344457
+      "EndValue": 223254.8794207845,
+      "TotalReturn": 0.03813001600344479
     },
     {
       "Period": "2024-03",
       "RebalanceDate": "2024-03-01",
-      "StartValue": 223254.87942078445,
-      "CashRemaining": 1.6370904631912708e-11,
+      "StartValue": 223254.8794207845,
+      "CashRemaining": 5.684341886080802e-14,
       "069500.KS": {
-        "StartWeight": 0.29999999999999993,
+        "StartWeight": 0.3,
         "Return": 0.03760063195911578,
         "EndWeight": 0.30261228831485376
       },
       "IVV": {
-        "StartWeight": 0.29999999999999993,
+        "StartWeight": 0.3,
         "Return": 0.03321319276401846,
         "EndWeight": 0.3013327083167539
       },
       "QQQ": {
         "StartWeight": 0.2,
-        "Return": 0.01274963693103115,
-        "EndWeight": 0.1969097265891748
+        "Return": 0.012749636931031372,
+        "EndWeight": 0.19690972658917483
       },
       "SHY": {
-        "StartWeight": 0.14999999999999997,
+        "StartWeight": 0.14999999999999994,
         "Return": 0.0034356655225566968,
-        "EndWeight": 0.14632410272687835
+        "EndWeight": 0.1463241027268783
       },
       "GLD": {
-        "StartWeight": 0.05,
+        "StartWeight": 0.04999999999999999,
         "Return": 0.08668323846462633,
-        "EndWeight": 0.052821174052339034
+        "EndWeight": 0.052821174052339014
       },
-      "EndValue": 229649.6998832465,
+      "EndValue": 229649.6998832466,
       "TotalReturn": 0.028643586554761402
     },
     {
       "Period": "2024-04",
       "RebalanceDate": "2024-04-01",
-      "StartValue": 229649.6998832465,
+      "StartValue": 229649.69988324656,
       "CashRemaining": 0.0,
       "069500.KS": {
-        "StartWeight": 0.3,
+        "StartWeight": 0.30000000000000004,
         "Return": -0.06576841789270671,
-        "EndWeight": 0.2918849338407271
+        "EndWeight": 0.2918849338407272
       },
       "IVV": {
-        "StartWeight": 0.3,
-        "Return": -0.0404961132547369,
+        "StartWeight": 0.30000000000000004,
+        "Return": -0.04049611325473723,
         "EndWeight": 0.29978084006840733
       },
       "QQQ": {
         "StartWeight": 0.19999999999999996,
         "Return": -0.043737722870776485,
-        "EndWeight": 0.19917870246879224
+        "EndWeight": 0.19917870246879227
       },
       "SHY": {
-        "StartWeight": 0.14999999999999997,
+        "StartWeight": 0.1499999999999999,
         "Return": -0.004416641299017865,
-        "EndWeight": 0.1555266319149073
+        "EndWeight": 0.15552663191490726
       },
       "GLD": {
-        "StartWeight": 0.05,
+        "StartWeight": 0.05000000000000001,
         "Return": 0.029894973070150765,
-        "EndWeight": 0.053628891707166
+        "EndWeight": 0.053628891707166025
       },
       "EndValue": 220510.8701185603,
-      "TotalReturn": -0.03979465145973349
+      "TotalReturn": -0.03979465145973382
     },
     {
       "Period": "2024-05",
       "RebalanceDate": "2024-05-01",
-      "StartValue": 220510.87011856027,
-      "CashRemaining": 1.0913936421275139e-11,
+      "StartValue": 220510.87011856033,
+      "CashRemaining": 4.547473508864641e-11,
       "069500.KS": {
-        "StartWeight": 0.3,
+        "StartWeight": 0.29999999999999993,
         "Return": -0.029830218452530866,
-        "EndWeight": 0.28522645603452146
+        "EndWeight": 0.2852264560345214
       },
       "IVV": {
-        "StartWeight": 0.3,
-        "Return": 0.05059077708539683,
+        "StartWeight": 0.29999999999999993,
+        "Return": 0.050590777085397054,
         "EndWeight": 0.30886994193186984
       },
       "QQQ": {
-        "StartWeight": 0.20000000000000004,
+        "StartWeight": 0.19999999999999998,
         "Return": 0.06151810194801177,
-        "EndWeight": 0.20805502431556205
+        "EndWeight": 0.208055024315562
       },
       "SHY": {
-        "StartWeight": 0.15,
+        "StartWeight": 0.14999999999999997,
         "Return": 0.007195280755724065,
-        "EndWeight": 0.1480559103822148
+        "EndWeight": 0.14805591038221477
       },
       "GLD": {
-        "StartWeight": 0.05000000000000001,
+        "StartWeight": 0.049999999999999996,
         "Return": 0.01618921042912702,
-        "EndWeight": 0.04979266733583181
+        "EndWeight": 0.0497926673358318
       },
-      "EndValue": 225013.82129770593,
+      "EndValue": 225013.821297706,
       "TotalReturn": 0.020420540614277227
     },
     {
       "Period": "2024-06",
       "RebalanceDate": "2024-06-03",
-      "StartValue": 225013.82129770593,
-      "CashRemaining": 7.275957614183426e-12,
+      "StartValue": 225013.821297706,
+      "CashRemaining": 1.8189894035458565e-12,
       "069500.KS": {
         "StartWeight": 0.3,
         "Return": 0.08574212812336568,
-        "EndWeight": 0.3101771967763263
+        "EndWeight": 0.31017719677632627
       },
       "IVV": {
         "StartWeight": 0.3,
         "Return": 0.03568657435406286,
-        "EndWeight": 0.29587721619246077
+        "EndWeight": 0.2958772161924607
       },
       "QQQ": {
-        "StartWeight": 0.2,
+        "StartWeight": 0.20000000000000004,
         "Return": 0.06470129007279679,
-        "EndWeight": 0.20277746928713003
+        "EndWeight": 0.20277746928713
       },
       "SHY": {
         "StartWeight": 0.15,
-        "Return": 0.005442797169459945,
+        "Return": 0.005442797169460167,
         "EndWeight": 0.14361855373706947
       },
       "GLD": {
-        "StartWeight": 0.05,
+        "StartWeight": 0.05000000000000001,
         "Return": -0.0013469974027457976,
         "EndWeight": 0.04754956400701343
       },
-      "EndValue": 236291.0501468445,
+      "EndValue": 236291.0501468446,
       "TotalReturn": 0.05011793846306967
     },
     {
       "Period": "2024-07",
       "RebalanceDate": "2024-07-01",
-      "StartValue": 236291.0501468445,
-      "CashRemaining": 1.2732925824820995e-11,
+      "StartValue": 236291.05014684456,
+      "CashRemaining": 1.1368683772161603e-13,
       "069500.KS": {
-        "StartWeight": 0.3,
-        "Return": -0.0016260873223737926,
-        "EndWeight": 0.29833444506469414
+        "StartWeight": 0.30000000000000004,
+        "Return": -0.0016260873223739036,
+        "EndWeight": 0.2983344450646941
       },
       "IVV": {
         "StartWeight": 0.3,
@@ -3338,85 +3342,85 @@
         "EndWeight": 0.30214587188760655
       },
       "QQQ": {
-        "StartWeight": 0.2,
+        "StartWeight": 0.20000000000000004,
         "Return": -0.016781174098493,
-        "EndWeight": 0.19587053112247566
+        "EndWeight": 0.1958705311224757
       },
       "SHY": {
-        "StartWeight": 0.15,
+        "StartWeight": 0.14999999999999997,
         "Return": 0.011796635443776626,
-        "EndWeight": 0.15117271391030024
+        "EndWeight": 0.1511727139103002
       },
       "GLD": {
-        "StartWeight": 0.05,
+        "StartWeight": 0.04999999999999999,
         "Return": 0.05367196334938207,
-        "EndWeight": 0.0524764380149235
+        "EndWeight": 0.052476438014923486
       },
-      "EndValue": 237223.85145435054,
+      "EndValue": 237223.8514543506,
       "TotalReturn": 0.003947679384921132
     },
     {
       "Period": "2024-08",
       "RebalanceDate": "2024-08-01",
-      "StartValue": 237223.85145435057,
-      "CashRemaining": 5.275069270282984e-11,
+      "StartValue": 237223.8514543506,
+      "CashRemaining": 0.0,
       "069500.KS": {
-        "StartWeight": 0.29999999999999993,
-        "Return": 0.03735106547240408,
-        "EndWeight": 0.30418513862285074
+        "StartWeight": 0.3,
+        "Return": 0.0373510654724043,
+        "EndWeight": 0.30418513862285085
       },
       "IVV": {
-        "StartWeight": 0.29999999999999993,
+        "StartWeight": 0.3,
         "Return": 0.02427183537183719,
-        "EndWeight": 0.3003498821184297
+        "EndWeight": 0.3003498821184298
       },
       "QQQ": {
-        "StartWeight": 0.19999999999999998,
-        "Return": 0.011038677921364037,
-        "EndWeight": 0.19764632606578594
+        "StartWeight": 0.2,
+        "Return": 0.011038677921363815,
+        "EndWeight": 0.19764632606578592
       },
       "SHY": {
-        "StartWeight": 0.14999999999999997,
+        "StartWeight": 0.15,
         "Return": 0.008919435164341571,
-        "EndWeight": 0.14792402902916654
+        "EndWeight": 0.14792402902916657
       },
       "GLD": {
-        "StartWeight": 0.049999999999999996,
+        "StartWeight": 0.05,
         "Return": 0.020922490269364546,
-        "EndWeight": 0.049894624163766915
+        "EndWeight": 0.04989462416376693
       },
-      "EndValue": 242698.65665602084,
-      "TotalReturn": 0.02307864562566464
+      "EndValue": 242698.6566560209,
+      "TotalReturn": 0.023078645625664862
     },
     {
       "Period": "2024-09",
       "RebalanceDate": "2024-09-02",
-      "StartValue": 242698.65665602087,
-      "CashRemaining": -1.4210854715202004e-14,
+      "StartValue": 242698.6566560209,
+      "CashRemaining": 0.0,
       "069500.KS": {
         "StartWeight": 0.3,
         "Return": -0.0015193221816297564,
-        "EndWeight": 0.29511427443489163
+        "EndWeight": 0.2951142744348917
       },
       "IVV": {
         "StartWeight": 0.3,
         "Return": 0.021730814939075582,
-        "EndWeight": 0.3019861623935856
+        "EndWeight": 0.30198616239358567
       },
       "QQQ": {
-        "StartWeight": 0.19999999999999998,
+        "StartWeight": 0.2,
         "Return": 0.02621596364710066,
-        "EndWeight": 0.2022078719219226
+        "EndWeight": 0.20220787192192263
       },
       "SHY": {
         "StartWeight": 0.15,
         "Return": 0.007732180566952129,
-        "EndWeight": 0.14892433969904295
+        "EndWeight": 0.14892433969904298
       },
       "GLD": {
-        "StartWeight": 0.049999999999999996,
+        "StartWeight": 0.05,
         "Return": 0.050888514912532656,
-        "EndWeight": 0.05176735155055713
+        "EndWeight": 0.05176735155055714
       },
       "EndValue": 246341.780316331,
       "TotalReturn": 0.015010893387323199
@@ -3424,187 +3428,187 @@
     {
       "Period": "2024-10",
       "RebalanceDate": "2024-10-01",
-      "StartValue": 246341.78031633096,
-      "CashRemaining": -5.684341886080802e-14,
+      "StartValue": 246341.78031633102,
+      "CashRemaining": 3.456079866737127e-11,
       "069500.KS": {
         "StartWeight": 0.3,
         "Return": -0.07577291204053516,
         "EndWeight": 0.2847131891385814
       },
       "IVV": {
-        "StartWeight": 0.30000000000000004,
+        "StartWeight": 0.3,
         "Return": -0.00967379704277449,
         "EndWeight": 0.3050753815861108
       },
       "QQQ": {
-        "StartWeight": 0.2,
+        "StartWeight": 0.19999999999999998,
         "Return": -0.008646257468011509,
-        "EndWeight": 0.20359461383306676
+        "EndWeight": 0.20359461383306673
       },
       "SHY": {
-        "StartWeight": 0.15000000000000002,
+        "StartWeight": 0.15,
         "Return": -0.006238352274437808,
-        "EndWeight": 0.15306684453072722
+        "EndWeight": 0.1530668445307272
       },
       "GLD": {
-        "StartWeight": 0.05,
+        "StartWeight": 0.049999999999999996,
         "Return": 0.04299348742370923,
-        "EndWeight": 0.05354997091151389
+        "EndWeight": 0.05354997091151388
       },
-      "EndValue": 239900.10468432546,
-      "TotalReturn": -0.026149342688575383
+      "EndValue": 239900.1046843255,
+      "TotalReturn": -0.026149342688575494
     },
     {
       "Period": "2024-11",
       "RebalanceDate": "2024-11-01",
-      "StartValue": 239900.1046843255,
-      "CashRemaining": 2.1827872842550278e-11,
+      "StartValue": 239900.10468432552,
+      "CashRemaining": 3.456079866737127e-11,
       "069500.KS": {
-        "StartWeight": 0.29999999999999993,
-        "Return": -0.07849674130441864,
+        "StartWeight": 0.3,
+        "Return": -0.07849674130441886,
         "EndWeight": 0.27540407644531756
       },
       "IVV": {
-        "StartWeight": 0.29999999999999993,
+        "StartWeight": 0.3,
         "Return": 0.05922204427616862,
         "EndWeight": 0.31656325260024637
       },
       "QQQ": {
-        "StartWeight": 0.2,
+        "StartWeight": 0.19999999999999998,
         "Return": 0.05350833431908564,
-        "EndWeight": 0.20990375389541668
+        "EndWeight": 0.20990375389541666
       },
       "SHY": {
-        "StartWeight": 0.14999999999999997,
+        "StartWeight": 0.15,
         "Return": 0.0029609216222945545,
         "EndWeight": 0.14987441646225458
       },
       "GLD": {
-        "StartWeight": 0.05,
+        "StartWeight": 0.049999999999999996,
         "Return": -0.031241364603208255,
         "EndWeight": 0.04825450059676476
       },
-      "EndValue": 240812.04361393425,
+      "EndValue": 240812.04361393428,
       "TotalReturn": 0.0038013277685258196
     },
     {
       "Period": "2024-12",
       "RebalanceDate": "2024-12-02",
-      "StartValue": 240812.04361393425,
-      "CashRemaining": 3.092281986027956e-11,
+      "StartValue": 240812.0436139343,
+      "CashRemaining": 2.000888343900442e-11,
       "069500.KS": {
-        "StartWeight": 0.3,
+        "StartWeight": 0.29999999999999993,
         "Return": -0.05515847788213013,
         "EndWeight": 0.2901460129333012
       },
       "IVV": {
-        "StartWeight": 0.3,
+        "StartWeight": 0.29999999999999993,
         "Return": -0.023671333887323343,
         "EndWeight": 0.29981522102258146
       },
       "QQQ": {
-        "StartWeight": 0.2,
+        "StartWeight": 0.19999999999999998,
         "Return": 0.004540347795197519,
-        "EndWeight": 0.20565239067118252
+        "EndWeight": 0.2056523906711825
       },
       "SHY": {
-        "StartWeight": 0.15,
+        "StartWeight": 0.14999999999999997,
         "Return": 0.0025045672724983703,
         "EndWeight": 0.15392671486830214
       },
       "GLD": {
-        "StartWeight": 0.05,
+        "StartWeight": 0.049999999999999996,
         "Return": -0.014088486936241984,
-        "EndWeight": 0.050459660504632534
+        "EndWeight": 0.05045966050463253
       },
-      "EndValue": 235256.6029071806,
+      "EndValue": 235256.60290718067,
       "TotalReturn": -0.02306961322773382
     },
     {
       "Period": "2025-01",
       "RebalanceDate": "2025-01-01",
-      "StartValue": 235256.6029071806,
-      "CashRemaining": 1.2732925824820995e-11,
+      "StartValue": 235256.60290718064,
+      "CashRemaining": 1.8189894035458565e-12,
       "069500.KS": {
         "StartWeight": 0.3,
         "Return": 0.05863533234883733,
-        "EndWeight": 0.3071413379512059
+        "EndWeight": 0.30714133795120596
       },
       "IVV": {
         "StartWeight": 0.3,
         "Return": 0.02714540251424835,
-        "EndWeight": 0.29800518040399276
+        "EndWeight": 0.2980051804039928
       },
       "QQQ": {
-        "StartWeight": 0.2,
+        "StartWeight": 0.20000000000000004,
         "Return": 0.0216340767081713,
-        "EndWeight": 0.19760412147494502
+        "EndWeight": 0.19760412147494505
       },
       "SHY": {
         "StartWeight": 0.15,
         "Return": 0.003781205053948966,
-        "EndWeight": 0.1456132687572877
+        "EndWeight": 0.14561326875728772
       },
       "GLD": {
-        "StartWeight": 0.05,
+        "StartWeight": 0.05000000000000001,
         "Return": 0.06785607873643373,
-        "EndWeight": 0.05163609141256852
+        "EndWeight": 0.05163609141256853
       },
       "EndValue": 243260.2726163814,
-      "TotalReturn": 0.034021020495474064
+      "TotalReturn": 0.03402102049547384
     },
     {
       "Period": "2025-02",
       "RebalanceDate": "2025-02-03",
-      "StartValue": 243260.2726163814,
-      "CashRemaining": 0.0,
+      "StartValue": 243260.27261638144,
+      "CashRemaining": 1.8189894035458565e-11,
       "069500.KS": {
         "StartWeight": 0.3,
         "Return": 0.029367923333531554,
-        "EndWeight": 0.3083058440936454
+        "EndWeight": 0.3083058440936453
       },
       "IVV": {
         "StartWeight": 0.3,
         "Return": -0.012601954258323,
-        "EndWeight": 0.29573545187124173
+        "EndWeight": 0.2957354518712416
       },
       "QQQ": {
         "StartWeight": 0.19999999999999998,
         "Return": -0.02703482021418746,
-        "EndWeight": 0.19427511079236343
+        "EndWeight": 0.1942751107923634
       },
       "SHY": {
-        "StartWeight": 0.14999999999999997,
+        "StartWeight": 0.15,
         "Return": 0.00735220042931406,
-        "EndWeight": 0.15085595898849483
+        "EndWeight": 0.1508559589884948
       },
       "GLD": {
-        "StartWeight": 0.05,
+        "StartWeight": 0.049999999999999996,
         "Return": 0.018216241876358508,
-        "EndWeight": 0.05082763425425462
+        "EndWeight": 0.0508276342542546
       },
-      "EndValue": 243658.36047202692,
-      "TotalReturn": 0.0016364688379399972
+      "EndValue": 243658.360472027,
+      "TotalReturn": 0.0016364688379402192
     },
     {
       "Period": "2025-03",
       "RebalanceDate": "2025-03-03",
-      "StartValue": 243658.36047202692,
+      "StartValue": 243658.36047202698,
       "CashRemaining": 0.0,
       "069500.KS": {
         "StartWeight": 0.3,
         "Return": 0.017262140539597404,
-        "EndWeight": 0.31184873996487333
+        "EndWeight": 0.3118487399648734
       },
       "IVV": {
-        "StartWeight": 0.3,
+        "StartWeight": 0.29999999999999993,
         "Return": -0.055931755347805256,
         "EndWeight": 0.28941064530276484
       },
       "QQQ": {
-        "StartWeight": 0.19999999999999998,
+        "StartWeight": 0.19999999999999993,
         "Return": -0.07586181296245842,
-        "EndWeight": 0.18886729892992404
+        "EndWeight": 0.18886729892992402
       },
       "SHY": {
         "StartWeight": 0.15,
@@ -3612,98 +3616,98 @@
         "EndWeight": 0.15395397023246035
       },
       "GLD": {
-        "StartWeight": 0.05,
+        "StartWeight": 0.05000000000000001,
         "Return": 0.09446585889998294,
-        "EndWeight": 0.0559193455699775
+        "EndWeight": 0.05591934556997752
       },
-      "EndValue": 238446.7790654492,
-      "TotalReturn": -0.021388888099228787
+      "EndValue": 238446.77906544923,
+      "TotalReturn": -0.021388888099228898
     },
     {
       "Period": "2025-04",
       "RebalanceDate": "2025-04-01",
-      "StartValue": 238446.77906544923,
-      "CashRemaining": 3.092281986027956e-11,
+      "StartValue": 238446.77906544926,
+      "CashRemaining": 2.1827872842550278e-11,
       "069500.KS": {
-        "StartWeight": 0.29999999999999993,
+        "StartWeight": 0.3,
         "Return": 0.07405325577605781,
         "EndWeight": 0.31379461423211197
       },
       "IVV": {
-        "StartWeight": 0.29999999999999993,
+        "StartWeight": 0.3,
         "Return": -0.007011886052793792,
         "EndWeight": 0.2901106816421252
       },
       "QQQ": {
-        "StartWeight": 0.2,
+        "StartWeight": 0.19999999999999998,
         "Return": 0.013968212706883643,
-        "EndWeight": 0.1974934746415848
+        "EndWeight": 0.19749347464158473
       },
       "SHY": {
-        "StartWeight": 0.14999999999999997,
+        "StartWeight": 0.15,
         "Return": 0.008126051741996543,
         "EndWeight": 0.14726668524231928
       },
       "GLD": {
-        "StartWeight": 0.05,
+        "StartWeight": 0.049999999999999996,
         "Return": 0.05424437277239935,
-        "EndWeight": 0.05133454424185861
+        "EndWeight": 0.051334544241858605
       },
-      "EndValue": 244846.01816185514,
-      "TotalReturn": 0.026837179858275384
+      "EndValue": 244846.0181618552,
+      "TotalReturn": 0.026837179858275606
     },
     {
       "Period": "2025-05",
       "RebalanceDate": "2025-05-01",
-      "StartValue": 244846.01816185514,
-      "CashRemaining": 5.4569682106375694e-12,
+      "StartValue": 244846.01816185517,
+      "CashRemaining": -1.1368683772161603e-13,
       "069500.KS": {
         "StartWeight": 0.3,
         "Return": 0.04036573531048271,
-        "EndWeight": 0.2976898107573021
+        "EndWeight": 0.29768981075730216
       },
       "IVV": {
-        "StartWeight": 0.3,
+        "StartWeight": 0.29999999999999993,
         "Return": 0.06127674022493901,
         "EndWeight": 0.3036732768447081
       },
       "QQQ": {
-        "StartWeight": 0.2,
+        "StartWeight": 0.20000000000000004,
         "Return": 0.09178290079679474,
-        "EndWeight": 0.20826819780466319
+        "EndWeight": 0.2082681978046632
       },
       "SHY": {
         "StartWeight": 0.15,
         "Return": -0.002546426896969156,
-        "EndWeight": 0.14270547142136553
+        "EndWeight": 0.14270547142136555
       },
       "GLD": {
-        "StartWeight": 0.05,
+        "StartWeight": 0.05000000000000001,
         "Return": -0.0005595776946507591,
-        "EndWeight": 0.04766324317196104
+        "EndWeight": 0.047663243171961044
       },
       "EndValue": 256706.2074527728,
-      "TotalReturn": 0.04843937990070768
+      "TotalReturn": 0.04843937990070746
     },
     {
       "Period": "2025-06",
       "RebalanceDate": "2025-06-02",
-      "StartValue": 256706.20745277277,
-      "CashRemaining": 2.2737367544323206e-13,
+      "StartValue": 256706.20745277283,
+      "CashRemaining": 1.6370904631912708e-11,
       "069500.KS": {
-        "StartWeight": 0.30000000000000004,
+        "StartWeight": 0.3,
         "Return": 0.1606664539434952,
-        "EndWeight": 0.32312552122898636
+        "EndWeight": 0.3231255212289863
       },
       "IVV": {
-        "StartWeight": 0.30000000000000004,
+        "StartWeight": 0.3,
         "Return": 0.05182592268188868,
-        "EndWeight": 0.2928246942556081
+        "EndWeight": 0.292824694255608
       },
       "QQQ": {
-        "StartWeight": 0.2,
+        "StartWeight": 0.19999999999999998,
         "Return": 0.06385837260367522,
-        "EndWeight": 0.19744965776252718
+        "EndWeight": 0.19744965776252713
       },
       "SHY": {
         "StartWeight": 0.15,
@@ -3715,18 +3719,18 @@
         "Return": 0.004051318985582197,
         "EndWeight": 0.04658740167277232
       },
-      "EndValue": 276626.50945328525,
+      "EndValue": 276626.5094532853,
       "TotalReturn": 0.07759961162675544
     },
     {
       "Period": "2025-07",
       "RebalanceDate": "2025-07-01",
       "StartValue": 276626.50945328525,
-      "CashRemaining": -2.2737367544323206e-13,
+      "CashRemaining": 4.547473508864641e-13,
       "069500.KS": {
-        "StartWeight": 0.3,
+        "StartWeight": 0.30000000000000004,
         "Return": -0.028508256865284465,
-        "EndWeight": 0.2906875126433267
+        "EndWeight": 0.29068751264332676
       },
       "IVV": {
         "StartWeight": 0.3,
@@ -3734,9 +3738,9 @@
         "EndWeight": 0.30596441943855535
       },
       "QQQ": {
-        "StartWeight": 0.2,
+        "StartWeight": 0.20000000000000004,
         "Return": 0.024236833500665744,
-        "EndWeight": 0.2043131844005111
+        "EndWeight": 0.20431318440051113
       },
       "SHY": {
         "StartWeight": 0.14999999999999997,
@@ -3755,73 +3759,73 @@
       "Period": "2025-08",
       "RebalanceDate": "2025-08-01",
       "StartValue": 277349.75688046304,
-      "CashRemaining": -3.410605131648481e-13,
+      "CashRemaining": -1.5631940186722204e-13,
       "069500.KS": {
-        "StartWeight": 0.2999999999999999,
-        "Return": 0.010558034867233612,
+        "StartWeight": 0.3,
+        "Return": 0.01055803486723339,
         "EndWeight": 0.2986160373319184
       },
       "IVV": {
         "StartWeight": 0.3,
         "Return": 0.021137153894937866,
-        "EndWeight": 0.30174212657520555
+        "EndWeight": 0.3017421265752055
       },
       "QQQ": {
         "StartWeight": 0.2,
         "Return": 0.009539762111826944,
-        "EndWeight": 0.19887676108276664
+        "EndWeight": 0.1988767610827666
       },
       "SHY": {
         "StartWeight": 0.15,
         "Return": 0.008875439721761635,
-        "EndWeight": 0.14905941844833753
+        "EndWeight": 0.1490594184483375
       },
       "GLD": {
-        "StartWeight": 0.049999999999999996,
+        "StartWeight": 0.05,
         "Return": 0.04987462468746906,
-        "EndWeight": 0.05170565656177213
+        "EndWeight": 0.051705656561772124
       },
-      "EndValue": 281576.9987991204,
-      "TotalReturn": 0.015241556243654086
+      "EndValue": 281576.9987991205,
+      "TotalReturn": 0.015241556243654308
     },
     {
       "Period": "2025-09",
       "RebalanceDate": "2025-09-01",
       "StartValue": 281576.99879912054,
-      "CashRemaining": 5.4228621593210846e-11,
+      "CashRemaining": 3.979039320256561e-11,
       "069500.KS": {
-        "StartWeight": 0.2999999999999999,
+        "StartWeight": 0.29999999999999993,
         "Return": 0.08878341665136213,
         "EndWeight": 0.30980062807691916
       },
       "IVV": {
-        "StartWeight": 0.2999999999999999,
+        "StartWeight": 0.29999999999999993,
         "Return": 0.03547086692907375,
         "EndWeight": 0.29463116357575697
       },
       "QQQ": {
-        "StartWeight": 0.19999999999999993,
+        "StartWeight": 0.19999999999999996,
         "Return": 0.05376213636493299,
-        "EndWeight": 0.19989048736835327
+        "EndWeight": 0.19989048736835324
       },
       "SHY": {
-        "StartWeight": 0.14999999999999994,
+        "StartWeight": 0.14999999999999997,
         "Return": 0.0028768904978562215,
         "EndWeight": 0.14267846378282495
       },
       "GLD": {
-        "StartWeight": 0.04999999999999998,
+        "StartWeight": 0.04999999999999999,
         "Return": 0.11758415768627128,
         "EndWeight": 0.0529992571961455
       },
-      "EndValue": 296877.7391182282,
-      "TotalReturn": 0.05433945380610905
+      "EndValue": 296877.73911822826,
+      "TotalReturn": 0.05433945380610927
     },
     {
       "Period": "2025-10",
       "RebalanceDate": "2025-10-01",
-      "StartValue": 296877.7391182282,
-      "CashRemaining": 1.0459189070388675e-11,
+      "StartValue": 296877.73911822826,
+      "CashRemaining": 0.0,
       "069500.KS": {
         "StartWeight": 0.3,
         "Return": 0.16061036359581626,
@@ -3834,27 +3838,27 @@
       },
       "QQQ": {
         "StartWeight": 0.2,
-        "Return": 0.04780388047197559,
-        "EndWeight": 0.19637164742656915
+        "Return": 0.04780388047197581,
+        "EndWeight": 0.19637164742656918
       },
       "SHY": {
-        "StartWeight": 0.15,
+        "StartWeight": 0.14999999999999997,
         "Return": 0.003337395715161673,
-        "EndWeight": 0.14102855099600348
+        "EndWeight": 0.14102855099600345
       },
       "GLD": {
         "StartWeight": 0.05,
-        "Return": 0.035586670754335525,
-        "EndWeight": 0.04852049710328972
+        "Return": 0.0355866707543353,
+        "EndWeight": 0.04852049710328973
       },
-      "EndValue": 316817.2708742459,
+      "EndValue": 316817.27087424597,
       "TotalReturn": 0.06716411885660789
     },
     {
       "Period": "2025-11",
       "RebalanceDate": "2025-11-03",
-      "StartValue": 316817.2708742459,
-      "CashRemaining": 1.6370904631912708e-11,
+      "StartValue": 316817.27087424597,
+      "CashRemaining": 3.410605131648481e-13,
       "069500.KS": {
         "StartWeight": 0.3,
         "Return": -0.14009800681603113,
@@ -3862,11 +3866,11 @@
       },
       "IVV": {
         "StartWeight": 0.3,
-        "Return": 0.002408021171349972,
+        "Return": 0.00240802117134975,
         "EndWeight": 0.3136075751058735
       },
       "QQQ": {
-        "StartWeight": 0.2,
+        "StartWeight": 0.19999999999999998,
         "Return": -0.015610359277056896,
         "EndWeight": 0.20531363255036147
       },
@@ -3876,18 +3880,18 @@
         "EndWeight": 0.1571135523204039
       },
       "GLD": {
-        "StartWeight": 0.05,
-        "Return": 0.0536781756702307,
-        "EndWeight": 0.05494127651196515
+        "StartWeight": 0.049999999999999996,
+        "Return": 0.05367817567023048,
+        "EndWeight": 0.05494127651196514
       },
-      "EndValue": 303800.22561261064,
+      "EndValue": 303800.2256126107,
       "TotalReturn": -0.041086918101766345
     },
     {
       "Period": "2025-12",
       "RebalanceDate": "2025-12-01",
-      "StartValue": 303800.22561261064,
-      "CashRemaining": 1.6370904631912708e-11,
+      "StartValue": 303800.2256126107,
+      "CashRemaining": 1.2732925824820995e-11,
       "069500.KS": {
         "StartWeight": 0.3,
         "Return": 0.07018450279129662,
@@ -3901,7 +3905,7 @@
       "QQQ": {
         "StartWeight": 0.2,
         "Return": -0.0066992758225147275,
-        "EndWeight": 0.1944871734304876
+        "EndWeight": 0.19448717343048758
       },
       "SHY": {
         "StartWeight": 0.15,
@@ -3911,109 +3915,109 @@
       "GLD": {
         "StartWeight": 0.05,
         "Return": 0.021733506676447467,
-        "EndWeight": 0.0500135701293458
+        "EndWeight": 0.05001357012934579
       },
-      "EndValue": 310318.6485602811,
+      "EndValue": 310318.64856028114,
       "TotalReturn": 0.021456280799417193
     },
     {
       "Period": "2026-01",
       "RebalanceDate": "2026-01-01",
-      "StartValue": 310318.6485602811,
-      "CashRemaining": 1.1368683772161603e-13,
+      "StartValue": 310318.64856028114,
+      "CashRemaining": -1.1368683772161603e-13,
       "069500.KS": {
         "StartWeight": 0.3,
         "Return": 0.21885074010856176,
-        "EndWeight": 0.3388895877740459
+        "EndWeight": 0.33888958777404576
       },
       "IVV": {
         "StartWeight": 0.3,
         "Return": 0.014731256488895061,
-        "EndWeight": 0.28213615161962496
+        "EndWeight": 0.2821361516196249
       },
       "QQQ": {
         "StartWeight": 0.2,
         "Return": 0.01230648628320985,
-        "EndWeight": 0.18764131190608502
+        "EndWeight": 0.18764131190608496
       },
       "SHY": {
         "StartWeight": 0.15,
         "Return": 0.0020525925063279438,
-        "EndWeight": 0.13930548623703382
+        "EndWeight": 0.1393054862370338
       },
       "GLD": {
         "StartWeight": 0.05,
-        "Return": 0.12273224230545932,
-        "EndWeight": 0.052027462463210515
+        "Return": 0.12273224230545954,
+        "EndWeight": 0.05202746246321051
       },
-      "EndValue": 334827.7386905493,
-      "TotalReturn": 0.07898039722710104
+      "EndValue": 334827.7386905494,
+      "TotalReturn": 0.07898039722710126
     },
     {
       "Period": "2026-02",
       "RebalanceDate": "2026-02-02",
-      "StartValue": 334827.7386905494,
-      "CashRemaining": 5.4569682106375694e-11,
+      "StartValue": 334827.73869054933,
+      "CashRemaining": 4.547473508864641e-13,
       "069500.KS": {
-        "StartWeight": 0.2999999999999999,
-        "Return": 0.2304481286839204,
-        "EndWeight": 0.34590215310664696
+        "StartWeight": 0.30000000000000004,
+        "Return": 0.23044812868392106,
+        "EndWeight": 0.34590215310664724
       },
       "IVV": {
-        "StartWeight": 0.2999999999999999,
-        "Return": -0.008129180288480975,
-        "EndWeight": 0.2788335762750409
+        "StartWeight": 0.30000000000000004,
+        "Return": -0.008129180288481086,
+        "EndWeight": 0.27883357627504096
       },
       "QQQ": {
-        "StartWeight": 0.19999999999999996,
+        "StartWeight": 0.19999999999999998,
         "Return": -0.02344544230196577,
-        "EndWeight": 0.1830185909557791
+        "EndWeight": 0.18301859095577908
       },
       "SHY": {
-        "StartWeight": 0.14999999999999994,
-        "Return": 0.005317949944072531,
-        "EndWeight": 0.14130690897728346
+        "StartWeight": 0.15000000000000002,
+        "Return": 0.005317949944072309,
+        "EndWeight": 0.14130690897728349
       },
       "GLD": {
-        "StartWeight": 0.04999999999999999,
+        "StartWeight": 0.05000000000000001,
         "Return": 0.08720077925273895,
-        "EndWeight": 0.0509387706852494
+        "EndWeight": 0.05093877068524941
       },
-      "EndValue": 357316.2185922266,
-      "TotalReturn": 0.06716432751248624
+      "EndValue": 357316.2185922267,
+      "TotalReturn": 0.06716432751248669
     },
     {
       "Period": "2026-03",
       "RebalanceDate": "2026-03-02",
-      "StartValue": 357316.2185922266,
-      "CashRemaining": 7.275957614183426e-12,
+      "StartValue": 357316.2185922267,
+      "CashRemaining": 6.184563972055912e-11,
       "069500.KS": {
         "StartWeight": 0.3,
         "Return": -0.09870847507168168,
-        "EndWeight": 0.28393333575517765
+        "EndWeight": 0.2839333357551776
       },
       "IVV": {
         "StartWeight": 0.3,
         "Return": -0.035074984050185276,
-        "EndWeight": 0.30397975677629796
+        "EndWeight": 0.3039797567762979
       },
       "QQQ": {
         "StartWeight": 0.2,
         "Return": -0.02234518568591881,
-        "EndWeight": 0.20532667841472133
+        "EndWeight": 0.2053266784147213
       },
       "SHY": {
         "StartWeight": 0.15,
         "Return": -0.004906128199798632,
-        "EndWeight": 0.15674191679114996
+        "EndWeight": 0.15674191679114993
       },
       "GLD": {
         "StartWeight": 0.05,
-        "Return": -0.04735918069686729,
-        "EndWeight": 0.050018312262653
+        "Return": -0.047359180696867176,
+        "EndWeight": 0.05001831226265299
       },
-      "EndValue": 340269.3931799823,
-      "TotalReturn": -0.04770795313855691
+      "EndValue": 340269.39317998243,
+      "TotalReturn": -0.04770795313855669
     }
   ],
   "target_weights": {
@@ -4046,7 +4050,8 @@
       "IVV": 1.0,
       "QQQ": 1.0,
       "SHY": 0.9999,
-      "GLD": 0.9962
+      "GLD": 0.9962,
+      "event": "Rebalance"
     },
     {
       "date": "2016-03-18",
@@ -4156,7 +4161,8 @@
       "IVV": 1.0068,
       "QQQ": 1.0295,
       "SHY": 1.0017,
-      "GLD": 0.9696
+      "GLD": 0.9696,
+      "event": "Rebalance"
     },
     {
       "date": "2016-04-04",
@@ -4366,7 +4372,8 @@
       "IVV": 1.0122,
       "QQQ": 0.9955,
       "SHY": 1.0022,
-      "GLD": 1.022
+      "GLD": 1.022,
+      "event": "Rebalance"
     },
     {
       "date": "2016-05-03",
@@ -4586,7 +4593,8 @@
       "IVV": 1.0232,
       "QQQ": 1.0294,
       "SHY": 1.0007,
-      "GLD": 0.9614
+      "GLD": 0.9614,
+      "event": "Rebalance"
     },
     {
       "date": "2016-06-02",
@@ -4806,7 +4814,8 @@
       "IVV": 1.027,
       "QQQ": 1.0109,
       "SHY": 1.0078,
-      "GLD": 1.0648
+      "GLD": 1.0648,
+      "event": "Rebalance"
     },
     {
       "date": "2016-07-04",
@@ -5016,7 +5025,8 @@
       "IVV": 1.061,
       "QQQ": 1.0835,
       "SHY": 1.0066,
-      "GLD": 1.0716
+      "GLD": 1.0716,
+      "event": "Rebalance"
     },
     {
       "date": "2016-08-02",
@@ -5246,7 +5256,8 @@
       "IVV": 1.0636,
       "QQQ": 1.0919,
       "SHY": 1.0051,
-      "GLD": 1.039
+      "GLD": 1.039,
+      "event": "Rebalance"
     },
     {
       "date": "2016-09-02",
@@ -5466,7 +5477,8 @@
       "IVV": 1.0603,
       "QQQ": 1.1116,
       "SHY": 1.0058,
-      "GLD": 1.0392
+      "GLD": 1.0392,
+      "event": "Rebalance"
     },
     {
       "date": "2016-10-04",
@@ -5676,7 +5688,8 @@
       "IVV": 1.0375,
       "QQQ": 1.0887,
       "SHY": 1.0054,
-      "GLD": 1.0177
+      "GLD": 1.0177,
+      "event": "Rebalance"
     },
     {
       "date": "2016-11-02",
@@ -5896,7 +5909,8 @@
       "IVV": 1.0791,
       "QQQ": 1.0827,
       "SHY": 1.0002,
-      "GLD": 0.925
+      "GLD": 0.925,
+      "event": "Rebalance"
     },
     {
       "date": "2016-12-02",
@@ -6116,7 +6130,8 @@
       "IVV": 1.1062,
       "QQQ": 1.1142,
       "SHY": 1.0014,
-      "GLD": 0.9089
+      "GLD": 0.9089,
+      "event": "Rebalance"
     },
     {
       "date": "2017-01-03",
@@ -6336,7 +6351,8 @@
       "IVV": 1.1262,
       "QQQ": 1.1796,
       "SHY": 1.0022,
-      "GLD": 0.9553
+      "GLD": 0.9553,
+      "event": "Rebalance"
     },
     {
       "date": "2017-02-02",
@@ -6536,7 +6552,8 @@
       "IVV": 1.186,
       "QQQ": 1.2361,
       "SHY": 1.0021,
-      "GLD": 0.9873
+      "GLD": 0.9873,
+      "event": "Rebalance"
     },
     {
       "date": "2017-03-02",
@@ -6766,7 +6783,8 @@
       "IVV": 1.1697,
       "QQQ": 1.2468,
       "SHY": 1.0044,
-      "GLD": 0.9897
+      "GLD": 0.9897,
+      "event": "Rebalance"
     },
     {
       "date": "2017-04-04",
@@ -6966,7 +6984,8 @@
       "IVV": 1.1863,
       "QQQ": 1.2929,
       "SHY": 1.0047,
-      "GLD": 0.9924
+      "GLD": 0.9924,
+      "event": "Rebalance"
     },
     {
       "date": "2017-05-02",
@@ -7196,7 +7215,8 @@
       "IVV": 1.2093,
       "QQQ": 1.3367,
       "SHY": 1.0059,
-      "GLD": 1.0011
+      "GLD": 1.0011,
+      "event": "Rebalance"
     },
     {
       "date": "2017-06-02",
@@ -7416,7 +7436,8 @@
       "IVV": 1.2098,
       "QQQ": 1.2869,
       "SHY": 1.0046,
-      "GLD": 0.9627
+      "GLD": 0.9627,
+      "event": "Rebalance"
     },
     {
       "date": "2017-07-04",
@@ -7626,7 +7647,8 @@
       "IVV": 1.2352,
       "QQQ": 1.3566,
       "SHY": 1.0076,
-      "GLD": 1.0005
+      "GLD": 1.0005,
+      "event": "Rebalance"
     },
     {
       "date": "2017-08-02",
@@ -7856,7 +7878,8 @@
       "IVV": 1.2381,
       "QQQ": 1.3796,
       "SHY": 1.009,
-      "GLD": 1.0454
+      "GLD": 1.0454,
+      "event": "Rebalance"
     },
     {
       "date": "2017-09-04",
@@ -8066,7 +8089,8 @@
       "IVV": 1.2664,
       "QQQ": 1.3787,
       "SHY": 1.0081,
-      "GLD": 1.0015
+      "GLD": 1.0015,
+      "event": "Rebalance"
     },
     {
       "date": "2017-10-03",
@@ -8286,7 +8310,8 @@
       "IVV": 1.2926,
       "QQQ": 1.4404,
       "SHY": 1.0063,
-      "GLD": 1.0043
+      "GLD": 1.0043,
+      "event": "Rebalance"
     },
     {
       "date": "2017-11-02",
@@ -8506,7 +8531,8 @@
       "IVV": 1.3276,
       "QQQ": 1.463,
       "SHY": 1.0045,
-      "GLD": 1.0083
+      "GLD": 1.0083,
+      "event": "Rebalance"
     },
     {
       "date": "2017-12-04",
@@ -8716,7 +8742,8 @@
       "IVV": 1.3469,
       "QQQ": 1.4781,
       "SHY": 1.0041,
-      "GLD": 1.0254
+      "GLD": 1.0254,
+      "event": "Rebalance"
     },
     {
       "date": "2018-01-02",
@@ -8946,7 +8973,8 @@
       "IVV": 1.4217,
       "QQQ": 1.5939,
       "SHY": 1.0008,
-      "GLD": 1.062
+      "GLD": 1.062,
+      "event": "Rebalance"
     },
     {
       "date": "2018-02-02",
@@ -9146,7 +9174,8 @@
       "IVV": 1.3511,
       "QQQ": 1.5609,
       "SHY": 1.0016,
-      "GLD": 1.0342
+      "GLD": 1.0342,
+      "event": "Rebalance"
     },
     {
       "date": "2018-03-02",
@@ -9366,7 +9395,8 @@
       "IVV": 1.3044,
       "QQQ": 1.4782,
       "SHY": 1.0029,
-      "GLD": 1.0553
+      "GLD": 1.0553,
+      "event": "Rebalance"
     },
     {
       "date": "2018-04-03",
@@ -9576,7 +9606,8 @@
       "IVV": 1.3428,
       "QQQ": 1.5473,
       "SHY": 0.9999,
-      "GLD": 1.0259
+      "GLD": 1.0259,
+      "event": "Rebalance"
     },
     {
       "date": "2018-05-02",
@@ -9806,7 +9837,8 @@
       "IVV": 1.3866,
       "QQQ": 1.6419,
       "SHY": 1.0031,
-      "GLD": 1.0158
+      "GLD": 1.0158,
+      "event": "Rebalance"
     },
     {
       "date": "2018-06-04",
@@ -10016,7 +10048,8 @@
       "IVV": 1.3844,
       "QQQ": 1.646,
       "SHY": 1.0041,
-      "GLD": 0.974
+      "GLD": 0.974,
+      "event": "Rebalance"
     },
     {
       "date": "2018-07-03",
@@ -10236,7 +10269,8 @@
       "IVV": 1.4302,
       "QQQ": 1.6872,
       "SHY": 1.0038,
-      "GLD": 0.9548
+      "GLD": 0.9548,
+      "event": "Rebalance"
     },
     {
       "date": "2018-08-02",
@@ -10466,7 +10500,8 @@
       "IVV": 1.4786,
       "QQQ": 1.778,
       "SHY": 1.0071,
-      "GLD": 0.9413
+      "GLD": 0.9413,
+      "event": "Rebalance"
     },
     {
       "date": "2018-09-04",
@@ -10666,7 +10701,8 @@
       "IVV": 1.4923,
       "QQQ": 1.7766,
       "SHY": 1.0054,
-      "GLD": 0.9335
+      "GLD": 0.9335,
+      "event": "Rebalance"
     },
     {
       "date": "2018-10-02",
@@ -10896,7 +10932,8 @@
       "IVV": 1.3986,
       "QQQ": 1.6419,
       "SHY": 1.0078,
-      "GLD": 0.9672
+      "GLD": 0.9672,
+      "event": "Rebalance"
     },
     {
       "date": "2018-11-02",
@@ -11116,7 +11153,8 @@
       "IVV": 1.4288,
       "QQQ": 1.6445,
       "SHY": 1.0102,
-      "GLD": 0.9653
+      "GLD": 0.9653,
+      "event": "Rebalance"
     },
     {
       "date": "2018-12-04",
@@ -11326,7 +11364,8 @@
       "IVV": 1.2864,
       "QQQ": 1.4763,
       "SHY": 1.0188,
-      "GLD": 1.0055
+      "GLD": 1.0055,
+      "event": "Rebalance"
     },
     {
       "date": "2019-01-02",
@@ -11556,7 +11595,8 @@
       "IVV": 1.3891,
       "QQQ": 1.6025,
       "SHY": 1.0201,
-      "GLD": 1.0324
+      "GLD": 1.0324,
+      "event": "Rebalance"
     },
     {
       "date": "2019-02-04",
@@ -11756,7 +11796,8 @@
       "IVV": 1.4434,
       "QQQ": 1.6689,
       "SHY": 1.0215,
-      "GLD": 1.0107
+      "GLD": 1.0107,
+      "event": "Rebalance"
     },
     {
       "date": "2019-03-04",
@@ -11966,7 +12007,8 @@
       "IVV": 1.4775,
       "QQQ": 1.7453,
       "SHY": 1.0275,
-      "GLD": 1.0078
+      "GLD": 1.0078,
+      "event": "Rebalance"
     },
     {
       "date": "2019-04-02",
@@ -12186,7 +12228,8 @@
       "IVV": 1.5081,
       "QQQ": 1.8114,
       "SHY": 1.0296,
-      "GLD": 0.9984
+      "GLD": 0.9984,
+      "event": "Rebalance"
     },
     {
       "date": "2019-05-02",
@@ -12416,7 +12459,8 @@
       "IVV": 1.4187,
       "QQQ": 1.631,
       "SHY": 1.0399,
-      "GLD": 1.0375
+      "GLD": 1.0375,
+      "event": "Rebalance"
     },
     {
       "date": "2019-06-04",
@@ -12616,7 +12660,8 @@
       "IVV": 1.5355,
       "QQQ": 1.8185,
       "SHY": 1.042,
-      "GLD": 1.0832
+      "GLD": 1.0832,
+      "event": "Rebalance"
     },
     {
       "date": "2019-07-02",
@@ -12846,7 +12891,8 @@
       "IVV": 1.5314,
       "QQQ": 1.8271,
       "SHY": 1.045,
-      "GLD": 1.1312
+      "GLD": 1.1312,
+      "event": "Rebalance"
     },
     {
       "date": "2019-08-02",
@@ -13066,7 +13112,8 @@
       "IVV": 1.5198,
       "QQQ": 1.8013,
       "SHY": 1.0502,
-      "GLD": 1.1921
+      "GLD": 1.1921,
+      "event": "Rebalance"
     },
     {
       "date": "2019-09-03",
@@ -13276,7 +13323,8 @@
       "IVV": 1.5306,
       "QQQ": 1.8031,
       "SHY": 1.05,
-      "GLD": 1.1579
+      "GLD": 1.1579,
+      "event": "Rebalance"
     },
     {
       "date": "2019-10-02",
@@ -13506,7 +13554,8 @@
       "IVV": 1.5983,
       "QQQ": 1.9147,
       "SHY": 1.0514,
-      "GLD": 1.1822
+      "GLD": 1.1822,
+      "event": "Rebalance"
     },
     {
       "date": "2019-11-04",
@@ -13716,7 +13765,8 @@
       "IVV": 1.6266,
       "QQQ": 1.9545,
       "SHY": 1.0512,
-      "GLD": 1.1426
+      "GLD": 1.1426,
+      "event": "Rebalance"
     },
     {
       "date": "2019-12-03",
@@ -13936,7 +13986,8 @@
       "IVV": 1.6884,
       "QQQ": 2.0515,
       "SHY": 1.0532,
-      "GLD": 1.185
+      "GLD": 1.185,
+      "event": "Rebalance"
     },
     {
       "date": "2020-01-02",
@@ -14166,7 +14217,8 @@
       "IVV": 1.7005,
       "QQQ": 2.1457,
       "SHY": 1.059,
-      "GLD": 1.2303
+      "GLD": 1.2303,
+      "event": "Rebalance"
     },
     {
       "date": "2020-02-04",
@@ -14366,7 +14418,8 @@
       "IVV": 1.6214,
       "QQQ": 2.0882,
       "SHY": 1.0681,
-      "GLD": 1.2373
+      "GLD": 1.2373,
+      "event": "Rebalance"
     },
     {
       "date": "2020-03-03",
@@ -14586,7 +14639,8 @@
       "IVV": 1.2972,
       "QQQ": 1.7629,
       "SHY": 1.0826,
-      "GLD": 1.2393
+      "GLD": 1.2393,
+      "event": "Rebalance"
     },
     {
       "date": "2020-04-02",
@@ -14806,7 +14860,8 @@
       "IVV": 1.4903,
       "QQQ": 2.0571,
       "SHY": 1.0832,
-      "GLD": 1.325
+      "GLD": 1.325,
+      "event": "Rebalance"
     },
     {
       "date": "2020-05-04",
@@ -15016,7 +15071,8 @@
       "IVV": 1.612,
       "QQQ": 2.2632,
       "SHY": 1.0839,
-      "GLD": 1.3572
+      "GLD": 1.3572,
+      "event": "Rebalance"
     },
     {
       "date": "2020-06-02",
@@ -15236,7 +15292,8 @@
       "IVV": 1.6457,
       "QQQ": 2.4263,
       "SHY": 1.0839,
-      "GLD": 1.3817
+      "GLD": 1.3817,
+      "event": "Rebalance"
     },
     {
       "date": "2020-07-02",
@@ -15466,7 +15523,8 @@
       "IVV": 1.7423,
       "QQQ": 2.6093,
       "SHY": 1.0852,
-      "GLD": 1.5394
+      "GLD": 1.5394,
+      "event": "Rebalance"
     },
     {
       "date": "2020-08-04",
@@ -15676,7 +15734,8 @@
       "IVV": 1.8687,
       "QQQ": 2.9051,
       "SHY": 1.0847,
-      "GLD": 1.5345
+      "GLD": 1.5345,
+      "event": "Rebalance"
     },
     {
       "date": "2020-09-02",
@@ -15896,7 +15955,8 @@
       "IVV": 1.7933,
       "QQQ": 2.734,
       "SHY": 1.0847,
-      "GLD": 1.4819
+      "GLD": 1.4819,
+      "event": "Rebalance"
     },
     {
       "date": "2020-10-02",
@@ -16116,7 +16176,8 @@
       "IVV": 1.7569,
       "QQQ": 2.6151,
       "SHY": 1.0845,
-      "GLD": 1.4753
+      "GLD": 1.4753,
+      "event": "Rebalance"
     },
     {
       "date": "2020-11-03",
@@ -16326,7 +16387,8 @@
       "IVV": 1.9475,
       "QQQ": 2.9394,
       "SHY": 1.0841,
-      "GLD": 1.4112
+      "GLD": 1.4112,
+      "event": "Rebalance"
     },
     {
       "date": "2020-12-02",
@@ -16556,7 +16618,8 @@
       "IVV": 1.9991,
       "QQQ": 3.0445,
       "SHY": 1.0852,
-      "GLD": 1.4791
+      "GLD": 1.4791,
+      "event": "Rebalance"
     },
     {
       "date": "2021-01-04",
@@ -16766,7 +16829,8 @@
       "IVV": 2.0108,
       "QQQ": 3.1287,
       "SHY": 1.0855,
-      "GLD": 1.4448
+      "GLD": 1.4448,
+      "event": "Rebalance"
     },
     {
       "date": "2021-02-02",
@@ -16966,7 +17030,8 @@
       "IVV": 2.0823,
       "QQQ": 3.1401,
       "SHY": 1.0847,
-      "GLD": 1.3395
+      "GLD": 1.3395,
+      "event": "Rebalance"
     },
     {
       "date": "2021-03-02",
@@ -17196,7 +17261,8 @@
       "IVV": 2.1484,
       "QQQ": 3.1536,
       "SHY": 1.0842,
-      "GLD": 1.3432
+      "GLD": 1.3432,
+      "event": "Rebalance"
     },
     {
       "date": "2021-04-02",
@@ -17416,7 +17482,8 @@
       "IVV": 2.243,
       "QQQ": 3.2665,
       "SHY": 1.0847,
-      "GLD": 1.3916
+      "GLD": 1.3916,
+      "event": "Rebalance"
     },
     {
       "date": "2021-05-04",
@@ -17626,7 +17693,8 @@
       "IVV": 2.2512,
       "QQQ": 3.2337,
       "SHY": 1.0852,
-      "GLD": 1.4752
+      "GLD": 1.4752,
+      "event": "Rebalance"
     },
     {
       "date": "2021-06-02",
@@ -17846,7 +17914,8 @@
       "IVV": 2.3168,
       "QQQ": 3.4491,
       "SHY": 1.0834,
-      "GLD": 1.3782
+      "GLD": 1.3782,
+      "event": "Rebalance"
     },
     {
       "date": "2021-07-02",
@@ -18066,7 +18135,8 @@
       "IVV": 2.3552,
       "QQQ": 3.5466,
       "SHY": 1.0858,
-      "GLD": 1.4065
+      "GLD": 1.4065,
+      "event": "Rebalance"
     },
     {
       "date": "2021-08-03",
@@ -18286,7 +18356,8 @@
       "IVV": 2.4324,
       "QQQ": 3.7021,
       "SHY": 1.0849,
-      "GLD": 1.4072
+      "GLD": 1.4072,
+      "event": "Rebalance"
     },
     {
       "date": "2021-09-02",
@@ -18506,7 +18577,8 @@
       "IVV": 2.345,
       "QQQ": 3.5075,
       "SHY": 1.0845,
-      "GLD": 1.3649
+      "GLD": 1.3649,
+      "event": "Rebalance"
     },
     {
       "date": "2021-10-04",
@@ -18716,7 +18788,8 @@
       "IVV": 2.4848,
       "QQQ": 3.7729,
       "SHY": 1.0798,
-      "GLD": 1.3892
+      "GLD": 1.3892,
+      "event": "Rebalance"
     },
     {
       "date": "2021-11-02",
@@ -18936,7 +19009,8 @@
       "IVV": 2.4329,
       "QQQ": 3.7699,
       "SHY": 1.0798,
-      "GLD": 1.3779
+      "GLD": 1.3779,
+      "event": "Rebalance"
     },
     {
       "date": "2021-12-02",
@@ -19166,7 +19240,8 @@
       "IVV": 2.5893,
       "QQQ": 3.9166,
       "SHY": 1.0761,
-      "GLD": 1.3959
+      "GLD": 1.3959,
+      "event": "Rebalance"
     },
     {
       "date": "2022-01-04",
@@ -19376,7 +19451,8 @@
       "IVV": 2.4547,
       "QQQ": 3.5641,
       "SHY": 1.0699,
-      "GLD": 1.3951
+      "GLD": 1.3951,
+      "event": "Rebalance"
     },
     {
       "date": "2022-02-02",
@@ -19576,7 +19652,8 @@
       "IVV": 2.3307,
       "QQQ": 3.3297,
       "SHY": 1.0678,
-      "GLD": 1.5061
+      "GLD": 1.5061,
+      "event": "Rebalance"
     },
     {
       "date": "2022-03-02",
@@ -19806,7 +19883,8 @@
       "IVV": 2.4623,
       "QQQ": 3.5326,
       "SHY": 1.0482,
-      "GLD": 1.4885
+      "GLD": 1.4885,
+      "event": "Rebalance"
     },
     {
       "date": "2022-04-04",
@@ -20016,7 +20094,8 @@
       "IVV": 2.2535,
       "QQQ": 3.1092,
       "SHY": 1.0451,
-      "GLD": 1.4398
+      "GLD": 1.4398,
+      "event": "Rebalance"
     },
     {
       "date": "2022-05-03",
@@ -20236,7 +20315,8 @@
       "IVV": 2.228,
       "QQQ": 2.9874,
       "SHY": 1.0495,
-      "GLD": 1.4282
+      "GLD": 1.4282,
+      "event": "Rebalance"
     },
     {
       "date": "2022-06-02",
@@ -20456,7 +20536,8 @@
       "IVV": 2.0806,
       "QQQ": 2.7596,
       "SHY": 1.0483,
-      "GLD": 1.3958
+      "GLD": 1.3958,
+      "event": "Rebalance"
     },
     {
       "date": "2022-07-04",
@@ -20666,7 +20747,8 @@
       "IVV": 2.2427,
       "QQQ": 3.0838,
       "SHY": 1.0494,
-      "GLD": 1.3685
+      "GLD": 1.3685,
+      "event": "Rebalance"
     },
     {
       "date": "2022-08-02",
@@ -20896,7 +20978,8 @@
       "IVV": 2.1645,
       "QQQ": 2.9286,
       "SHY": 1.0402,
-      "GLD": 1.3091
+      "GLD": 1.3091,
+      "event": "Rebalance"
     },
     {
       "date": "2022-09-02",
@@ -21116,7 +21199,8 @@
       "IVV": 2.0097,
       "QQQ": 2.6803,
       "SHY": 1.0308,
-      "GLD": 1.3138
+      "GLD": 1.3138,
+      "event": "Rebalance"
     },
     {
       "date": "2022-10-04",
@@ -21326,7 +21410,8 @@
       "IVV": 2.1086,
       "QQQ": 2.6958,
       "SHY": 1.0262,
-      "GLD": 1.2726
+      "GLD": 1.2726,
+      "event": "Rebalance"
     },
     {
       "date": "2022-11-02",
@@ -21546,7 +21631,8 @@
       "IVV": 2.2336,
       "QQQ": 2.8782,
       "SHY": 1.0366,
-      "GLD": 1.3918
+      "GLD": 1.3918,
+      "event": "Rebalance"
     },
     {
       "date": "2022-12-02",
@@ -21766,7 +21852,8 @@
       "IVV": 2.1065,
       "QQQ": 2.6155,
       "SHY": 1.0356,
-      "GLD": 1.4068
+      "GLD": 1.4068,
+      "event": "Rebalance"
     },
     {
       "date": "2023-01-03",
@@ -21986,7 +22073,8 @@
       "IVV": 2.2625,
       "QQQ": 2.9558,
       "SHY": 1.0454,
-      "GLD": 1.5065
+      "GLD": 1.5065,
+      "event": "Rebalance"
     },
     {
       "date": "2023-02-02",
@@ -22186,7 +22274,8 @@
       "IVV": 2.1741,
       "QQQ": 2.8603,
       "SHY": 1.0333,
-      "GLD": 1.416
+      "GLD": 1.416,
+      "event": "Rebalance"
     },
     {
       "date": "2023-03-02",
@@ -22416,7 +22505,8 @@
       "IVV": 2.2713,
       "QQQ": 3.1495,
       "SHY": 1.0536,
-      "GLD": 1.5303
+      "GLD": 1.5303,
+      "event": "Rebalance"
     },
     {
       "date": "2023-04-04",
@@ -22616,7 +22706,8 @@
       "IVV": 2.2978,
       "QQQ": 3.1696,
       "SHY": 1.0525,
-      "GLD": 1.5256
+      "GLD": 1.5256,
+      "event": "Rebalance"
     },
     {
       "date": "2023-05-02",
@@ -22846,7 +22937,8 @@
       "IVV": 2.333,
       "QQQ": 3.463,
       "SHY": 1.0525,
-      "GLD": 1.5238
+      "GLD": 1.5238,
+      "event": "Rebalance"
     },
     {
       "date": "2023-06-02",
@@ -23066,7 +23158,8 @@
       "IVV": 2.4651,
       "QQQ": 3.6478,
       "SHY": 1.0445,
-      "GLD": 1.48
+      "GLD": 1.48,
+      "event": "Rebalance"
     },
     {
       "date": "2023-07-04",
@@ -23276,7 +23369,8 @@
       "IVV": 2.5344,
       "QQQ": 3.7709,
       "SHY": 1.048,
-      "GLD": 1.4965
+      "GLD": 1.4965,
+      "event": "Rebalance"
     },
     {
       "date": "2023-08-02",
@@ -23506,7 +23600,8 @@
       "IVV": 2.5054,
       "QQQ": 3.7197,
       "SHY": 1.0526,
-      "GLD": 1.4936
+      "GLD": 1.4936,
+      "event": "Rebalance"
     },
     {
       "date": "2023-09-04",
@@ -23716,7 +23811,8 @@
       "IVV": 2.3817,
       "QQQ": 3.564,
       "SHY": 1.0513,
-      "GLD": 1.4068
+      "GLD": 1.4068,
+      "event": "Rebalance"
     },
     {
       "date": "2023-10-03",
@@ -23936,7 +24032,8 @@
       "IVV": 2.3553,
       "QQQ": 3.5216,
       "SHY": 1.0582,
-      "GLD": 1.5218
+      "GLD": 1.5218,
+      "event": "Rebalance"
     },
     {
       "date": "2023-11-02",
@@ -24156,7 +24253,8 @@
       "IVV": 2.5584,
       "QQQ": 3.8469,
       "SHY": 1.07,
-      "GLD": 1.5923
+      "GLD": 1.5923,
+      "event": "Rebalance"
     },
     {
       "date": "2023-12-04",
@@ -24366,7 +24464,8 @@
       "IVV": 2.6606,
       "QQQ": 4.0503,
       "SHY": 1.0787,
-      "GLD": 1.5853
+      "GLD": 1.5853,
+      "event": "Rebalance"
     },
     {
       "date": "2024-01-02",
@@ -24596,7 +24695,8 @@
       "IVV": 2.7387,
       "QQQ": 4.1725,
       "SHY": 1.0837,
-      "GLD": 1.579
+      "GLD": 1.579,
+      "event": "Rebalance"
     },
     {
       "date": "2024-02-02",
@@ -24806,7 +24906,8 @@
       "IVV": 2.8709,
       "QQQ": 4.4072,
       "SHY": 1.08,
-      "GLD": 1.5996
+      "GLD": 1.5996,
+      "event": "Rebalance"
     },
     {
       "date": "2024-03-04",
@@ -25016,7 +25117,8 @@
       "IVV": 2.9331,
       "QQQ": 4.4065,
       "SHY": 1.0794,
-      "GLD": 1.7234
+      "GLD": 1.7234,
+      "event": "Rebalance"
     },
     {
       "date": "2024-04-02",
@@ -25236,7 +25338,8 @@
       "IVV": 2.8101,
       "QQQ": 4.1745,
       "SHY": 1.079,
-      "GLD": 1.7729
+      "GLD": 1.7729,
+      "event": "Rebalance"
     },
     {
       "date": "2024-05-02",
@@ -25466,7 +25569,8 @@
       "IVV": 2.9634,
       "QQQ": 4.4875,
       "SHY": 1.0858,
-      "GLD": 1.8013
+      "GLD": 1.8013,
+      "event": "Rebalance"
     },
     {
       "date": "2024-06-04",
@@ -25666,7 +25770,8 @@
       "IVV": 3.0738,
       "QQQ": 4.7803,
       "SHY": 1.0896,
-      "GLD": 1.7876
+      "GLD": 1.7876,
+      "event": "Rebalance"
     },
     {
       "date": "2024-07-02",
@@ -25896,7 +26001,8 @@
       "IVV": 3.0606,
       "QQQ": 4.5595,
       "SHY": 1.1053,
-      "GLD": 1.8722
+      "GLD": 1.8722,
+      "event": "Rebalance"
     },
     {
       "date": "2024-08-02",
@@ -26116,7 +26222,8 @@
       "IVV": 3.1766,
       "QQQ": 4.7242,
       "SHY": 1.1132,
-      "GLD": 1.918
+      "GLD": 1.918,
+      "event": "Rebalance"
     },
     {
       "date": "2024-09-03",
@@ -26326,7 +26433,8 @@
       "IVV": 3.215,
       "QQQ": 4.7805,
       "SHY": 1.1225,
-      "GLD": 2.0367
+      "GLD": 2.0367,
+      "event": "Rebalance"
     },
     {
       "date": "2024-10-02",
@@ -26556,7 +26664,8 @@
       "IVV": 3.2282,
       "QQQ": 4.8417,
       "SHY": 1.1145,
-      "GLD": 2.0936
+      "GLD": 2.0936,
+      "event": "Rebalance"
     },
     {
       "date": "2024-11-04",
@@ -26766,7 +26875,8 @@
       "IVV": 3.4138,
       "QQQ": 5.1184,
       "SHY": 1.1181,
-      "GLD": 2.0187
+      "GLD": 2.0187,
+      "event": "Rebalance"
     },
     {
       "date": "2024-12-03",
@@ -26986,7 +27096,8 @@
       "IVV": 3.324,
       "QQQ": 5.0863,
       "SHY": 1.1209,
-      "GLD": 2.0079
+      "GLD": 2.0079,
+      "event": "Rebalance"
     },
     {
       "date": "2025-01-02",
@@ -27216,7 +27327,8 @@
       "IVV": 3.3918,
       "QQQ": 5.1548,
       "SHY": 1.1244,
-      "GLD": 2.1556
+      "GLD": 2.1556,
+      "event": "Rebalance"
     },
     {
       "date": "2025-02-04",
@@ -27416,7 +27528,8 @@
       "IVV": 3.3133,
       "QQQ": 4.9452,
       "SHY": 1.1342,
-      "GLD": 2.212
+      "GLD": 2.212,
+      "event": "Rebalance"
     },
     {
       "date": "2025-03-04",
@@ -27626,7 +27739,8 @@
       "IVV": 3.1933,
       "QQQ": 4.71,
       "SHY": 1.1388,
-      "GLD": 2.3847
+      "GLD": 2.3847,
+      "event": "Rebalance"
     },
     {
       "date": "2025-04-02",
@@ -27846,7 +27960,8 @@
       "IVV": 3.1782,
       "QQQ": 4.7995,
       "SHY": 1.1453,
-      "GLD": 2.4667
+      "GLD": 2.4667,
+      "event": "Rebalance"
     },
     {
       "date": "2025-05-02",
@@ -28066,7 +28181,8 @@
       "IVV": 3.3735,
       "QQQ": 5.2133,
       "SHY": 1.1438,
-      "GLD": 2.5845
+      "GLD": 2.5845,
+      "event": "Rebalance"
     },
     {
       "date": "2025-06-03",
@@ -28276,7 +28392,8 @@
       "IVV": 3.5265,
       "QQQ": 5.4563,
       "SHY": 1.1503,
-      "GLD": 2.5504
+      "GLD": 2.5504,
+      "event": "Rebalance"
     },
     {
       "date": "2025-07-02",
@@ -28506,7 +28623,8 @@
       "IVV": 3.5491,
       "QQQ": 5.525,
       "SHY": 1.1561,
-      "GLD": 2.5633
+      "GLD": 2.5633,
+      "event": "Rebalance"
     },
     {
       "date": "2025-08-04",
@@ -28716,7 +28834,8 @@
       "IVV": 3.6836,
       "QQQ": 5.6898,
       "SHY": 1.1606,
-      "GLD": 2.6376
+      "GLD": 2.6376,
+      "event": "Rebalance"
     },
     {
       "date": "2025-09-02",
@@ -28936,7 +29055,8 @@
       "IVV": 3.8287,
       "QQQ": 6.0245,
       "SHY": 1.1653,
-      "GLD": 2.9524
+      "GLD": 2.9524,
+      "event": "Rebalance"
     },
     {
       "date": "2025-10-02",
@@ -29166,7 +29286,8 @@
       "IVV": 3.9134,
       "QQQ": 6.3124,
       "SHY": 1.1679,
-      "GLD": 3.0581
+      "GLD": 3.0581,
+      "event": "Rebalance"
     },
     {
       "date": "2025-11-04",
@@ -29366,7 +29487,8 @@
       "IVV": 3.8961,
       "QQQ": 6.1635,
       "SHY": 1.172,
-      "GLD": 3.232
+      "GLD": 3.232,
+      "event": "Rebalance"
     },
     {
       "date": "2025-12-02",
@@ -29596,7 +29718,8 @@
       "IVV": 3.9172,
       "QQQ": 6.1429,
       "SHY": 1.1764,
-      "GLD": 3.2864
+      "GLD": 3.2864,
+      "event": "Rebalance"
     },
     {
       "date": "2026-01-02",
@@ -29816,7 +29939,8 @@
       "IVV": 3.995,
       "QQQ": 6.2612,
       "SHY": 1.1783,
-      "GLD": 3.542
+      "GLD": 3.542,
+      "event": "Rebalance"
     },
     {
       "date": "2026-02-03",
@@ -30016,7 +30140,8 @@
       "IVV": 3.943,
       "QQQ": 6.0807,
       "SHY": 1.183,
-      "GLD": 4.0634
+      "GLD": 4.0634,
+      "event": "Rebalance"
     },
     {
       "date": "2026-03-03",
