@@ -2,157 +2,19 @@
 <html lang="en">
   <head>
     <meta charset="UTF-8" />
+    <link rel="icon" type="image/svg+xml" href="./favicon.svg" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Portfolio Backtest Reports</title>
-    <style>
-      body {
-        font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
-        background-color: #f4f7f6;
-        color: #333;
-        margin: 0;
-        padding: 40px;
-      }
-      .container {
-        max-width: 900px;
-        margin: auto;
-        background: white;
-        padding: 40px;
-        border-radius: 12px;
-        box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1);
-      }
-      h1 {
-        color: #2c3e50;
-        border-bottom: 2px solid #3498db;
-        padding-bottom: 15px;
-        margin-bottom: 30px;
-        text-align: center;
-      }
-      .report-list {
-        list-style: none;
-        padding: 0;
-      }
-      .report-item {
-        background: #fff;
-        margin-bottom: 15px;
-        padding: 20px;
-        border-radius: 8px;
-        border: 1px solid #eee;
-        transition:
-          transform 0.2s,
-          box-shadow 0.2s;
-        display: flex;
-        justify-content: space-between;
-        align-items: center;
-      }
-      .report-item:hover {
-        transform: translateY(-2px);
-        box-shadow: 0 4px 12px rgba(0, 0, 0, 0.05);
-        border-color: #3498db;
-      }
-      .report-info {
-        flex-grow: 1;
-      }
-      .report-name {
-        font-size: 18px;
-        font-weight: bold;
-        color: #2c3e50;
-        margin-bottom: 5px;
-        display: block;
-      }
-      .report-meta {
-        font-size: 13px;
-        color: #7f8c8d;
-      }
-      .report-links {
-        display: flex;
-        gap: 10px;
-      }
-      .btn {
-        text-decoration: none;
-        padding: 8px 16px;
-        border-radius: 4px;
-        font-size: 14px;
-        font-weight: bold;
-        transition: background 0.2s;
-      }
-      .btn-en {
-        background-color: #3498db;
-        color: white;
-      }
-      .btn-en:hover {
-        background-color: #2980b9;
-      }
-      .btn-ko {
-        background-color: #2ecc71;
-        color: white;
-      }
-      .btn-ko:hover {
-        background-color: #27ae60;
-      }
-      .empty-message {
-        text-align: center;
-        color: #bdc3c7;
-        font-style: italic;
-        margin-top: 40px;
-      }
-      .footer {
-        margin-top: 50px;
-        text-align: center;
-        font-size: 12px;
-        color: #bdc3c7;
-        border-top: 1px solid #eee;
-        padding-top: 20px;
-      }
-    </style>
+    <title>Stock Portfolio Backtest Report</title>
+    <script type="module" crossorigin src="./assets/index-CM4qu4SU.js"></script>
+    <link rel="stylesheet" crossorigin href="./assets/index-DCKiBlc_.css">
+  
+    <script>
+      window.__INITIAL_DATA__ = null;
+      window.__INITIAL_REPORTS__ = [{"name":"Ray Dalio All Weather Imitation","folder":"Ray_Dalio_All_Weather_Imitation","time":"2026-03-15 13:14:00","currency":"USD"},{"name":"Global Balanced Core","folder":"Global_Balanced_Core","time":"2026-03-15 13:13:50","currency":"USD"},{"name":"Pure Tech Growth","folder":"Pure_Tech_Growth","time":"2026-03-15 13:10:45","currency":"USD"}];
+      window.__INITIAL_SELECTED_FOLDER__ = "";
+    </script>
   </head>
   <body>
-    <div class="container">
-      <h1>📊 Backtest Reports</h1>
-
-      <ul class="report-list">
-        
-                <li class="report-item">
-                    <div class="report-info">
-                        <span class="report-name">Global All Weather Innovation Quarterly</span>
-                        <div class="report-meta">
-                            Generated: 2026-03-14 23:32:48 | Currency: USD
-                        </div>
-                    </div>
-                    <div class="report-links">
-                        <a href="Global_All_Weather_Innovation_Quarterly/index.html" class="btn btn-en">English</a>
-                        <a href="Global_All_Weather_Innovation_Quarterly/ko/index.html" class="btn btn-ko">한국어</a>
-                    </div>
-                </li>
-                
-                <li class="report-item">
-                    <div class="report-info">
-                        <span class="report-name">Ray Dalio All Weather Imitation</span>
-                        <div class="report-meta">
-                            Generated: 2026-03-14 15:30:22 | Currency: USD
-                        </div>
-                    </div>
-                    <div class="report-links">
-                        <a href="Ray_Dalio_All_Weather_Imitation/index.html" class="btn btn-en">English</a>
-                        <a href="Ray_Dalio_All_Weather_Imitation/ko/index.html" class="btn btn-ko">한국어</a>
-                    </div>
-                </li>
-                
-                <li class="report-item">
-                    <div class="report-info">
-                        <span class="report-name">Global_Balanced_Core</span>
-                        <div class="report-meta">
-                            Generated:  | Currency: USD
-                        </div>
-                    </div>
-                    <div class="report-links">
-                        <a href="Global_Balanced_Core/index.html" class="btn btn-en">English</a>
-                        <a href="Global_Balanced_Core/ko/index.html" class="btn btn-ko">한국어</a>
-                    </div>
-                </li>
-                
-      </ul>
-
-      <div class="footer">Generated by Stock Market Backtesting System</div>
-    </div>
+    <div id="root"><div class="min-h-screen bg-slate-50 py-12 px-4 sm:px-6"><div class="max-w-4xl mx-auto"><header class="mb-12 text-center"><div class="inline-flex items-center justify-center p-3 bg-blue-600 rounded-2xl mb-6 shadow-lg shadow-blue-200"><svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-chart-column text-white" aria-hidden="true"><path d="M3 3v16a2 2 0 0 0 2 2h16"></path><path d="M18 17V9"></path><path d="M13 17V5"></path><path d="M8 17v-3"></path></svg></div><h1 class="text-4xl font-black text-slate-900 tracking-tight mb-4">Portfolio Backtest Reports</h1><p class="text-slate-500 text-lg">Select a portfolio strategy below to view detailed performance metrics and history.</p></header><div class="grid gap-6"><a class="group block bg-white border border-slate-200 p-6 rounded-2xl shadow-sm hover:shadow-xl hover:border-blue-300 transition-all duration-300" href="/report/Ray_Dalio_All_Weather_Imitation/" data-discover="true"><div class="flex items-center justify-between"><div class="space-y-1"><h2 class="text-xl font-bold text-slate-800 group-hover:text-blue-600 transition-colors">Ray Dalio All Weather Imitation</h2><div class="flex items-center gap-4 text-sm text-slate-400"><span class="flex items-center gap-1"><svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-calendar" aria-hidden="true"><path d="M8 2v4"></path><path d="M16 2v4"></path><rect width="18" height="18" x="3" y="4" rx="2"></rect><path d="M3 10h18"></path></svg> <!-- -->2026-03-15 13:14:00</span><span>•</span><span class="font-medium text-slate-500">USD<!-- --> Portfolio</span></div></div><div class="p-2 bg-slate-50 rounded-full group-hover:bg-blue-50 group-hover:text-blue-600 transition-colors"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-chevron-right" aria-hidden="true"><path d="m9 18 6-6-6-6"></path></svg></div></div></a><a class="group block bg-white border border-slate-200 p-6 rounded-2xl shadow-sm hover:shadow-xl hover:border-blue-300 transition-all duration-300" href="/report/Global_Balanced_Core/" data-discover="true"><div class="flex items-center justify-between"><div class="space-y-1"><h2 class="text-xl font-bold text-slate-800 group-hover:text-blue-600 transition-colors">Global Balanced Core</h2><div class="flex items-center gap-4 text-sm text-slate-400"><span class="flex items-center gap-1"><svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-calendar" aria-hidden="true"><path d="M8 2v4"></path><path d="M16 2v4"></path><rect width="18" height="18" x="3" y="4" rx="2"></rect><path d="M3 10h18"></path></svg> <!-- -->2026-03-15 13:13:50</span><span>•</span><span class="font-medium text-slate-500">USD<!-- --> Portfolio</span></div></div><div class="p-2 bg-slate-50 rounded-full group-hover:bg-blue-50 group-hover:text-blue-600 transition-colors"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-chevron-right" aria-hidden="true"><path d="m9 18 6-6-6-6"></path></svg></div></div></a><a class="group block bg-white border border-slate-200 p-6 rounded-2xl shadow-sm hover:shadow-xl hover:border-blue-300 transition-all duration-300" href="/report/Pure_Tech_Growth/" data-discover="true"><div class="flex items-center justify-between"><div class="space-y-1"><h2 class="text-xl font-bold text-slate-800 group-hover:text-blue-600 transition-colors">Pure Tech Growth</h2><div class="flex items-center gap-4 text-sm text-slate-400"><span class="flex items-center gap-1"><svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-calendar" aria-hidden="true"><path d="M8 2v4"></path><path d="M16 2v4"></path><rect width="18" height="18" x="3" y="4" rx="2"></rect><path d="M3 10h18"></path></svg> <!-- -->2026-03-15 13:10:45</span><span>•</span><span class="font-medium text-slate-500">USD<!-- --> Portfolio</span></div></div><div class="p-2 bg-slate-50 rounded-full group-hover:bg-blue-50 group-hover:text-blue-600 transition-colors"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-chevron-right" aria-hidden="true"><path d="m9 18 6-6-6-6"></path></svg></div></div></a></div><footer class="mt-20 text-center text-slate-400 text-xs uppercase tracking-widest">© 2026 Stock Portfolio Backtesting System</footer></div></div></div>
   </body>
 </html>

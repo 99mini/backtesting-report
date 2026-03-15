@@ -1,7 +1,7 @@
 {
   "portfolio_name": "Ray Dalio All Weather Imitation",
   "currency": "USD",
-  "initial_capital": 100000,
-  "generation_time": "2026-03-14 15:30:22",
+  "initial_capital": 100000.0,
+  "generation_time": "2026-03-15 13:14:00",
   "ai_summary": null
 }
